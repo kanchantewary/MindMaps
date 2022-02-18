@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T06:01:00.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="HkQbJ2hW14OvIM2ECmFY" version="16.6.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-02-18T06:10:01.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="ZcVEkj7vD4EVvu9907Lz" version="16.6.1" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Compute">
     <mxGraphModel dx="1752" dy="1705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1152,7 +1152,7 @@
         <mxCell id="R1SfV70Lac_y3mUH2JIA-1" value="RBAC" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=0" parent="I8ZElG1mZqVRISIKYr3j-1" vertex="1">
           <mxGeometry x="524" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVak4tgWqwQQRSHFCKdp-0" value="&lt;ul&gt;&lt;li&gt;Built-in roles&lt;/li&gt;&lt;li&gt;custom roles&lt;/li&gt;&lt;li&gt;attach a role definition (actions and notactions) to a user, group, service principal, or managed identity at a particular scope (Management Group, subscription, resource group or resource).&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="I8ZElG1mZqVRISIKYr3j-1" vertex="1">
+        <mxCell id="PVak4tgWqwQQRSHFCKdp-0" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="I8ZElG1mZqVRISIKYr3j-1" vertex="1">
           <mxGeometry x="730" y="-140" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PVak4tgWqwQQRSHFCKdp-1" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="I8ZElG1mZqVRISIKYr3j-1" vertex="1">
@@ -1550,113 +1550,110 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9FtPHrtcWBNv9ISpSVu7" name="Design Principles">
-    <mxGraphModel dx="925" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="IblkD8rgYrrPWEfAffwD-0" />
         <mxCell id="IblkD8rgYrrPWEfAffwD-1" parent="IblkD8rgYrrPWEfAffwD-0" />
-        <mxCell id="dhVW2rNYbixpMh9WJ0yK-0" value="Design for self&lt;br&gt;healing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="IblkD8rgYrrPWEfAffwD-1">
+        <mxCell id="dhVW2rNYbixpMh9WJ0yK-0" value="Design for self&lt;br&gt;healing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="IblkD8rgYrrPWEfAffwD-1" vertex="1">
           <mxGeometry x="230" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhVW2rNYbixpMh9WJ0yK-1" value="Partition &lt;br&gt;around limits" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="IblkD8rgYrrPWEfAffwD-1">
+        <mxCell id="dhVW2rNYbixpMh9WJ0yK-1" value="Partition &lt;br&gt;around limits" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="IblkD8rgYrrPWEfAffwD-1" vertex="1">
           <mxGeometry x="540" y="253" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhVW2rNYbixpMh9WJ0yK-2" value="Design &lt;br&gt;to scale out" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="IblkD8rgYrrPWEfAffwD-1">
+        <mxCell id="dhVW2rNYbixpMh9WJ0yK-2" value="Design &lt;br&gt;to scale out" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="IblkD8rgYrrPWEfAffwD-1" vertex="1">
           <mxGeometry x="540" y="182" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhVW2rNYbixpMh9WJ0yK-3" value="Minimize &lt;br&gt;coordination" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="IblkD8rgYrrPWEfAffwD-1">
+        <mxCell id="dhVW2rNYbixpMh9WJ0yK-3" value="Minimize &lt;br&gt;coordination" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="IblkD8rgYrrPWEfAffwD-1" vertex="1">
           <mxGeometry x="540" y="111" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhVW2rNYbixpMh9WJ0yK-4" value="Make all things redundant" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="IblkD8rgYrrPWEfAffwD-1">
+        <mxCell id="dhVW2rNYbixpMh9WJ0yK-4" value="Make all things redundant" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="IblkD8rgYrrPWEfAffwD-1" vertex="1">
           <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhVW2rNYbixpMh9WJ0yK-5" value="Design &lt;br&gt;for operations" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="IblkD8rgYrrPWEfAffwD-1">
+        <mxCell id="dhVW2rNYbixpMh9WJ0yK-5" value="Design &lt;br&gt;for operations" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="IblkD8rgYrrPWEfAffwD-1" vertex="1">
           <mxGeometry x="355" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhVW2rNYbixpMh9WJ0yK-6" value="Use managed&lt;br&gt;services" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="IblkD8rgYrrPWEfAffwD-1">
+        <mxCell id="dhVW2rNYbixpMh9WJ0yK-6" value="Use managed&lt;br&gt;services" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="IblkD8rgYrrPWEfAffwD-1" vertex="1">
           <mxGeometry x="225" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhVW2rNYbixpMh9WJ0yK-7" value="Use best data store for the job" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="IblkD8rgYrrPWEfAffwD-1">
+        <mxCell id="dhVW2rNYbixpMh9WJ0yK-7" value="Use best data store for the job" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="IblkD8rgYrrPWEfAffwD-1" vertex="1">
           <mxGeometry x="40" y="179" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhVW2rNYbixpMh9WJ0yK-8" value="&lt;h2&gt;Design Principles&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;fontFamily=Tahoma;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IblkD8rgYrrPWEfAffwD-1">
+        <mxCell id="dhVW2rNYbixpMh9WJ0yK-8" value="&lt;h2&gt;Design Principles&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;fontFamily=Tahoma;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="IblkD8rgYrrPWEfAffwD-1" vertex="1">
           <mxGeometry x="190" y="120" width="320" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="dhVW2rNYbixpMh9WJ0yK-9" value="Design for evolution" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="IblkD8rgYrrPWEfAffwD-1">
+        <mxCell id="dhVW2rNYbixpMh9WJ0yK-9" value="Design for evolution" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="IblkD8rgYrrPWEfAffwD-1" vertex="1">
           <mxGeometry x="40" y="108" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhVW2rNYbixpMh9WJ0yK-10" value="build for the need of business" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="IblkD8rgYrrPWEfAffwD-1">
+        <mxCell id="dhVW2rNYbixpMh9WJ0yK-10" value="build for the need of business" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="IblkD8rgYrrPWEfAffwD-1" vertex="1">
           <mxGeometry x="40" y="253" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="yjJ2Uvu6Lqyqdoba7a75" name="IoT">
-    <mxGraphModel dx="804" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="LtZiCpY-84f6tLsCK7bx" name="Editions">
+    <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
-        <mxCell id="iUlaBuNVfyFyLounxNcn-0" />
-        <mxCell id="iUlaBuNVfyFyLounxNcn-1" parent="iUlaBuNVfyFyLounxNcn-0" />
-        <mxCell id="HT9v6x6E8yqjint_MJzI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;" edge="1" parent="iUlaBuNVfyFyLounxNcn-1" source="35Zs8oj1oLFFXFO7BYHt-0" target="HT9v6x6E8yqjint_MJzI-6">
+        <mxCell id="HvkJfbxAIFK8lNL6DU89-0" />
+        <mxCell id="HvkJfbxAIFK8lNL6DU89-1" parent="HvkJfbxAIFK8lNL6DU89-0" />
+        <mxCell id="LGAu-1AWbNAaCffHML-8-0" value="Design for self&lt;br&gt;healing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+          <mxGeometry x="230" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGAu-1AWbNAaCffHML-8-1" value="Partition &lt;br&gt;around limits" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+          <mxGeometry x="540" y="253" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGAu-1AWbNAaCffHML-8-2" value="Design &lt;br&gt;to scale out" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+          <mxGeometry x="540" y="182" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGAu-1AWbNAaCffHML-8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-3" target="LGAu-1AWbNAaCffHML-8-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="35Zs8oj1oLFFXFO7BYHt-0" value="Azure IoT Central" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="iUlaBuNVfyFyLounxNcn-1">
-          <mxGeometry x="640" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HT9v6x6E8yqjint_MJzI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;" edge="1" parent="iUlaBuNVfyFyLounxNcn-1" source="35Zs8oj1oLFFXFO7BYHt-1" target="HT9v6x6E8yqjint_MJzI-3">
+        <mxCell id="LGAu-1AWbNAaCffHML-8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-3" target="LGAu-1AWbNAaCffHML-8-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="35Zs8oj1oLFFXFO7BYHt-1" value="Azure Sphere" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="iUlaBuNVfyFyLounxNcn-1">
-          <mxGeometry x="460" y="405" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HT9v6x6E8yqjint_MJzI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;" edge="1" parent="iUlaBuNVfyFyLounxNcn-1" source="35Zs8oj1oLFFXFO7BYHt-2" target="HT9v6x6E8yqjint_MJzI-2">
+        <mxCell id="LGAu-1AWbNAaCffHML-8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-3" target="LGAu-1AWbNAaCffHML-8-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="35Zs8oj1oLFFXFO7BYHt-2" value="Azure RTOS (Real Time Operating System)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="iUlaBuNVfyFyLounxNcn-1">
-          <mxGeometry x="950" y="440.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HT9v6x6E8yqjint_MJzI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;" edge="1" parent="iUlaBuNVfyFyLounxNcn-1" source="35Zs8oj1oLFFXFO7BYHt-3" target="HT9v6x6E8yqjint_MJzI-1">
+        <mxCell id="LGAu-1AWbNAaCffHML-8-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-3" target="LGAu-1AWbNAaCffHML-8-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="35Zs8oj1oLFFXFO7BYHt-3" value="Azure IoT Edge" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="iUlaBuNVfyFyLounxNcn-1">
-          <mxGeometry x="950" y="369.5" width="120" height="60" as="geometry" />
+        <mxCell id="LGAu-1AWbNAaCffHML-8-3" value="Editions" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+          <mxGeometry x="540" y="111" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HT9v6x6E8yqjint_MJzI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;" edge="1" parent="iUlaBuNVfyFyLounxNcn-1" source="35Zs8oj1oLFFXFO7BYHt-4" target="HT9v6x6E8yqjint_MJzI-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LGAu-1AWbNAaCffHML-8-4" value="Make all things redundant" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="35Zs8oj1oLFFXFO7BYHt-4" value="Azure IoT Hub" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="iUlaBuNVfyFyLounxNcn-1">
-          <mxGeometry x="770" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="LGAu-1AWbNAaCffHML-8-5" value="Design &lt;br&gt;for operations" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+          <mxGeometry x="355" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HT9v6x6E8yqjint_MJzI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;" edge="1" parent="iUlaBuNVfyFyLounxNcn-1" source="35Zs8oj1oLFFXFO7BYHt-6" target="HT9v6x6E8yqjint_MJzI-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LGAu-1AWbNAaCffHML-8-6" value="Use managed&lt;br&gt;services" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+          <mxGeometry x="225" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="35Zs8oj1oLFFXFO7BYHt-6" value="Azure Digital Twins" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="iUlaBuNVfyFyLounxNcn-1">
-          <mxGeometry x="706" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="LGAu-1AWbNAaCffHML-8-7" value="Use best data store for the job" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+          <mxGeometry x="40" y="179" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="35Zs8oj1oLFFXFO7BYHt-8" value="&lt;h2&gt;IoT&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;fontFamily=Tahoma;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="iUlaBuNVfyFyLounxNcn-1">
-          <mxGeometry x="600" y="340" width="320" height="170" as="geometry" />
+        <mxCell id="LGAu-1AWbNAaCffHML-8-8" value="&lt;h2&gt;Overview&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;fontFamily=Tahoma;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+          <mxGeometry x="190" y="120" width="320" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="HT9v6x6E8yqjint_MJzI-1" value="Edge Computing" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" vertex="1" parent="iUlaBuNVfyFyLounxNcn-1">
-          <mxGeometry x="1130" y="330" width="190" height="70" as="geometry" />
+        <mxCell id="LGAu-1AWbNAaCffHML-8-9" value="Design for evolution" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+          <mxGeometry x="40" y="108" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HT9v6x6E8yqjint_MJzI-2" value="Azure RTOS is an embedded development suite including a small but powerful operating system" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" vertex="1" parent="iUlaBuNVfyFyLounxNcn-1">
-          <mxGeometry x="1130" y="460" width="190" height="70" as="geometry" />
+        <mxCell id="LGAu-1AWbNAaCffHML-8-10" value="build for the need of business" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+          <mxGeometry x="40" y="253" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HT9v6x6E8yqjint_MJzI-3" value="IoT security solution for IoT devices and microcontrollers." style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" vertex="1" parent="iUlaBuNVfyFyLounxNcn-1">
-          <mxGeometry x="230" y="400" width="190" height="70" as="geometry" />
+        <mxCell id="LGAu-1AWbNAaCffHML-8-20" value="" style="group" vertex="1" connectable="0" parent="HvkJfbxAIFK8lNL6DU89-1">
+          <mxGeometry x="760" y="6" width="80" height="234" as="geometry" />
         </mxCell>
-        <mxCell id="HT9v6x6E8yqjint_MJzI-4" value="Azure Digital Twins is an Internet of Things (IoT) platform that enables you to create a digital representation of real-world things, places, business processes and people." style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" vertex="1" parent="iUlaBuNVfyFyLounxNcn-1">
-          <mxGeometry x="670" y="620" width="190" height="70" as="geometry" />
+        <mxCell id="LGAu-1AWbNAaCffHML-8-12" value="Editions" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="LGAu-1AWbNAaCffHML-8-20">
+          <mxGeometry y="181.99999999999997" width="80" height="51.99999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="PWIGLpNAWuSlTCtBGRwu-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;" edge="1" parent="iUlaBuNVfyFyLounxNcn-1" source="HT9v6x6E8yqjint_MJzI-5" target="PWIGLpNAWuSlTCtBGRwu-0">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LGAu-1AWbNAaCffHML-8-13" value="Editions" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="LGAu-1AWbNAaCffHML-8-20">
+          <mxGeometry y="120.46666666666664" width="80" height="51.99999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="HT9v6x6E8yqjint_MJzI-5" value="acts as a central message hub for communication between an IoT application and its attached devices.&lt;br&gt;integrate IoT Hub with other Azure services to build complete, end-to-end solutions" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" vertex="1" parent="iUlaBuNVfyFyLounxNcn-1">
-          <mxGeometry x="800" y="130" width="220" height="80" as="geometry" />
+        <mxCell id="LGAu-1AWbNAaCffHML-8-14" value="Editions" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="LGAu-1AWbNAaCffHML-8-20">
+          <mxGeometry y="61.53333333333332" width="80" height="51.99999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="HT9v6x6E8yqjint_MJzI-6" value="IoT application platform.&amp;nbsp; Using web UI, connect devices, monitor device conditions, create rules, and manage devices and their data throughout their life cycle." style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" vertex="1" parent="iUlaBuNVfyFyLounxNcn-1">
-          <mxGeometry x="510" y="140" width="190" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="PWIGLpNAWuSlTCtBGRwu-0" value="SLA = 99.9%&lt;br&gt;" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientColor=none;rounded=1;" vertex="1" parent="iUlaBuNVfyFyLounxNcn-1">
-          <mxGeometry x="1050" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="LGAu-1AWbNAaCffHML-8-15" value="standard" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="LGAu-1AWbNAaCffHML-8-20">
+          <mxGeometry width="80" height="51.99999999999999" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

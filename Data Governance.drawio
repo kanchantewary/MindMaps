@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T13:27:01.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="tagGlA-a2Cln4DQ8ZDnD" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-18T13:27:25.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="o4jLrziddFtmtH_5S1hU" version="16.6.1" type="github">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,7 +40,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PnDO7gSJsQFraJC6xpwz-16" value="resource sets" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="1" source="PnDO7gSJsQFraJC6xpwz-9" target="PnDO7gSJsQFraJC6xpwz-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.4118" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="200" />
+              <mxPoint x="900" y="260" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PnDO7gSJsQFraJC6xpwz-9" value="Data Map" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="760" y="170" width="120" height="60" as="geometry" />
@@ -52,7 +58,7 @@
           <mxGeometry x="920" y="-10" width="280" height="130" as="geometry" />
         </mxCell>
         <mxCell id="PnDO7gSJsQFraJC6xpwz-15" value="Data Map" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

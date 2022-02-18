@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T05:55:47.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="Ks7Dttti8WnAWWiJNY19" version="16.6.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-02-18T05:56:45.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="FyUmdTk_DCFMEZd_DYAG" version="16.6.1" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Compute">
     <mxGraphModel dx="1752" dy="1705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -446,7 +446,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zN7WlV9ezd0j5-uDfCWz" name="Authentication">
-    <mxGraphModel dx="1775" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2171" dy="1866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="1ZeXH9hcjCoo1fI3DfhY-0" />
         <mxCell id="1ZeXH9hcjCoo1fI3DfhY-1" parent="1ZeXH9hcjCoo1fI3DfhY-0" />
@@ -519,62 +519,38 @@
         <mxCell id="zrdlkC7EZT5pfIqUNcDc-18" value="&lt;h3&gt;Authentication&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;fontFamily=Tahoma;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
           <mxGeometry x="190" y="120" width="300" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="TTRVOBk_0m0tAYUCcANo-0" value="&lt;strong&gt;user/devices&lt;/strong&gt; are added to a group based on certain rules and the attributes of the user/device automatically. It can either be dynamic device group or a dynamic user group" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
+        <mxCell id="TTRVOBk_0m0tAYUCcANo-0" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
           <mxGeometry x="45" y="-90" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TTRVOBk_0m0tAYUCcANo-1" value="either for selected groups or for all, decide the available methods to user" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
+        <mxCell id="TTRVOBk_0m0tAYUCcANo-1" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
           <mxGeometry x="250" y="-90" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TTRVOBk_0m0tAYUCcANo-2" value="Standard&lt;br&gt;Premium P1&lt;br&gt;Premium P2" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
+        <mxCell id="TTRVOBk_0m0tAYUCcANo-2" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
           <mxGeometry x="520" y="-90" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Vf5aqie4InsufaOcdz5s-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;" parent="1ZeXH9hcjCoo1fI3DfhY-1" source="TTRVOBk_0m0tAYUCcANo-3" target="Vf5aqie4InsufaOcdz5s-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Vf5aqie4InsufaOcdz5s-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;" parent="1ZeXH9hcjCoo1fI3DfhY-1" source="TTRVOBk_0m0tAYUCcANo-3" target="Vf5aqie4InsufaOcdz5s-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Vf5aqie4InsufaOcdz5s-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;" parent="1ZeXH9hcjCoo1fI3DfhY-1" source="TTRVOBk_0m0tAYUCcANo-3" target="Vf5aqie4InsufaOcdz5s-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TTRVOBk_0m0tAYUCcANo-3" value="&lt;div&gt;on-prem: sync component - installed on a Windows server, Requires Enterprise Admin account, DNS resolution on both intranet and internet&lt;/div&gt;&lt;div&gt;cloud: sync service running on Azure AD, Requires a Global Admin account to configure&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
+        <mxCell id="TTRVOBk_0m0tAYUCcANo-3" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
           <mxGeometry x="680" y="240" width="250" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Vf5aqie4InsufaOcdz5s-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1ZeXH9hcjCoo1fI3DfhY-1" source="TTRVOBk_0m0tAYUCcANo-3" target="Vf5aqie4InsufaOcdz5s-0" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TTRVOBk_0m0tAYUCcANo-4" value="&lt;div&gt;Detects anonymous IP address, Atypical travel (sign-in location is not normally used), unfamiliar sign-in properties&lt;/div&gt;&lt;div&gt;reports risky users, risky sign-ins, risk detections. create mitigation policies. It is a Premium P2 License feature.&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
+        <mxCell id="TTRVOBk_0m0tAYUCcANo-4" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
           <mxGeometry x="680" y="90" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TTRVOBk_0m0tAYUCcANo-5" value="&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Requires Premium P2 License&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Provide &lt;strong&gt;just in time (JIT) access&lt;/strong&gt; privileged access to Azure AD and Azure resources ( &lt;strong&gt;Security center can provide JIT access to VMs only&lt;/strong&gt;)&lt;/li&gt;&lt;li&gt;Assign &lt;strong&gt;time-bound&lt;/strong&gt; access to resources using start and end dates&lt;/li&gt;&lt;li&gt;Require approval to activate privileged roles&lt;/li&gt;&lt;li&gt;Enforce MFA to activate any role&lt;/li&gt;&lt;li&gt;Get notification when privileged roles are activated&lt;/li&gt;&lt;li&gt;Conduct &lt;strong&gt;access reviews&lt;/strong&gt; to ensure users still need roles&lt;/li&gt;&lt;li&gt;to enable PIM, log in as Global Admin for the directory&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
+        <mxCell id="TTRVOBk_0m0tAYUCcANo-5" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
           <mxGeometry x="-380" y="-10" width="360" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="TTRVOBk_0m0tAYUCcANo-6" value="provides managed domain services such as &lt;strong&gt;domain&lt;/strong&gt; &lt;strong&gt;join&lt;/strong&gt;, &lt;strong&gt;group&lt;/strong&gt; &lt;strong&gt;policy&lt;/strong&gt;, lightweight directory access protocol (&lt;strong&gt;LDAP&lt;/strong&gt;), and &lt;strong&gt;Kerberos&lt;/strong&gt;/&lt;strong&gt;NTLM&lt;/strong&gt; authentication. You use these domain services without the need to deploy, manage, and patch domain controllers (DCs) in the cloud." style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
+        <mxCell id="TTRVOBk_0m0tAYUCcANo-6" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
           <mxGeometry x="-380" y="177" width="360" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="TTRVOBk_0m0tAYUCcANo-7" value="&lt;ul&gt;&lt;li&gt;Buy a domain from a domain provider&lt;/li&gt;&lt;li&gt;&lt;strong&gt;add a custom domain in Azure AD&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;azure provides the &lt;strong&gt;TXT&lt;/strong&gt; record with details e.g. host, destination, TTL, which should be provided to the domain provider&lt;/li&gt;&lt;li&gt;Add a record in custom domain provider portal, and add the TXT values. The record should be propagated around the world&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Azure AD verifies the domain name&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Domain name is verified by Azure&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
+        <mxCell id="TTRVOBk_0m0tAYUCcANo-7" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
           <mxGeometry x="-370" y="300" width="350" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TTRVOBk_0m0tAYUCcANo-8" value="&lt;span&gt;SMS,&amp;nbsp;&lt;/span&gt;&lt;span&gt;Call,&amp;nbsp;&lt;/span&gt;&lt;span&gt;Notification through Mobile app&lt;/span&gt;&lt;br&gt;&lt;span&gt;Verification code from mobile app or hardware token.&amp;nbsp;&lt;/span&gt;&lt;span&gt;User chooses the preferred option&lt;br&gt;&lt;/span&gt;Trusted IPs&lt;br&gt;Trusted devices&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
+        <mxCell id="TTRVOBk_0m0tAYUCcANo-8" value="&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
           <mxGeometry x="440" y="440" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TTRVOBk_0m0tAYUCcANo-9" value="&lt;p&gt;if-else statements to&amp;nbsp;&lt;span&gt;enforce org policies&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;conditions:&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Sign in risk&lt;/li&gt;&lt;li&gt;Device platform&lt;/li&gt;&lt;li&gt;locations&lt;/li&gt;&lt;li&gt;client apps&lt;/li&gt;&lt;li&gt;device state&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
+        <mxCell id="TTRVOBk_0m0tAYUCcANo-9" value="&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
           <mxGeometry x="235" y="440" width="190" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="TTRVOBk_0m0tAYUCcANo-10" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Premium P2 licenses are not required for Global Admin or User Admin roles who set up access reviews, config settings, or apply the decisions from the reviews.&lt;/li&gt;&lt;li&gt;Premium P2 License is required for members and guests who are assigned as reviewers or perform self-reviews + group owners and application owners who perform access reviews&lt;/li&gt;&lt;li&gt;manage membership of a group or assignment to an app.&lt;/li&gt;&lt;li&gt;Define if the review is one-time or recur.&lt;/li&gt;&lt;li&gt;Email is sent to reviewer, to approve or deny the recommendation&lt;/li&gt;&lt;li&gt;Define completion settings: auto-apply results to resource? what to do if reviewer do not respond?&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
+        <mxCell id="TTRVOBk_0m0tAYUCcANo-10" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
           <mxGeometry x="-230" y="440" width="450" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="Vf5aqie4InsufaOcdz5s-0" value="&lt;div&gt;Password hash synchronization - Azure AD connect synchronizes a hash of a hash of user&#39;s password, along with the user from on-premise to Azure AD instance&lt;/div&gt;&lt;div&gt;Pass-through authentication - user&#39;s password is directly validated against the on-prem AD. Choose is if organization wants to enforce on-prem AD security and password policies&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
-          <mxGeometry x="1000" y="190" width="240" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Vf5aqie4InsufaOcdz5s-2" value="&lt;ul&gt;&lt;li&gt;shows sync errors e.g. duplicate attribute, data mismatch, data validation failure&lt;/li&gt;&lt;li&gt;shows alerts&lt;/li&gt;&lt;li&gt;Download agents for AD DS Services or AD FS services&lt;/li&gt;&lt;li&gt;now it can provide all performance monitors&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=10;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
-          <mxGeometry x="1000" y="316" width="240" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="Vf5aqie4InsufaOcdz5s-4" value="If user changes password in Azure AD, it would be sync back to on-premise AD" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=10;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
-          <mxGeometry x="1000" y="117" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Vf5aqie4InsufaOcdz5s-6" value="once configured, it does the following: uninstalls AD connect auth agent, disable pass-through authentication, enable managed authentication in azure and finally enables SSO" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=10;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1ZeXH9hcjCoo1fI3DfhY-1" vertex="1">
-          <mxGeometry x="1000" y="420" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

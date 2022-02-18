@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T15:15:55.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="EIEDsjLUkmJblGW9idB3" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-18T15:19:08.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="ePsvuDxA56SIFlYhWCmo" version="16.6.1" type="github">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
-    <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1775" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,8 +64,14 @@
         <mxCell id="PnDO7gSJsQFraJC6xpwz-15" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;A resource set is a single object in the catalog that represents a large number of assets in storage.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
           <mxGeometry x="990" y="230" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PnDO7gSJsQFraJC6xpwz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="1" source="PnDO7gSJsQFraJC6xpwz-17" target="PnDO7gSJsQFraJC6xpwz-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PnDO7gSJsQFraJC6xpwz-17" value="Permission and roles" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="120" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnDO7gSJsQFraJC6xpwz-18" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Requires an azure purview account to be created first&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="150" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

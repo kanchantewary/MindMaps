@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T06:10:01.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="ZcVEkj7vD4EVvu9907Lz" version="16.6.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-02-18T06:11:21.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="FWn5r0Nm-VjCTYqc2qZE" version="16.6.1" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Compute">
     <mxGraphModel dx="1752" dy="1705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1641,19 +1641,19 @@
           <mxGeometry x="40" y="253" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGAu-1AWbNAaCffHML-8-20" value="" style="group" vertex="1" connectable="0" parent="HvkJfbxAIFK8lNL6DU89-1">
-          <mxGeometry x="760" y="6" width="80" height="234" as="geometry" />
+          <mxGeometry x="760" y="20" width="130" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="LGAu-1AWbNAaCffHML-8-12" value="Editions" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="LGAu-1AWbNAaCffHML-8-20">
-          <mxGeometry y="181.99999999999997" width="80" height="51.99999999999999" as="geometry" />
+        <mxCell id="LGAu-1AWbNAaCffHML-8-12" value="VPS (Virtual Private Snowflake)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="LGAu-1AWbNAaCffHML-8-20">
+          <mxGeometry y="171.11111111111111" width="130" height="45.128205128205124" as="geometry" />
         </mxCell>
-        <mxCell id="LGAu-1AWbNAaCffHML-8-13" value="Editions" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="LGAu-1AWbNAaCffHML-8-20">
-          <mxGeometry y="120.46666666666664" width="80" height="51.99999999999999" as="geometry" />
+        <mxCell id="LGAu-1AWbNAaCffHML-8-13" value="Business Critical" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="LGAu-1AWbNAaCffHML-8-20">
+          <mxGeometry y="113.25925925925924" width="130" height="48.88888888888888" as="geometry" />
         </mxCell>
-        <mxCell id="LGAu-1AWbNAaCffHML-8-14" value="Editions" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="LGAu-1AWbNAaCffHML-8-20">
-          <mxGeometry y="61.53333333333332" width="80" height="51.99999999999999" as="geometry" />
+        <mxCell id="LGAu-1AWbNAaCffHML-8-14" value="Enterprise" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="LGAu-1AWbNAaCffHML-8-20">
+          <mxGeometry y="57.84871794871795" width="130" height="48.888888888888886" as="geometry" />
         </mxCell>
         <mxCell id="LGAu-1AWbNAaCffHML-8-15" value="standard" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="LGAu-1AWbNAaCffHML-8-20">
-          <mxGeometry width="80" height="51.99999999999999" as="geometry" />
+          <mxGeometry width="130" height="48.88888888888888" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

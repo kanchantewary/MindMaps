@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T05:04:50.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="u1KUhwpskOTfXIJIa-BM" version="16.5.6" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-02-18T05:11:33.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="iR1EXvIAKjZgMd5fGubM" version="16.5.6" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Compute">
     <mxGraphModel dx="2509" dy="2144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,7 +199,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yksckFWAv2v-fmxkd6C5" name="Storage">
-    <mxGraphModel dx="1775" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="WlPYzrNBuUjyq2Hp31Dj-0" />
         <mxCell id="WlPYzrNBuUjyq2Hp31Dj-1" parent="WlPYzrNBuUjyq2Hp31Dj-0" />
@@ -269,7 +269,7 @@
         <mxCell id="xn0TGrl4xGfBzr7lIKxJ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=12;endArrow=oval;endFill=1;" parent="WlPYzrNBuUjyq2Hp31Dj-1" source="xn0TGrl4xGfBzr7lIKxJ-4" target="xn0TGrl4xGfBzr7lIKxJ-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xn0TGrl4xGfBzr7lIKxJ-4" value="Storage Accounts" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+        <mxCell id="xn0TGrl4xGfBzr7lIKxJ-4" value="Cloud Storage" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="500" y="134" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6igl0_KKKSx67OhCSBDT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;" parent="WlPYzrNBuUjyq2Hp31Dj-1" source="xn0TGrl4xGfBzr7lIKxJ-6" target="6igl0_KKKSx67OhCSBDT-3" edge="1">
@@ -400,94 +400,59 @@
         <mxCell id="xn0TGrl4xGfBzr7lIKxJ-38" value="Network access rules" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="312" y="430" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-0" value="&lt;ul&gt;&lt;li&gt;private (no anonymous access)&lt;/li&gt;&lt;li&gt;anonymous read access for blobs&lt;/li&gt;&lt;li&gt;anonymous read access for containers&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+        <mxCell id="6igl0_KKKSx67OhCSBDT-0" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="-55" y="530" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-1" value="When we create a storage account, Azure generates and assigns two 512-bit storage access keys (primary and secondary). Access keys can be regenerated (make sure all apps use the secondary key before regenerating primary key and vice versa)&amp;nbsp;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+        <mxCell id="6igl0_KKKSx67OhCSBDT-1" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="150" y="530" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-2" value="Create a rule to allow a specific address-range, subnet" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+        <mxCell id="6igl0_KKKSx67OhCSBDT-2" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="365" y="530" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-3" value="metrics&lt;br&gt;logging" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+        <mxCell id="6igl0_KKKSx67OhCSBDT-3" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="440" y="420" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="69JhCGtZr_Qn8s8WupeR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;" parent="WlPYzrNBuUjyq2Hp31Dj-1" source="6igl0_KKKSx67OhCSBDT-4" target="69JhCGtZr_Qn8s8WupeR-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="69JhCGtZr_Qn8s8WupeR-6" value="&lt;strong&gt;Azure File Sync Service&lt;/strong&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Tahoma;" parent="69JhCGtZr_Qn8s8WupeR-5" vertex="1" connectable="0">
-          <mxGeometry x="-0.2029" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-4" value="&lt;div&gt;Ephemeral OS disks&lt;/div&gt;&lt;div&gt;Managed disks (supports HA, scalable, Azure Backup, encryption and RBAC, 99.999% availability)&lt;/div&gt;&lt;div&gt;Unmanaged disks (user need to manage the storage account used for the disk)&lt;/div&gt;&lt;div&gt;Disk types: ultra SSD, premium SSD, standard SSD, standard HDD&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+        <mxCell id="6igl0_KKKSx67OhCSBDT-4" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="680" y="340" width="380" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-5" value="No SQL data store" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+        <mxCell id="6igl0_KKKSx67OhCSBDT-5" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="810" y="146.5" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-6" value="&lt;div&gt;create file share, define quota to set max threshold,&amp;nbsp;&lt;span&gt;files can not be accessed over http like blobs, rather map drive and then access (traffic should be allowed on port 445)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+        <mxCell id="6igl0_KKKSx67OhCSBDT-6" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="810" y="66.5" width="270" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="69JhCGtZr_Qn8s8WupeR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;" parent="WlPYzrNBuUjyq2Hp31Dj-1" source="6igl0_KKKSx67OhCSBDT-7" target="69JhCGtZr_Qn8s8WupeR-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-7" value="object storage" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+        <mxCell id="6igl0_KKKSx67OhCSBDT-7" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="810" y="-13.5" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-8" value="premium and standard.&amp;nbsp;&lt;span&gt;cant convert an existing tier - create&amp;nbsp;&lt;/span&gt;&lt;span&gt;new storage account and migrate data&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+        <mxCell id="6igl0_KKKSx67OhCSBDT-8" value="&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="-210" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-9" value="data that is accessed frequently, read operation cost is minimum" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+        <mxCell id="6igl0_KKKSx67OhCSBDT-9" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="-350" y="97" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-10" value="data accessed infrequently, at least 30 days.&amp;nbsp;Early Deletion Fee is applicable" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+        <mxCell id="6igl0_KKKSx67OhCSBDT-10" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="-350" y="177" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-11" value="data that is accessed rarely, at least 180 days. can be enabled at individual blob level only. We need to rehydrate for the file and change tier to cool or hot to access a file in archive tier.&amp;nbsp;Early Deletion Fee is applicable" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+        <mxCell id="6igl0_KKKSx67OhCSBDT-11" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="-440" y="255" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-12" value="AzCopy&lt;br&gt;Azure Storage Explorer" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+        <mxCell id="6igl0_KKKSx67OhCSBDT-12" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="135" y="-50" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="69JhCGtZr_Qn8s8WupeR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;" parent="WlPYzrNBuUjyq2Hp31Dj-1" source="6igl0_KKKSx67OhCSBDT-13" target="69JhCGtZr_Qn8s8WupeR-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-13" value="use a stored access policy to change the start time, expiry time, or permissions for a SAS signature, or to revoke it after it has been issued." style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+        <mxCell id="6igl0_KKKSx67OhCSBDT-13" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="-370" y="440" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-14" value="&lt;ul&gt;&lt;li&gt;most secure approach. Following are the RBAC roles:&lt;/li&gt;&lt;li&gt;Storage blob data owner|Reader|Contributor&lt;/li&gt;&lt;li&gt;Storage Table Data Reader|Contributor&lt;/li&gt;&lt;li&gt;Storage Queue Data Contributor&lt;/li&gt;&lt;li&gt;Storage Account Contributor&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+        <mxCell id="6igl0_KKKSx67OhCSBDT-14" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="-260" y="530" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-19" value="queue message can be up to 64 KB, We can define TTL for messages" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+        <mxCell id="6igl0_KKKSx67OhCSBDT-19" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="810" y="223.5" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-21" value="&lt;ul&gt;&lt;li&gt;&lt;strong&gt;soft delete for containers and blobs&lt;/strong&gt; within retention period specified by user (1 to 365 days, default is 7 days). Data in soft deleted containers is billed at the same rate as active data.&lt;/li&gt;&lt;li&gt;enable &lt;strong&gt;Blob storage versioning&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Point-in-time restore&lt;/strong&gt; for block blobs, supported in standard performance tier only. soft delete, change feed and versioning should be enabled as a prerequisite.&lt;/li&gt;&lt;li&gt;set access policy for &lt;strong&gt;immutable blob storage at container level. &lt;/strong&gt;Two policy types are supported: &lt;strong&gt;time based retention and legal hold. &lt;/strong&gt;Bobs under the container can not be deleted or modified.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+        <mxCell id="6igl0_KKKSx67OhCSBDT-21" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="350" y="-140" width="430" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-34" value="&lt;div&gt;Locally redundant storage (LRS)&lt;/div&gt;&lt;div&gt;Zone-redundant storage (ZRS)&lt;/div&gt;&lt;div&gt;Geo-redundant storage (GRS)&lt;/div&gt;&lt;div&gt;Geo-zone-redundant-storage (GZRS)&lt;/div&gt;&lt;div&gt;read-access geo-redundant storage (RA-GRS)&lt;/div&gt;&lt;div&gt;read-access geo-zone-redundant storage (RA-GZRS)&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+        <mxCell id="6igl0_KKKSx67OhCSBDT-34" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="-430" y="330" width="270" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="69JhCGtZr_Qn8s8WupeR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;" parent="WlPYzrNBuUjyq2Hp31Dj-1" source="69JhCGtZr_Qn8s8WupeR-0" target="6igl0_KKKSx67OhCSBDT-34" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="69JhCGtZr_Qn8s8WupeR-0" value="LRS to ZRS - manual or live migration provided by microsoft&lt;br&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
-          <mxGeometry x="-630" y="340" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="69JhCGtZr_Qn8s8WupeR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;" parent="WlPYzrNBuUjyq2Hp31Dj-1" source="69JhCGtZr_Qn8s8WupeR-1" target="6igl0_KKKSx67OhCSBDT-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="69JhCGtZr_Qn8s8WupeR-1" value="default tier for the storage account can be either hot or cool. Create life cycle policy ( collection of rules in a JSON document )" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
-          <mxGeometry x="-600" y="146" width="200" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="69JhCGtZr_Qn8s8WupeR-4" value="&lt;ul&gt;&lt;li&gt;solution that would ensure users can still access the share files even if the on-premise server becomes unavailable&lt;/li&gt;&lt;li&gt;syncs files from on-premise file server to azure storage account&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
-          <mxGeometry x="715" y="500" width="310" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="69JhCGtZr_Qn8s8WupeR-7" value="ADLS (azure data lake storage).&amp;nbsp;&lt;span&gt;hierarchical namespace&amp;nbsp;&lt;/span&gt;&lt;span&gt;supports ACL&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
-          <mxGeometry x="1070" y="-13.5" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="69JhCGtZr_Qn8s8WupeR-9" value="&lt;div&gt;&lt;div&gt;start and expiry datetime, allowed permissions, allowed IP addresses, allowed protocols (http, https)&lt;/div&gt;&lt;div&gt;set SAS at blob or account level&lt;/div&gt;&lt;div&gt;Link with a access policy&lt;/div&gt;&lt;div&gt;use one of the access keys to generate the SAS token&lt;/div&gt;&lt;div&gt;Microsoft recommends using a user delegation SAS when possible for superior security. A user delegation SAS grants access to resources in the Blob service using Azure AD credentials&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=10;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
-          <mxGeometry x="-690" y="440" width="280" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

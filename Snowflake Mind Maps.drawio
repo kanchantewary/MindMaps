@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T05:52:23.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="GYZuSGKO9GAf0DwkNRqW" version="16.6.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-02-18T05:53:56.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="1ZofuTxQS_sVZP6smWIj" version="16.6.1" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Compute">
     <mxGraphModel dx="1752" dy="1705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,26 +224,20 @@
         <mxCell id="6igl0_KKKSx67OhCSBDT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;" parent="WlPYzrNBuUjyq2Hp31Dj-1" source="xn0TGrl4xGfBzr7lIKxJ-0" target="6igl0_KKKSx67OhCSBDT-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xn0TGrl4xGfBzr7lIKxJ-0" value="table" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
-          <mxGeometry x="680" y="166" width="70" height="30" as="geometry" />
+        <mxCell id="xn0TGrl4xGfBzr7lIKxJ-0" value="Permanent" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+          <mxGeometry x="680" y="191.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6igl0_KKKSx67OhCSBDT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WlPYzrNBuUjyq2Hp31Dj-1" source="xn0TGrl4xGfBzr7lIKxJ-5" target="6igl0_KKKSx67OhCSBDT-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xn0TGrl4xGfBzr7lIKxJ-5" value="file" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
-          <mxGeometry x="680" y="124" width="70" height="30" as="geometry" />
+        <mxCell id="xn0TGrl4xGfBzr7lIKxJ-5" value="Transient" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+          <mxGeometry x="680" y="149.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6igl0_KKKSx67OhCSBDT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WlPYzrNBuUjyq2Hp31Dj-1" source="xn0TGrl4xGfBzr7lIKxJ-12" target="6igl0_KKKSx67OhCSBDT-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xn0TGrl4xGfBzr7lIKxJ-12" value="blobs" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
-          <mxGeometry x="680" y="84" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;" parent="WlPYzrNBuUjyq2Hp31Dj-1" source="xn0TGrl4xGfBzr7lIKxJ-20" target="6igl0_KKKSx67OhCSBDT-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xn0TGrl4xGfBzr7lIKxJ-20" value="queue" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
-          <mxGeometry x="680" y="204" width="70" height="30" as="geometry" />
+        <mxCell id="xn0TGrl4xGfBzr7lIKxJ-12" value="Temporary" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+          <mxGeometry x="680" y="109.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6igl0_KKKSx67OhCSBDT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WlPYzrNBuUjyq2Hp31Dj-1" source="xn0TGrl4xGfBzr7lIKxJ-2" target="6igl0_KKKSx67OhCSBDT-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -266,10 +260,7 @@
         <mxCell id="xn0TGrl4xGfBzr7lIKxJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=oval;endFill=1;" parent="WlPYzrNBuUjyq2Hp31Dj-1" source="xn0TGrl4xGfBzr7lIKxJ-4" target="xn0TGrl4xGfBzr7lIKxJ-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xn0TGrl4xGfBzr7lIKxJ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=12;endArrow=oval;endFill=1;" parent="WlPYzrNBuUjyq2Hp31Dj-1" source="xn0TGrl4xGfBzr7lIKxJ-4" target="xn0TGrl4xGfBzr7lIKxJ-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xn0TGrl4xGfBzr7lIKxJ-4" value="Storage Accounts" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+        <mxCell id="xn0TGrl4xGfBzr7lIKxJ-4" value="Table" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="500" y="134" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6igl0_KKKSx67OhCSBDT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;" parent="WlPYzrNBuUjyq2Hp31Dj-1" source="xn0TGrl4xGfBzr7lIKxJ-6" target="6igl0_KKKSx67OhCSBDT-3" edge="1">
@@ -415,14 +406,14 @@
         <mxCell id="6igl0_KKKSx67OhCSBDT-4" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="680" y="340" width="380" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-5" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
-          <mxGeometry x="810" y="146.5" width="190" height="70" as="geometry" />
+        <mxCell id="6igl0_KKKSx67OhCSBDT-5" value="Default when creating a table, has the highest level of protection and recovery, hence, has both Time Travel (0–1 Standard, 0–90 ESD) and Fail-Safe." style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+          <mxGeometry x="810" y="209" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-6" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
-          <mxGeometry x="810" y="66.5" width="190" height="70" as="geometry" />
+        <mxCell id="6igl0_KKKSx67OhCSBDT-6" value="persists beyond the session, but the same level of data protection is not needed like a permanent table. Can use Time Travel (0–1) but will not Fail-Safe." style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+          <mxGeometry x="810" y="129" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-7" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
-          <mxGeometry x="810" y="-13.5" width="190" height="70" as="geometry" />
+        <mxCell id="6igl0_KKKSx67OhCSBDT-7" value="persists within a particular session, stores non-permanent data, think of it as your landing table. Can use Time Travel (0–1) but will not Fail-Safe" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
+          <mxGeometry x="810" y="49" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6igl0_KKKSx67OhCSBDT-8" value="premium and standard.&amp;nbsp;&lt;span&gt;cant convert an existing tier - create&amp;nbsp;&lt;/span&gt;&lt;span&gt;new storage account and migrate data&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="-210" width="190" height="70" as="geometry" />
@@ -447,9 +438,6 @@
         </mxCell>
         <mxCell id="6igl0_KKKSx67OhCSBDT-14" value="&lt;ul&gt;&lt;li&gt;most secure approach. Following are the RBAC roles:&lt;/li&gt;&lt;li&gt;Storage blob data owner|Reader|Contributor&lt;/li&gt;&lt;li&gt;Storage Table Data Reader|Contributor&lt;/li&gt;&lt;li&gt;Storage Queue Data Contributor&lt;/li&gt;&lt;li&gt;Storage Account Contributor&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="-260" y="530" width="190" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="6igl0_KKKSx67OhCSBDT-19" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
-          <mxGeometry x="810" y="223.5" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6igl0_KKKSx67OhCSBDT-21" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Tahoma;fontSize=10;fontColor=#333333;" parent="WlPYzrNBuUjyq2Hp31Dj-1" vertex="1">
           <mxGeometry x="350" y="-140" width="430" height="140" as="geometry" />

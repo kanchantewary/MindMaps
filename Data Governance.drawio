@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T13:18:33.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="dQ04h6QL4N72eB0yMAHj" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-18T13:19:03.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="Yqjl_eOBOUkkdYGnBpD3" version="16.6.1" type="github">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="PnDO7gSJsQFraJC6xpwz-8" value="pricing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="120" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PnDO7gSJsQFraJC6xpwz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;strokeColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PnDO7gSJsQFraJC6xpwz-9" target="PnDO7gSJsQFraJC6xpwz-13">
+        <mxCell id="PnDO7gSJsQFraJC6xpwz-14" value="Elastic data map" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;strokeColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PnDO7gSJsQFraJC6xpwz-9" target="PnDO7gSJsQFraJC6xpwz-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PnDO7gSJsQFraJC6xpwz-9" value="Data Map" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
@@ -43,8 +43,8 @@
         <mxCell id="PnDO7gSJsQFraJC6xpwz-11" value="open-source Apache Atlas 2.0 APIs" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="180" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PnDO7gSJsQFraJC6xpwz-13" value="&lt;ul&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;Elastic data map&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;operation throughput and storage is represented as Capacity Unit (CU). Default is 1 CU (grows elastically)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
-          <mxGeometry x="910" y="130" width="320" height="60" as="geometry" />
+        <mxCell id="PnDO7gSJsQFraJC6xpwz-13" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;operation throughput and storage is represented as Capacity Unit (CU). Default is 1 CU (grows elastically)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="950" y="90" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T11:09:10.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="D9l92t2MAS5kbRU49D-V" version="16.6.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-21T11:10:05.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="hCbldawKNWhml-tW-LlM" version="16.6.1" type="github" pages="3">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -434,8 +434,8 @@
         <mxCell id="hfp4Rtr9NWwm4dYWRs7D-29" value="&lt;ul&gt;&lt;li&gt;supports 200+ system classifications out of the box&lt;br&gt;&lt;/li&gt;&lt;li&gt;&amp;nbsp;Create Custom classification rules based on a regular expression pattern or dictionary&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="C9LUNgELsKj3j_8HqoWB-1">
           <mxGeometry x="770" y="320" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hfp4Rtr9NWwm4dYWRs7D-30" value="&lt;ul&gt;&lt;li&gt;admin&lt;/li&gt;&lt;li&gt;editor&lt;/li&gt;&lt;li&gt;viewer&lt;/li&gt;&lt;li&gt;administrator&lt;/li&gt;&lt;li&gt;Data Quality Analyst&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=10;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="C9LUNgELsKj3j_8HqoWB-1">
-          <mxGeometry x="-90" y="310" width="170" height="80" as="geometry" />
+        <mxCell id="hfp4Rtr9NWwm4dYWRs7D-30" value="&lt;ul&gt;&lt;li&gt;admin&lt;/li&gt;&lt;li&gt;editor&lt;/li&gt;&lt;li&gt;viewer&lt;/li&gt;&lt;li&gt;administrator&lt;/li&gt;&lt;li&gt;Data Quality Analyst&lt;/li&gt;&lt;li&gt;Data Engineer&lt;/li&gt;&lt;li&gt;Data Steward&lt;/li&gt;&lt;li&gt;Business Analyst&lt;/li&gt;&lt;li&gt;Data Scientist&lt;/li&gt;&lt;li&gt;Developer&lt;/li&gt;&lt;li&gt;User&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=10;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="C9LUNgELsKj3j_8HqoWB-1">
+          <mxGeometry x="-90" y="310" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="hfp4Rtr9NWwm4dYWRs7D-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="C9LUNgELsKj3j_8HqoWB-1" source="hfp4Rtr9NWwm4dYWRs7D-32" target="hfp4Rtr9NWwm4dYWRs7D-33">
           <mxGeometry relative="1" as="geometry" />

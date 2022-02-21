@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T05:50:57.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="M-8tjnpWJl3V20GuzKEi" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T06:04:54.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="C1lEUjeyTIci1RrNm7J0" version="16.6.1" type="github" pages="2">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -116,6 +116,128 @@
           <mxGeometry x="509" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PnDO7gSJsQFraJC6xpwz-33" value="&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-40" width="240" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PEk52XusMT1T5gWGx5gA" name="Collibra">
+    <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-0" />
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-1" parent="5Eydu9gD10Q847N_Wa7L-0" />
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-2" value="&lt;h1&gt;Collibra&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+          <mxGeometry x="260" y="160" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="5Eydu9gD10Q847N_Wa7L-1" source="5Eydu9gD10Q847N_Wa7L-4" target="5Eydu9gD10Q847N_Wa7L-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-4" value="data classification" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+          <mxGeometry x="580" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="5Eydu9gD10Q847N_Wa7L-1" source="5Eydu9gD10Q847N_Wa7L-6" target="5Eydu9gD10Q847N_Wa7L-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-6" value="data discovery" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+          <mxGeometry x="580" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="5Eydu9gD10Q847N_Wa7L-1" source="5Eydu9gD10Q847N_Wa7L-8" target="5Eydu9gD10Q847N_Wa7L-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-8" value="track data lineage" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+          <mxGeometry x="425" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="5Eydu9gD10Q847N_Wa7L-1" source="5Eydu9gD10Q847N_Wa7L-10" target="5Eydu9gD10Q847N_Wa7L-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-10" value="business glossary" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+          <mxGeometry x="250" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="5Eydu9gD10Q847N_Wa7L-1" source="5Eydu9gD10Q847N_Wa7L-12" target="5Eydu9gD10Q847N_Wa7L-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-12" value="Integrations" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+          <mxGeometry x="280" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-13" value="Insights" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="5Eydu9gD10Q847N_Wa7L-1" source="5Eydu9gD10Q847N_Wa7L-14" target="5Eydu9gD10Q847N_Wa7L-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-14" value="dashboards" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+          <mxGeometry x="379" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="5Eydu9gD10Q847N_Wa7L-1" source="5Eydu9gD10Q847N_Wa7L-16" target="5Eydu9gD10Q847N_Wa7L-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-16" value="pricing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+          <mxGeometry x="120" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-17" value="Elastic data map" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;strokeColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="5Eydu9gD10Q847N_Wa7L-1" source="5Eydu9gD10Q847N_Wa7L-19" target="5Eydu9gD10Q847N_Wa7L-21">
+          <mxGeometry x="-0.1905" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="200" />
+              <mxPoint x="900" y="135" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-18" value="resource sets" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="5Eydu9gD10Q847N_Wa7L-1" source="5Eydu9gD10Q847N_Wa7L-19" target="5Eydu9gD10Q847N_Wa7L-22">
+          <mxGeometry x="-0.2941" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="200" />
+              <mxPoint x="900" y="260" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-19" value="Data Map" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+          <mxGeometry x="760" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-20" value="open-source Apache Atlas 2.0 APIs" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+          <mxGeometry x="180" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-21" value="&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li&gt;&lt;span&gt;operation throughput and storage is represented as Capacity Unit (CU). Default is 1 CU (autoscale)&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;Operations&lt;/b&gt;: Create an asset in Data Map, Add a relationship to an asset such as owner, steward, parent, lineage, Edit an asset to add business metadata such as description, glossary term, Keyword search returning results to search result page.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;Storage&lt;/b&gt;: technical, business, operational, and semantic metadata.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+          <mxGeometry x="960" y="70" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-22" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;A resource set is a single object in the catalog that represents a large number of assets in storage.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+          <mxGeometry x="990" y="230" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="5Eydu9gD10Q847N_Wa7L-1" source="5Eydu9gD10Q847N_Wa7L-25" target="5Eydu9gD10Q847N_Wa7L-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-24" value="roles" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="5Eydu9gD10Q847N_Wa7L-1" source="5Eydu9gD10Q847N_Wa7L-25" target="5Eydu9gD10Q847N_Wa7L-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-25" value="Permission and roles" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+          <mxGeometry x="120" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-26" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Requires an azure purview account to be created first&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+          <mxGeometry x="-160" y="210" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-27" value="&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;supported attributes for a term: Name, Definition, Data stewards, Data experts, Acronym, Synonyms, Related terms, Resources&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;Term templates -&amp;nbsp;create custom attributes&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;fontSize=10;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+          <mxGeometry x="100" y="-40" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-28" value="&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li&gt;&lt;span&gt;Asset Insights&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Scan Insights&lt;/li&gt;&lt;li&gt;Glossary Insights&lt;/li&gt;&lt;li&gt;Classification Insights&lt;/li&gt;&lt;li&gt;Sensitivity Labeling Insights&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+          <mxGeometry x="349.5" y="-40" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-29" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+          <mxGeometry x="430" y="420" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-30" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Requires an azure purview account to be created first&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+          <mxGeometry x="-160" y="110" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-31" value="&lt;ul&gt;&lt;li&gt;supports 200+ system classifications out of the box&lt;br&gt;&lt;/li&gt;&lt;li&gt;&amp;nbsp;Create Custom classification rules based on a regular expression pattern or dictionary&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+          <mxGeometry x="770" y="320" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-32" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;collection admin,&lt;/li&gt;&lt;li&gt;data curator&lt;/li&gt;&lt;li&gt;data reader&lt;/li&gt;&lt;li&gt;data source admin&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=10;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+          <mxGeometry x="-40" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="5Eydu9gD10Q847N_Wa7L-1" source="5Eydu9gD10Q847N_Wa7L-34" target="5Eydu9gD10Q847N_Wa7L-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-34" value="Data privacy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+          <mxGeometry x="509" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-35" value="&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;fontSize=10;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
           <mxGeometry x="540" y="-40" width="240" height="80" as="geometry" />
         </mxCell>
       </root>

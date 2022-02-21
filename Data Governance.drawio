@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T15:40:25.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="6RXRgjR9VxRJpNaxr1vw" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T05:50:57.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="M-8tjnpWJl3V20GuzKEi" version="16.6.1" type="github">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -109,8 +109,14 @@
         <mxCell id="PnDO7gSJsQFraJC6xpwz-30" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;collection admin,&lt;/li&gt;&lt;li&gt;data curator&lt;/li&gt;&lt;li&gt;data reader&lt;/li&gt;&lt;li&gt;data source admin&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=10;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-40" y="310" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="PnDO7gSJsQFraJC6xpwz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="1" source="PnDO7gSJsQFraJC6xpwz-32" target="PnDO7gSJsQFraJC6xpwz-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PnDO7gSJsQFraJC6xpwz-32" value="Data privacy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="509" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PnDO7gSJsQFraJC6xpwz-33" value="&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-40" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

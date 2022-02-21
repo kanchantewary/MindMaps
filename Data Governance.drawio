@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T15:43:19.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="ITF1mB3Mllall9efosXj" version="16.6.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-21T15:43:48.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="TNpZodiIa3j_OMoaZqOg" version="16.6.1" type="github" pages="4">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -448,7 +448,7 @@
       <root>
         <mxCell id="9TD_6omjye9O6LeIeoum-0" />
         <mxCell id="9TD_6omjye9O6LeIeoum-1" parent="9TD_6omjye9O6LeIeoum-0" />
-        <mxCell id="cMoq68lVUFdrjPexbJsN-0" value="&lt;h1&gt;Informatica&amp;nbsp;&lt;/h1&gt;&lt;h1&gt;[Axon, EDC, EDQ]&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="9TD_6omjye9O6LeIeoum-1">
+        <mxCell id="cMoq68lVUFdrjPexbJsN-0" value="&lt;h1&gt;Informatica&amp;nbsp;&lt;/h1&gt;&lt;h3&gt;[Axon, EDC, EDQ]&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="9TD_6omjye9O6LeIeoum-1">
           <mxGeometry x="260" y="160" width="300" height="150" as="geometry" />
         </mxCell>
         <mxCell id="cMoq68lVUFdrjPexbJsN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="9TD_6omjye9O6LeIeoum-1" source="cMoq68lVUFdrjPexbJsN-2" target="cMoq68lVUFdrjPexbJsN-23">

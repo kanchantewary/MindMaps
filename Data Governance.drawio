@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T15:30:10.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="n8xcBR9IvbwwnPdjRAaL" version="16.6.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-21T15:39:09.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="nWrGd3kUsgffUDtieGTo" version="16.6.1" type="github" pages="4">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -514,7 +514,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cMoq68lVUFdrjPexbJsN-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="9TD_6omjye9O6LeIeoum-1">
-          <mxGeometry x="230" y="415" width="120" height="65" as="geometry" />
+          <mxGeometry x="110" y="415" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="cMoq68lVUFdrjPexbJsN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="9TD_6omjye9O6LeIeoum-1" source="cMoq68lVUFdrjPexbJsN-42" target="cMoq68lVUFdrjPexbJsN-57">
           <mxGeometry relative="1" as="geometry" />
@@ -525,8 +525,8 @@
         <mxCell id="cMoq68lVUFdrjPexbJsN-21" value="&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="9TD_6omjye9O6LeIeoum-1">
           <mxGeometry x="220" y="-130" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cMoq68lVUFdrjPexbJsN-22" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="9TD_6omjye9O6LeIeoum-1">
-          <mxGeometry x="359" y="415" width="131" height="65" as="geometry" />
+        <mxCell id="cMoq68lVUFdrjPexbJsN-22" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Implement Data Quality Rules (as per requirements defined in Axon&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;View and remediate DQ exceptions&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="9TD_6omjye9O6LeIeoum-1">
+          <mxGeometry x="290" y="415" width="226" height="125" as="geometry" />
         </mxCell>
         <mxCell id="cMoq68lVUFdrjPexbJsN-23" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="9TD_6omjye9O6LeIeoum-1">
           <mxGeometry x="753" y="310" width="120" height="60" as="geometry" />
@@ -564,7 +564,7 @@
           <mxGeometry x="490" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cMoq68lVUFdrjPexbJsN-39" value="&lt;span&gt;AWS, GCP, Azure&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;" vertex="1" parent="9TD_6omjye9O6LeIeoum-1">
-          <mxGeometry x="500" y="415" width="131" height="65" as="geometry" />
+          <mxGeometry x="610" y="430" width="131" height="65" as="geometry" />
         </mxCell>
         <mxCell id="cMoq68lVUFdrjPexbJsN-40" value="" style="group" vertex="1" connectable="0" parent="9TD_6omjye9O6LeIeoum-1">
           <mxGeometry x="120" y="150" width="120" height="170" as="geometry" />

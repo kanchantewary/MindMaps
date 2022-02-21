@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T06:05:51.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="rG0EDPmyFG5ofEwUAArD" version="16.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-21T06:06:55.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="K4eGe8IxwcSJdHRjD0Gr" version="16.6.1" type="github" pages="2">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -171,35 +171,11 @@
         <mxCell id="5Eydu9gD10Q847N_Wa7L-16" value="pricing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
           <mxGeometry x="120" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5Eydu9gD10Q847N_Wa7L-17" value="Elastic data map" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;strokeColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="5Eydu9gD10Q847N_Wa7L-1" source="5Eydu9gD10Q847N_Wa7L-19" target="5Eydu9gD10Q847N_Wa7L-21">
-          <mxGeometry x="-0.1905" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="900" y="200" />
-              <mxPoint x="900" y="135" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5Eydu9gD10Q847N_Wa7L-18" value="resource sets" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="5Eydu9gD10Q847N_Wa7L-1" source="5Eydu9gD10Q847N_Wa7L-19" target="5Eydu9gD10Q847N_Wa7L-22">
-          <mxGeometry x="-0.2941" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="900" y="200" />
-              <mxPoint x="900" y="260" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5Eydu9gD10Q847N_Wa7L-19" value="Data Map" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
           <mxGeometry x="760" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Eydu9gD10Q847N_Wa7L-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
           <mxGeometry x="180" y="410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5Eydu9gD10Q847N_Wa7L-21" value="&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
-          <mxGeometry x="960" y="70" width="280" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="5Eydu9gD10Q847N_Wa7L-22" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
-          <mxGeometry x="990" y="230" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Eydu9gD10Q847N_Wa7L-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="5Eydu9gD10Q847N_Wa7L-1" source="5Eydu9gD10Q847N_Wa7L-25" target="5Eydu9gD10Q847N_Wa7L-26">
           <mxGeometry relative="1" as="geometry" />

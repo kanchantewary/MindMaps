@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T15:14:35.797Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="s7aTuJUG9UMhrp3AY0BH" version="16.6.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-21T15:17:24.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="oo9GxV8kIflLf2SWcZCx" version="16.6.1" type="github" pages="4">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -616,7 +616,7 @@
         <mxCell id="cMoq68lVUFdrjPexbJsN-51" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="9TD_6omjye9O6LeIeoum-1">
           <mxGeometry x="910" y="245" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cMoq68lVUFdrjPexbJsN-52" value="&lt;ul&gt;&lt;li&gt;Intelligent Glossary Association using Fuzzy matching (CLAIRE Match)&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="9TD_6omjye9O6LeIeoum-1">
+        <mxCell id="cMoq68lVUFdrjPexbJsN-52" value="&lt;ul&gt;&lt;li&gt;Intelligent Glossary Association using Fuzzy matching (CLAIRE Match)&lt;/li&gt;&lt;li&gt;Define Synonyms and prefix to be ignored in technical metadata&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="9TD_6omjye9O6LeIeoum-1">
           <mxGeometry x="910" y="169.5" width="270" height="70.5" as="geometry" />
         </mxCell>
         <mxCell id="cMoq68lVUFdrjPexbJsN-53" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="9TD_6omjye9O6LeIeoum-1" source="cMoq68lVUFdrjPexbJsN-46" target="cMoq68lVUFdrjPexbJsN-50">

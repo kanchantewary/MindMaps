@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T10:33:32.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="dRBzOJvS5ug_Uzj-Km5U" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T10:33:42.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="xPgHkOk3wpRI2pjI-hge" version="16.6.1" type="github">
   <diagram id="U-Te3GgnhW5zTMr8VRMO" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,13 +49,13 @@
         <mxCell id="jCtBcauLOnCdqS6o0Tvj-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;" edge="1" parent="1" source="jCtBcauLOnCdqS6o0Tvj-22" target="jCtBcauLOnCdqS6o0Tvj-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jCtBcauLOnCdqS6o0Tvj-22" value="EDW" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="jCtBcauLOnCdqS6o0Tvj-22" value="EDW" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="470" y="269" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jCtBcauLOnCdqS6o0Tvj-24" value="Datamarts" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="580" y="160" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jCtBcauLOnCdqS6o0Tvj-25" value="Analytics mart" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="jCtBcauLOnCdqS6o0Tvj-25" value="Analytics mart" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="580" y="269" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jCtBcauLOnCdqS6o0Tvj-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;" edge="1" parent="1" source="jCtBcauLOnCdqS6o0Tvj-26" target="jCtBcauLOnCdqS6o0Tvj-21">

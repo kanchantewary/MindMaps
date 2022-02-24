@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T06:38:23.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="WM_qGy2C6AFY0ZvEW5se" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T06:41:30.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="2Px1BtBlgtLzNuoIpJba" version="16.6.1" type="github">
   <diagram id="U-Te3GgnhW5zTMr8VRMO" name="Page-1">
     <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jCtBcauLOnCdqS6o0Tvj-1" value="Customer MDM" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="290" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jCtBcauLOnCdqS6o0Tvj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;" edge="1" parent="1" source="jCtBcauLOnCdqS6o0Tvj-2" target="jCtBcauLOnCdqS6o0Tvj-3">
           <mxGeometry relative="1" as="geometry" />
@@ -17,13 +17,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jCtBcauLOnCdqS6o0Tvj-2" value="EDW" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="470" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="256" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jCtBcauLOnCdqS6o0Tvj-3" value="Data marts" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="630" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="209" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jCtBcauLOnCdqS6o0Tvj-4" value="Analytics" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="640" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="303" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jCtBcauLOnCdqS6o0Tvj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;" edge="1" parent="1" source="jCtBcauLOnCdqS6o0Tvj-8" target="jCtBcauLOnCdqS6o0Tvj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jCtBcauLOnCdqS6o0Tvj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;" edge="1" parent="1" source="jCtBcauLOnCdqS6o0Tvj-8" target="jCtBcauLOnCdqS6o0Tvj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jCtBcauLOnCdqS6o0Tvj-8" value="Data Lake" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="190" y="145" width="90" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jCtBcauLOnCdqS6o0Tvj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;" edge="1" parent="1" source="jCtBcauLOnCdqS6o0Tvj-9" target="jCtBcauLOnCdqS6o0Tvj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jCtBcauLOnCdqS6o0Tvj-9" value="Source Systems" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="40" y="145" width="90" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

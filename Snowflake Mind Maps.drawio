@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T06:48:44.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="-HtLyDWbUcEZ1cF-KpcA" version="16.6.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-02-25T06:53:19.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ufpc1HzLKjKd9dsPVFEp" version="16.6.1" type="github" pages="10">
   <diagram id="LtZiCpY-84f6tLsCK7bx" name="Overview">
     <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,6 +40,9 @@
         <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-2" value="Retention period" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-6" target="0VUw2bEQ5yQ7uSR4YcZu-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-6" target="0VUw2bEQ5yQ7uSR4YcZu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LGAu-1AWbNAaCffHML-8-6" value="Time Travel" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="225" y="330" width="120" height="60" as="geometry" />
         </mxCell>
@@ -74,7 +77,10 @@
           <mxGeometry x="712.5" y="253" width="225" height="95" as="geometry" />
         </mxCell>
         <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-1" value="up to 90 days for Enterprise, 1 day for Standard Edition" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
-          <mxGeometry x="30" y="410" width="160" height="60" as="geometry" />
+          <mxGeometry x="30" y="450" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-3" value="&lt;ul&gt;&lt;li&gt;time-based (a timestamp or time offset from the present)&lt;/li&gt;&lt;li&gt;the ID for a completed statement (e.g. SELECT or INSERT)&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+          <mxGeometry x="200" y="450" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

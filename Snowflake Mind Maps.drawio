@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T07:49:13.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="o2DVKGKxo3mBr6LEKTIX" version="16.6.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-02-25T07:53:20.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="9uhYUQZC9y4xSrVylvR_" version="16.6.1" type="github" pages="10">
   <diagram id="LtZiCpY-84f6tLsCK7bx" name="Overview">
-    <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1775" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HvkJfbxAIFK8lNL6DU89-0" />
         <mxCell id="HvkJfbxAIFK8lNL6DU89-1" parent="HvkJfbxAIFK8lNL6DU89-0" />
@@ -54,16 +54,16 @@
         <mxCell id="LGAu-1AWbNAaCffHML-8-6" value="Time Travel" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="225" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGAu-1AWbNAaCffHML-8-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
-          <mxGeometry x="40" y="179" width="120" height="60" as="geometry" />
+        <mxCell id="LGAu-1AWbNAaCffHML-8-7" value="Authentication" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
+          <mxGeometry x="-120" y="206" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGAu-1AWbNAaCffHML-8-8" value="&lt;h2&gt;Overview&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;fontFamily=Tahoma;fillColor=#d5e8d4;strokeColor=#82b366;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="190" y="120" width="320" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="LGAu-1AWbNAaCffHML-8-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
-          <mxGeometry x="40" y="108" width="120" height="60" as="geometry" />
+        <mxCell id="LGAu-1AWbNAaCffHML-8-9" value="Access Control" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
+          <mxGeometry x="-120" y="136" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGAu-1AWbNAaCffHML-8-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
+        <mxCell id="LGAu-1AWbNAaCffHML-8-10" value="Snowpipe" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="40" y="253" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGAu-1AWbNAaCffHML-8-20" value="" style="group" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1" connectable="0">
@@ -92,6 +92,15 @@
         </mxCell>
         <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-5" value="&lt;ul&gt;&lt;li&gt;External functions in Python, Scala, Java and SQL&lt;/li&gt;&lt;li&gt;functions are converted to Snowflake UDF with a push down of the code to Snowflake&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
           <mxGeometry x="440" y="450" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="0VUw2bEQ5yQ7uSR4YcZu-7" target="LGAu-1AWbNAaCffHML-8-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="0VUw2bEQ5yQ7uSR4YcZu-7" target="LGAu-1AWbNAaCffHML-8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-7" value="Data Security" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+          <mxGeometry x="40" y="171" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

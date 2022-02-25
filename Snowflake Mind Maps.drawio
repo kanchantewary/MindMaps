@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T07:43:23.856Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="1a7zSv6Q5Mh6dhzj10KM" version="16.6.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-02-25T07:48:14.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Y5227Pl7RPCMZTzWa-9D" version="16.6.1" type="github" pages="10">
   <diagram id="LtZiCpY-84f6tLsCK7bx" name="Overview">
     <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -90,8 +90,8 @@
         <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-3" value="&lt;ul&gt;&lt;li&gt;time-based (a timestamp or time offset from the present)&lt;/li&gt;&lt;li&gt;the ID for a completed statement (e.g. SELECT or INSERT)&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
           <mxGeometry x="240" y="450" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-5" value="&lt;ul&gt;&lt;li&gt;External functions in Python, Scala, Java&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
-          <mxGeometry x="440" y="450" width="190" height="60" as="geometry" />
+        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-5" value="&lt;ul&gt;&lt;li&gt;External functions in Python, Scala, Java and SQL&lt;/li&gt;&lt;li&gt;functions are converted to Snowflake UDF with a push down of the code to Snowflake&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+          <mxGeometry x="440" y="450" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

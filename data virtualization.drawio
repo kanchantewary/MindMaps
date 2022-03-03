@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T17:53:40.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="R6PHWKpAY1Fmfsu3cqhU" version="16.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-03T18:12:35.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="hSpssaoIEK6_BvWD2eLK" version="16.6.4" type="github" pages="4">
   <diagram id="-L9g1W_YFleN1eRqW0Zt" name="denodo">
     <mxGraphModel dx="1775" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -349,26 +349,24 @@
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-17" value="Transform" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
           <mxGeometry x="789" y="230" width="93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IhH0JHQDqLi-rBaCO-3G-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-20" target="IhH0JHQDqLi-rBaCO-3G-24">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-20" target="IhH0JHQDqLi-rBaCO-3G-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-20" value="Data Source 1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
           <mxGeometry x="70" y="300" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IhH0JHQDqLi-rBaCO-3G-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-22" target="IhH0JHQDqLi-rBaCO-3G-24">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-22" target="IhH0JHQDqLi-rBaCO-3G-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-22" value="Data Source 2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
           <mxGeometry x="70" y="390" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IhH0JHQDqLi-rBaCO-3G-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-24" target="IhH0JHQDqLi-rBaCO-3G-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IhH0JHQDqLi-rBaCO-3G-24" value="ETL Server (Extract, transform, integrate, cleanse and load" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
-          <mxGeometry x="200" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IhH0JHQDqLi-rBaCO-3G-25" value="Data Store" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
-          <mxGeometry x="380" y="340" width="60" height="80" as="geometry" />
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-25" value="Data lake" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
+          <mxGeometry x="230" y="340" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

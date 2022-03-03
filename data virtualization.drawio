@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T08:42:41.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="w4sArL_XnRtZ0mDCwoXN" version="16.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-03T08:42:54.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="VGgtwHFlltN-bMLACpwk" version="16.6.4" type="github" pages="3">
   <diagram id="-L9g1W_YFleN1eRqW0Zt" name="denodo">
     <mxGraphModel dx="1775" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -140,10 +140,10 @@
         <mxCell id="BI1TVRTl637JLvggWWpa-11" value="connectivity" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="LtUKsb7osVr84ornD984-1">
           <mxGeometry x="140" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BI1TVRTl637JLvggWWpa-12" value="&lt;ul&gt;&lt;li&gt;on-premise, private/public cloud platforms (AWS, Google Cloud, Microsoft Azure)&lt;/li&gt;&lt;li&gt;multiple execution engines&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="LtUKsb7osVr84ornD984-1">
+        <mxCell id="BI1TVRTl637JLvggWWpa-12" value="&lt;ul style=&quot;font-size: 10px;&quot;&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;on-premise, private/public cloud platforms (AWS, Google Cloud, Microsoft Azure)&lt;/li&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;multiple execution engines&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;fontSize=10;" vertex="1" parent="LtUKsb7osVr84ornD984-1">
           <mxGeometry x="420" y="30" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="BI1TVRTl637JLvggWWpa-13" value="&lt;ul&gt;&lt;li&gt;integrated metadata repository&lt;/li&gt;&lt;li&gt;&amp;nbsp;profiling, standardization,&lt;br/&gt;conformance, enrichment, augmentation, and validation&lt;br/&gt;capabilities&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="LtUKsb7osVr84ornD984-1">
+        <mxCell id="BI1TVRTl637JLvggWWpa-13" value="&lt;ul style=&quot;font-size: 10px;&quot;&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;integrated metadata repository&lt;/li&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;profiling, standardization,&lt;br style=&quot;font-size: 10px;&quot;&gt;conformance, enrichment, augmentation, and validation&lt;br style=&quot;font-size: 10px;&quot;&gt;capabilities&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;fontSize=10;" vertex="1" parent="LtUKsb7osVr84ornD984-1">
           <mxGeometry x="760" y="160" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="BI1TVRTl637JLvggWWpa-14" value="&lt;ul&gt;&lt;li&gt;row and column level security&lt;/li&gt;&lt;li&gt;encryption and masking&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="LtUKsb7osVr84ornD984-1">

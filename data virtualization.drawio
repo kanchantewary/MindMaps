@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T09:11:39.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="gzGGdVjQtzLTIiXkvRp4" version="16.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-03T09:12:52.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="3vgoVk9n0P5ymexjQdZg" version="16.6.4" type="github" pages="3">
   <diagram id="-L9g1W_YFleN1eRqW0Zt" name="denodo">
     <mxGraphModel dx="1775" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -132,7 +132,7 @@
         <mxCell id="Wkk_XFJZV6SinoRUcr2d-11" value="connectivity" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="9eQoJ6_cL0LcJAiHgInl-1">
           <mxGeometry x="140" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wkk_XFJZV6SinoRUcr2d-12" value="&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;runs on a Redhat Openshift cluster&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;fontSize=10;" vertex="1" parent="9eQoJ6_cL0LcJAiHgInl-1">
+        <mxCell id="Wkk_XFJZV6SinoRUcr2d-12" value="&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;runs on a Redhat Openshift cluster&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;powered by DB2&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;fontSize=10;" vertex="1" parent="9eQoJ6_cL0LcJAiHgInl-1">
           <mxGeometry x="420" y="30" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Wkk_XFJZV6SinoRUcr2d-13" value="&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;fontSize=10;" vertex="1" parent="9eQoJ6_cL0LcJAiHgInl-1">

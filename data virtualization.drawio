@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T05:34:28.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="LV3UKm7YfUcBsxpRLosx" version="16.6.4" type="github">
-  <diagram id="-L9g1W_YFleN1eRqW0Zt" name="Page-1">
-    <mxGraphModel dx="1775" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-03-03T05:35:34.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Yigy2tkiijzdyXOq-zXG" version="16.6.4" type="github" pages="3">
+  <diagram id="-L9g1W_YFleN1eRqW0Zt" name="denodo">
+    <mxGraphModel dx="1775" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,6 +85,22 @@
         <mxCell id="jtlBsj4RMmiKG3bMawBm-25" value="&lt;ul&gt;&lt;li&gt;centralized web UI&lt;/li&gt;&lt;li&gt;automated infrastructure management&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
           <mxGeometry x="760" y="280" width="220" height="70" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5jW5l0gpTrEYVgcxyMkZ" name="cp4d">
+    <mxGraphModel dx="925" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="9eQoJ6_cL0LcJAiHgInl-0" />
+        <mxCell id="9eQoJ6_cL0LcJAiHgInl-1" parent="9eQoJ6_cL0LcJAiHgInl-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="r0BTErsrxEVVmQJmyU8c" name="tibco">
+    <mxGraphModel dx="925" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="LtUKsb7osVr84ornD984-0" />
+        <mxCell id="LtUKsb7osVr84ornD984-1" parent="LtUKsb7osVr84ornD984-0" />
       </root>
     </mxGraphModel>
   </diagram>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T08:42:54.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="VGgtwHFlltN-bMLACpwk" version="16.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-03T08:43:29.268Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="dES1FFmHj1jmVpUxxskP" version="16.6.4" type="github" pages="3">
   <diagram id="-L9g1W_YFleN1eRqW0Zt" name="denodo">
     <mxGraphModel dx="1775" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
         <mxCell id="BI1TVRTl637JLvggWWpa-6" value="deployment model" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="LtUKsb7osVr84ornD984-1">
           <mxGeometry x="420" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BI1TVRTl637JLvggWWpa-7" value="&lt;ul&gt;&lt;li&gt;Query optimization&lt;/li&gt;&lt;li&gt;caching&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="LtUKsb7osVr84ornD984-1">
+        <mxCell id="BI1TVRTl637JLvggWWpa-7" value="&lt;ul style=&quot;font-size: 10px;&quot;&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;Query optimization&lt;/li&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;caching&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;fontSize=10;" vertex="1" parent="LtUKsb7osVr84ornD984-1">
           <mxGeometry x="450" y="450" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BI1TVRTl637JLvggWWpa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="LtUKsb7osVr84ornD984-1" target="BI1TVRTl637JLvggWWpa-13">
@@ -146,10 +146,10 @@
         <mxCell id="BI1TVRTl637JLvggWWpa-13" value="&lt;ul style=&quot;font-size: 10px;&quot;&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;integrated metadata repository&lt;/li&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;profiling, standardization,&lt;br style=&quot;font-size: 10px;&quot;&gt;conformance, enrichment, augmentation, and validation&lt;br style=&quot;font-size: 10px;&quot;&gt;capabilities&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;fontSize=10;" vertex="1" parent="LtUKsb7osVr84ornD984-1">
           <mxGeometry x="760" y="160" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="BI1TVRTl637JLvggWWpa-14" value="&lt;ul&gt;&lt;li&gt;row and column level security&lt;/li&gt;&lt;li&gt;encryption and masking&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="LtUKsb7osVr84ornD984-1">
+        <mxCell id="BI1TVRTl637JLvggWWpa-14" value="&lt;ul style=&quot;font-size: 10px;&quot;&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;row and column level security&lt;/li&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;encryption and masking&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;fontSize=10;" vertex="1" parent="LtUKsb7osVr84ornD984-1">
           <mxGeometry x="210" y="450" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="BI1TVRTl637JLvggWWpa-15" value="Adapters for&amp;nbsp;databases, files, big data, cloud sources, packaged applications" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="LtUKsb7osVr84ornD984-1">
+        <mxCell id="BI1TVRTl637JLvggWWpa-15" value="Adapters for&amp;nbsp;databases, files, big data, cloud sources, packaged applications" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;" vertex="1" parent="LtUKsb7osVr84ornD984-1">
           <mxGeometry x="-140" y="195" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BI1TVRTl637JLvggWWpa-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="LtUKsb7osVr84ornD984-1" source="BI1TVRTl637JLvggWWpa-17" target="BI1TVRTl637JLvggWWpa-18">
@@ -161,7 +161,7 @@
         <mxCell id="BI1TVRTl637JLvggWWpa-17" value="Development &lt;br&gt;features" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="LtUKsb7osVr84ornD984-1">
           <mxGeometry x="140" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BI1TVRTl637JLvggWWpa-18" value="&lt;ul&gt;&lt;li&gt;Studio -&amp;nbsp;modeling, development, and resource management tool&lt;/li&gt;&lt;li&gt;XML support&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="LtUKsb7osVr84ornD984-1">
+        <mxCell id="BI1TVRTl637JLvggWWpa-18" value="&lt;ul style=&quot;font-size: 10px;&quot;&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;Studio -&amp;nbsp;modeling, development, and resource management tool&lt;/li&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;XML support&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;fontSize=10;" vertex="1" parent="LtUKsb7osVr84ornD984-1">
           <mxGeometry x="-140" y="290" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BI1TVRTl637JLvggWWpa-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="LtUKsb7osVr84ornD984-1" source="BI1TVRTl637JLvggWWpa-20" target="BI1TVRTl637JLvggWWpa-21">
@@ -191,7 +191,7 @@
         <mxCell id="BI1TVRTl637JLvggWWpa-25" value="Data Discovery" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="LtUKsb7osVr84ornD984-1">
           <mxGeometry x="-10" y="390" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BI1TVRTl637JLvggWWpa-27" value="&lt;ul&gt;&lt;li&gt;data profiling&lt;/li&gt;&lt;li&gt;build data model based on the discovered entity and attribute relationships&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="LtUKsb7osVr84ornD984-1">
+        <mxCell id="BI1TVRTl637JLvggWWpa-27" value="&lt;ul style=&quot;font-size: 10px;&quot;&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;data profiling&lt;/li&gt;&lt;li style=&quot;font-size: 10px;&quot;&gt;build data model based on the discovered entity and attribute relationships&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;fontSize=10;" vertex="1" parent="LtUKsb7osVr84ornD984-1">
           <mxGeometry x="-270" y="380" width="220" height="70" as="geometry" />
         </mxCell>
       </root>

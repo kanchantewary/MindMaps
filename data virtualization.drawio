@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T09:13:59.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="4SK7oA1g0LzCIYGTYYB3" version="16.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-03T09:15:43.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="R2z9SowcbtRCpqOuw1VJ" version="16.6.4" type="github" pages="3">
   <diagram id="-L9g1W_YFleN1eRqW0Zt" name="denodo">
     <mxGraphModel dx="1775" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -141,7 +141,7 @@
         <mxCell id="Wkk_XFJZV6SinoRUcr2d-30" value="roles" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;" edge="1" parent="9eQoJ6_cL0LcJAiHgInl-1" source="Wkk_XFJZV6SinoRUcr2d-14" target="Wkk_XFJZV6SinoRUcr2d-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wkk_XFJZV6SinoRUcr2d-14" value="&lt;ul&gt;&lt;li&gt;Transport Layer Security (TLS) to encrypt data in transit&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;fontSize=10;" vertex="1" parent="9eQoJ6_cL0LcJAiHgInl-1">
+        <mxCell id="Wkk_XFJZV6SinoRUcr2d-14" value="&lt;ul&gt;&lt;li&gt;Transport Layer Security (TLS) to encrypt data in transit&lt;br&gt;&lt;/li&gt;&lt;li&gt;External LDAP authentication&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;fontSize=10;" vertex="1" parent="9eQoJ6_cL0LcJAiHgInl-1">
           <mxGeometry x="210" y="450" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Wkk_XFJZV6SinoRUcr2d-15" value="&lt;ul&gt;&lt;li&gt;Data Virtualization REST API&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" vertex="1" parent="9eQoJ6_cL0LcJAiHgInl-1">

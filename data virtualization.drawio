@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T11:19:29.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="SUzl1vpyBlnI-r-tH9u-" version="16.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-04T11:20:06.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="GWDDuJ7r-xB8yBUOwjin" version="16.6.4" type="github" pages="4">
   <diagram id="-L9g1W_YFleN1eRqW0Zt" name="denodo">
     <mxGraphModel dx="1775" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -319,7 +319,7 @@
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-5" value="ETL Server (Extract, transform, integrate, cleanse and load" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
           <mxGeometry x="200" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IhH0JHQDqLi-rBaCO-3G-8" value="Data Store" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-8" value="Data Store" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
           <mxGeometry x="380" y="120" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-11" target="IhH0JHQDqLi-rBaCO-3G-15">
@@ -343,7 +343,7 @@
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.444;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Tahoma;fontSize=11;endArrow=classicThin;endFill=1;startArrow=openThin;startFill=0;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-16" target="IhH0JHQDqLi-rBaCO-3G-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IhH0JHQDqLi-rBaCO-3G-16" value="Data Store" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-16" value="Data Store" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
           <mxGeometry x="800" y="115" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-17" value="Transform" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
@@ -365,7 +365,7 @@
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-22" value="Data Source 2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
           <mxGeometry x="70" y="390" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IhH0JHQDqLi-rBaCO-3G-25" value="Data lake" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-25" value="Data lake" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
           <mxGeometry x="230" y="340" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-27" target="IhH0JHQDqLi-rBaCO-3G-31">
@@ -386,7 +386,7 @@
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-31" value="data replication" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
           <mxGeometry x="600" y="317.5" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="IhH0JHQDqLi-rBaCO-3G-32" value="Data Store" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-32" value="Data Store" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
           <mxGeometry x="790" y="335" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-33" target="IhH0JHQDqLi-rBaCO-3G-32">
@@ -421,7 +421,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IhH0JHQDqLi-rBaCO-3G-41" value="DV Layer" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-41" value="DV Layer" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
           <mxGeometry x="327" y="490" width="60" height="80" as="geometry" />
         </mxCell>
       </root>

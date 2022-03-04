@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T11:17:21.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="FFLPwsU2KVf2uEfn97Xj" version="16.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-04T11:17:44.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="LU0TRad6fEo1N8tOYogO" version="16.6.4" type="github" pages="4">
   <diagram id="-L9g1W_YFleN1eRqW0Zt" name="denodo">
     <mxGraphModel dx="1775" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -417,7 +417,6 @@
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-43" value="result dataset" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;fontFamily=Tahoma;fontSize=11;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-41" target="IhH0JHQDqLi-rBaCO-3G-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="378" y="653" />
               <mxPoint x="370" y="653" />
             </Array>
           </mxGeometry>

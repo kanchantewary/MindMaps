@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T12:43:58.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="9lBp9Y7vtki8XuhCJoRi" version="16.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-04T12:46:23.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="55UOOBz7usUztjpMmNcr" version="16.6.4" type="github" pages="4">
   <diagram id="-L9g1W_YFleN1eRqW0Zt" name="denodo">
     <mxGraphModel dx="1775" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -365,6 +365,12 @@
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-22" value="Data Source 2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
           <mxGeometry x="70" y="390" width="60" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-55" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=classicThin;startFill=1;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-25" target="IhH0JHQDqLi-rBaCO-3G-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-57" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Tahoma;fontSize=11;startArrow=classicThin;startFill=1;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-25" target="IhH0JHQDqLi-rBaCO-3G-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-25" value="Data lake" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
           <mxGeometry x="230" y="340" width="60" height="80" as="geometry" />
         </mxCell>
@@ -416,6 +422,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-59" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Tahoma;fontSize=11;startArrow=classicThin;startFill=1;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-41" target="IhH0JHQDqLi-rBaCO-3G-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-41" value="DV Layer" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
           <mxGeometry x="380" y="490" width="60" height="80" as="geometry" />
         </mxCell>
@@ -439,6 +448,15 @@
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-50" value="cache" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;dashed=1;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
           <mxGeometry x="300" y="515" width="55" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-54" value="Users" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
+          <mxGeometry x="350" y="355.5" width="46" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-56" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.dashboard;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
+          <mxGeometry x="346" y="300" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-58" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.dashboard;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
+          <mxGeometry x="503" y="591" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

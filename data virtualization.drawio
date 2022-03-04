@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T12:46:23.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="55UOOBz7usUztjpMmNcr" version="16.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-04T12:47:40.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="m8h0wKqDsjFcYjfjWHNG" version="16.6.4" type="github" pages="4">
   <diagram id="-L9g1W_YFleN1eRqW0Zt" name="denodo">
     <mxGraphModel dx="1775" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -319,6 +319,12 @@
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-5" value="ETL Server (Extract, transform, integrate, cleanse and load" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
           <mxGeometry x="200" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-70" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=classicThin;startFill=1;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-8" target="IhH0JHQDqLi-rBaCO-3G-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-71" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Tahoma;fontSize=11;startArrow=classicThin;startFill=1;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-8" target="IhH0JHQDqLi-rBaCO-3G-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-8" value="Data Store" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
           <mxGeometry x="380" y="120" width="60" height="80" as="geometry" />
         </mxCell>
@@ -326,28 +332,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-11" value="Data Source 1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
-          <mxGeometry x="490" y="75" width="60" height="80" as="geometry" />
+          <mxGeometry x="620" y="75" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-13" target="IhH0JHQDqLi-rBaCO-3G-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-13" value="Data Source 2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
-          <mxGeometry x="490" y="165" width="60" height="80" as="geometry" />
+          <mxGeometry x="620" y="165" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-15" target="IhH0JHQDqLi-rBaCO-3G-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-15" value="ELT (Extract and Load)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
-          <mxGeometry x="620" y="125" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="125" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.444;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Tahoma;fontSize=11;endArrow=classicThin;endFill=1;startArrow=openThin;startFill=0;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-16" target="IhH0JHQDqLi-rBaCO-3G-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-68" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Tahoma;fontSize=11;startArrow=classicThin;startFill=1;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-16" target="IhH0JHQDqLi-rBaCO-3G-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-69" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=classicThin;startFill=1;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-16" target="IhH0JHQDqLi-rBaCO-3G-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-16" value="Data Store" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
-          <mxGeometry x="800" y="115" width="60" height="80" as="geometry" />
+          <mxGeometry x="930" y="115" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-17" value="Transform" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
-          <mxGeometry x="789" y="230" width="93" height="30" as="geometry" />
+          <mxGeometry x="919" y="230" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-19" value="copy" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-20" target="IhH0JHQDqLi-rBaCO-3G-25">
           <mxGeometry relative="1" as="geometry">
@@ -378,28 +390,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-27" value="Data Source 1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
-          <mxGeometry x="480" y="295" width="60" height="80" as="geometry" />
+          <mxGeometry x="610" y="295" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-29" target="IhH0JHQDqLi-rBaCO-3G-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-29" value="Data Source 2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
-          <mxGeometry x="480" y="385" width="60" height="80" as="geometry" />
+          <mxGeometry x="610" y="385" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-31" target="IhH0JHQDqLi-rBaCO-3G-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-31" value="data replication" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
-          <mxGeometry x="600" y="317.5" width="70" height="35" as="geometry" />
+          <mxGeometry x="730" y="317.5" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-66" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=classicThin;startFill=1;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-32" target="IhH0JHQDqLi-rBaCO-3G-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Tahoma;fontSize=11;startArrow=classicThin;startFill=1;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-32" target="IhH0JHQDqLi-rBaCO-3G-65">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-32" value="Data Store" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Tahoma;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
-          <mxGeometry x="790" y="335" width="60" height="80" as="geometry" />
+          <mxGeometry x="920" y="335" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-33" target="IhH0JHQDqLi-rBaCO-3G-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-33" value="data replication" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
-          <mxGeometry x="600" y="407.5" width="70" height="35" as="geometry" />
+          <mxGeometry x="730" y="407.5" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-37" value="result dataset" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=classicThin;endFill=1;startArrow=none;startFill=0;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="IhH0JHQDqLi-rBaCO-3G-1" source="IhH0JHQDqLi-rBaCO-3G-38" target="IhH0JHQDqLi-rBaCO-3G-41">
           <mxGeometry relative="1" as="geometry">
@@ -457,6 +475,24 @@
         </mxCell>
         <mxCell id="IhH0JHQDqLi-rBaCO-3G-58" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.dashboard;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
           <mxGeometry x="503" y="591" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-60" value="Users" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
+          <mxGeometry x="484" y="150" width="46" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-61" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.dashboard;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
+          <mxGeometry x="480" y="94.5" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-62" value="Users" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
+          <mxGeometry x="1054" y="160" width="46" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-63" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.dashboard;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
+          <mxGeometry x="1050" y="84.5" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-64" value="Users" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
+          <mxGeometry x="1058" y="373" width="46" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IhH0JHQDqLi-rBaCO-3G-65" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.dashboard;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="IhH0JHQDqLi-rBaCO-3G-1">
+          <mxGeometry x="1054" y="317.5" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

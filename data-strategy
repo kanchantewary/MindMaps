@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T14:57:02.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="7Werh1pvsnCoUuMIbAFM" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T14:57:11.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="-g5Sc5ppYbnm9O3Ykr4O" version="16.6.4" type="github">
   <diagram id="UUOuqIWbBqUZXSSypKxw" name="Page-1">
     <mxGraphModel dx="1088" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -69,9 +69,6 @@
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-18" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Break data silos in a hybrid or multi-cloud environment&amp;nbsp;&lt;/span&gt;&lt;span&gt;(Data fabric or data virtualization)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Define&amp;nbsp;&lt;/span&gt;Data Storage &amp;amp; Access Strategy&lt;/li&gt;&lt;li&gt;&lt;span&gt;Data sharing&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="300" y="270" width="280" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="GZyilb-u1pMrvekiKiSH-19" value="Enterprise Data Strategy" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="120" y="-190" width="1030" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-20" value="Change Management" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1030" y="120" width="120" height="60" as="geometry" />

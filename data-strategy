@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T14:14:28.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="rjlEuHBR1hE57-bOajM3" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T14:14:57.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="TlTm6iN_58LFZY-aC6Wh" version="16.6.4" type="github">
   <diagram id="UUOuqIWbBqUZXSSypKxw" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -82,8 +82,8 @@
             <mxPoint x="1083" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GZyilb-u1pMrvekiKiSH-22" value="Prepare for the change -&amp;nbsp;Assess organisation maturity and readiness to be data driven&lt;br&gt;Establish a clear vision and roadmap&lt;br&gt;Initiate change&lt;br&gt;Scale the change initiate&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(7 , 18 , 36) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif&quot;&gt;Monitor Progress and Track Results&lt;/span&gt;&lt;br&gt;Define migration strategy" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="983" y="-110" width="198" height="135" as="geometry" />
+        <mxCell id="GZyilb-u1pMrvekiKiSH-22" value="&lt;ul&gt;&lt;li&gt;Prepare for the change -&amp;nbsp;Assess organisation maturity and readiness to be data driven&lt;/li&gt;&lt;li&gt;Establish a clear vision and roadmap&lt;/li&gt;&lt;li&gt;Initiate change&lt;/li&gt;&lt;li&gt;Scale the change initiate&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(7 , 18 , 36) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif&quot;&gt;Monitor Progress and Track Results&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Define migration strategy&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="964.5" y="-110" width="237" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

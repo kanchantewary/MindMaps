@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T13:00:11.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="4JVlPW3SXDSZPHmk5q0v" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T13:00:37.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="fUWifRx0nqb2-FxHWYkn" version="16.6.4" type="github">
   <diagram id="UUOuqIWbBqUZXSSypKxw" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,19 +7,19 @@
         <mxCell id="GZyilb-u1pMrvekiKiSH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;" edge="1" parent="1" source="GZyilb-u1pMrvekiKiSH-1" target="GZyilb-u1pMrvekiKiSH-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GZyilb-u1pMrvekiKiSH-1" value="Data Collection" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="GZyilb-u1pMrvekiKiSH-1" value="Data Collection" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="120" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GZyilb-u1pMrvekiKiSH-2" value="Make Data accessible and queryable" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="GZyilb-u1pMrvekiKiSH-2" value="Make Data accessible and queryable" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="380" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GZyilb-u1pMrvekiKiSH-3" value="Generate Reports and alerts" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="GZyilb-u1pMrvekiKiSH-3" value="Generate Reports and alerts" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="510" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GZyilb-u1pMrvekiKiSH-4" value="Generate forecast" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="GZyilb-u1pMrvekiKiSH-4" value="Generate forecast" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="640" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GZyilb-u1pMrvekiKiSH-5" value="Communication" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="GZyilb-u1pMrvekiKiSH-5" value="Communication" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="770" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-6" value="Does the organisation collect all data required for?&lt;br&gt;transactions, application logs, customer data, IoT, social media, 3rd party data, medical records" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
@@ -28,13 +28,13 @@
         <mxCell id="GZyilb-u1pMrvekiKiSH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;" edge="1" parent="1" source="GZyilb-u1pMrvekiKiSH-8" target="GZyilb-u1pMrvekiKiSH-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GZyilb-u1pMrvekiKiSH-8" value="Data Management" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="GZyilb-u1pMrvekiKiSH-8" value="Data Management" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="250" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-10" value="Data localization Laws&lt;br&gt;Data Privacy Laws - GDPR/CCPA&lt;br&gt;Other Regulations - PCI-DSS, HIPAA&lt;br&gt;Data retention requirements - auditing and legal hold" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="205" y="-20" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GZyilb-u1pMrvekiKiSH-12" value="Manage Cost" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="GZyilb-u1pMrvekiKiSH-12" value="Manage Cost" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="900" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GZyilb-u1pMrvekiKiSH-2">

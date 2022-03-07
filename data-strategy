@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T13:12:36.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="x4kwMlNiH5GQYsUVDbOG" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T13:13:56.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="avYUy2qWRYcXF-mkjrHi" version="16.6.4" type="github">
   <diagram id="UUOuqIWbBqUZXSSypKxw" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,8 +31,8 @@
         <mxCell id="GZyilb-u1pMrvekiKiSH-8" value="Data Management" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="250" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GZyilb-u1pMrvekiKiSH-10" value="Data localization Laws&lt;br&gt;Data Privacy Laws - GDPR/CCPA&lt;br&gt;Other Regulations - PCI-DSS, HIPAA&lt;br&gt;Data retention requirements - auditing and legal hold&lt;br&gt;Ensure Data Security" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="167.5" y="-20" width="285" height="80" as="geometry" />
+        <mxCell id="GZyilb-u1pMrvekiKiSH-10" value="Data localization Laws&lt;br&gt;Data Privacy Laws - GDPR/CCPA&lt;br&gt;Other Regulations - PCI-DSS, HIPAA&lt;br&gt;Data retention requirements - auditing and legal hold&lt;br&gt;Ensure Data Security&lt;br&gt;Data Governance" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="-40" width="285" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-12" value="Manage Cost" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="900" y="120" width="120" height="60" as="geometry" />

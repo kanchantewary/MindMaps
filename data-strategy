@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T17:06:55.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="zn9PBGswqvFzMZEsXmi5" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T17:08:11.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="emMpr5KBGNKN0ar3pK7C" version="16.6.4" type="github">
   <diagram id="UUOuqIWbBqUZXSSypKxw" name="Page-1">
     <mxGraphModel dx="1938" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -115,8 +115,8 @@
             <mxPoint x="48" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GZyilb-u1pMrvekiKiSH-34" value="What are the business use cases?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="-18" y="10" width="132" height="36.25" as="geometry" />
+        <mxCell id="GZyilb-u1pMrvekiKiSH-34" value="What are the business use cases?&lt;br&gt;Set a strong vision" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="-18" y="-10" width="132" height="56.25" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-35" value="Build Capability" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1290" y="120" width="120" height="60" as="geometry" />

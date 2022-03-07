@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T14:19:29.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="0fcNGZuRrIVsguL9qut6" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T14:27:13.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="2eMlJjM-Wy4FqY10viip" version="16.6.4" type="github">
   <diagram id="UUOuqIWbBqUZXSSypKxw" name="Page-1">
     <mxGraphModel dx="1088" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -84,6 +84,9 @@
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-22" value="&lt;ul&gt;&lt;li&gt;Prepare for the change -&amp;nbsp;Assess organisation maturity and readiness to be data driven&lt;/li&gt;&lt;li&gt;Establish a clear vision and roadmap&lt;/li&gt;&lt;li&gt;Define KPIs and assign stakeholders&lt;/li&gt;&lt;li&gt;Define migration strategy&lt;/li&gt;&lt;li&gt;Initiate change&lt;/li&gt;&lt;li&gt;Scale the change initiative&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(7 , 18 , 36) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif&quot;&gt;Monitor Progress and Track Results&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="964.5" y="-110" width="237" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="GZyilb-u1pMrvekiKiSH-23" value="Perform Cost Benefit Analysis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="870" y="260" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

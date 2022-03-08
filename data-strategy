@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T11:48:08.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="LzNrdL3i679fu_NXIxPG" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T11:50:12.298Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="rGS76nP-CKyqJUaDDREr" version="16.6.4" type="github">
   <diagram id="UUOuqIWbBqUZXSSypKxw" name="Page-1">
     <mxGraphModel dx="1938" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -133,8 +133,8 @@
             <mxPoint x="1343.0588235294122" y="56.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GZyilb-u1pMrvekiKiSH-37" value="&lt;ul&gt;&lt;li&gt;Identify required skill sets and gaps&lt;/li&gt;&lt;li&gt;Define delivery model - Insourcing/Outsourcing/partnering&lt;/li&gt;&lt;li&gt;Define Training requirements&lt;/li&gt;&lt;li&gt;Carry out Proof of concepts - simple and robust&lt;/li&gt;&lt;li&gt;Adopt methodologies&lt;br&gt;Define and enrich best practices&lt;br&gt;Knowledge sharing&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="1206" y="-90" width="274" height="146.25" as="geometry" />
+        <mxCell id="GZyilb-u1pMrvekiKiSH-37" value="&lt;ul&gt;&lt;li&gt;Identify required skill sets and gaps&lt;/li&gt;&lt;li&gt;Define delivery model - Insourcing/Outsourcing/partnering&lt;/li&gt;&lt;li&gt;Define Training requirements&lt;/li&gt;&lt;li&gt;Carry out Proof of concepts - simple and robust&lt;/li&gt;&lt;li&gt;Adopt methodologies&lt;/li&gt;&lt;li&gt;Define and enrich best practices&lt;/li&gt;&lt;li&gt;Document lessons learnt&lt;/li&gt;&lt;li&gt;Promote Knowledge sharing&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="1206" y="-110" width="274" height="166.25" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-40" value="Data &lt;br&gt;has to be timely, &lt;br&gt;relevant and &lt;br&gt;trusted" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="470" y="-160" width="140" height="100" as="geometry" />

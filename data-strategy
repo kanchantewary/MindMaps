@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T12:59:41.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="7mo0yV2avhSah98ZgeR8" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T13:00:21.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="lYs9VY4TY0UDPZRnr9aL" version="16.6.4" type="github">
   <diagram id="UUOuqIWbBqUZXSSypKxw" name="Page-1">
     <mxGraphModel dx="1233" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -73,8 +73,8 @@
             <mxPoint x="1350" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GZyilb-u1pMrvekiKiSH-18" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Develop data architecture&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Break data silos in a hybrid or multi-cloud environment&amp;nbsp;&lt;/span&gt;&lt;span&gt;(Data fabric or data virtualization)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Define&amp;nbsp;&lt;/span&gt;Data Storage &amp;amp; Access Strategy&lt;/li&gt;&lt;li&gt;&lt;span&gt;Data sharing&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="690" y="700" width="280" height="100" as="geometry" />
+        <mxCell id="GZyilb-u1pMrvekiKiSH-18" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Develop data architecture&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Break data silos in a hybrid or multi-cloud environment&amp;nbsp;&lt;/span&gt;&lt;span&gt;(Data fabric or data virtualization)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Define&amp;nbsp;&lt;/span&gt;Data Storage &amp;amp; Access Strategy&lt;/li&gt;&lt;li&gt;&lt;span&gt;Data sharing&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Data Availability Requirements&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="690" y="700" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-20" value="Change Management" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1420" y="550" width="120" height="60" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T13:00:21.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="lYs9VY4TY0UDPZRnr9aL" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T13:02:10.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="p2duZOjjumIU1k6pC6st" version="16.6.4" type="github">
   <diagram id="UUOuqIWbBqUZXSSypKxw" name="Page-1">
     <mxGraphModel dx="1233" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -109,8 +109,8 @@
             <mxPoint x="1610" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GZyilb-u1pMrvekiKiSH-31" value="Open source? Vendor lock-in?&amp;nbsp;&lt;br&gt;What is the Cloud Strategy? Multi-cloud ?&lt;br&gt;What is the Data volume?&lt;br&gt;What is acceptable data latency?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="690" width="240" height="70" as="geometry" />
+        <mxCell id="GZyilb-u1pMrvekiKiSH-31" value="&lt;ul&gt;&lt;li&gt;Open source? Vendor lock-in?&amp;nbsp;&lt;/li&gt;&lt;li&gt;What is the Cloud Strategy? Multi-cloud ?&lt;/li&gt;&lt;li&gt;What is the Data volume?&lt;/li&gt;&lt;li&gt;What is acceptable data latency?&lt;/li&gt;&lt;li&gt;What is the pricing model of the vendor?&lt;/li&gt;&lt;li&gt;Sizing&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="690" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-32" value="Align with Business Priorities" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="378" y="550" width="120" height="60" as="geometry" />

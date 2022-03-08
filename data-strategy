@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T05:58:29.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="zf-zcsPy6fQDbBmEbjv6" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T06:00:48.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ZqMFujBrMSZAQ0kHX-do" version="16.6.4" type="github">
   <diagram id="UUOuqIWbBqUZXSSypKxw" name="Page-1">
     <mxGraphModel dx="1938" dy="1656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="GZyilb-u1pMrvekiKiSH-41" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Tahoma;endArrow=none;endFill=0;dashed=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="GZyilb-u1pMrvekiKiSH-10" target="GZyilb-u1pMrvekiKiSH-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GZyilb-u1pMrvekiKiSH-10" value="&lt;ul&gt;&lt;li&gt;Data localization Laws&lt;/li&gt;&lt;li&gt;Data Privacy Laws - GDPR/CCPA&lt;/li&gt;&lt;li&gt;Other Regulations - PCI-DSS, HIPAA&lt;/li&gt;&lt;li&gt;Data retention requirements - auditing and legal hold&lt;/li&gt;&lt;li&gt;Ensure Data Security&lt;/li&gt;&lt;li&gt;Data Governance&lt;/li&gt;&lt;li&gt;Data Quality Management&lt;/li&gt;&lt;li&gt;Master Data Management&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="GZyilb-u1pMrvekiKiSH-10" value="&lt;ul&gt;&lt;li&gt;Data localization Laws&lt;/li&gt;&lt;li&gt;Data Privacy Laws - GDPR/CCPA&lt;/li&gt;&lt;li&gt;Other Regulations - PCI-DSS, HIPAA&lt;/li&gt;&lt;li&gt;Data retention requirements - auditing and legal hold&lt;/li&gt;&lt;li&gt;Ensure Data Security&lt;/li&gt;&lt;li&gt;Data Governance&lt;/li&gt;&lt;li&gt;Data Quality Management&lt;/li&gt;&lt;li&gt;Master Data Management&lt;/li&gt;&lt;li&gt;Data Provenance&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="167.5" y="-90" width="285" height="150" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-12" value="Manage Cost" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">

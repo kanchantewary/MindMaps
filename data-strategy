@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T13:06:18.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="x_bQrPvzj5f07i-jAGgA" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T13:07:56.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="h0STQRr4qjoXnlVf-NkX" version="16.6.4" type="github">
   <diagram id="UUOuqIWbBqUZXSSypKxw" name="Page-1">
     <mxGraphModel dx="1233" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -163,7 +163,7 @@
             <mxPoint x="1993.0588235294122" y="486.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GZyilb-u1pMrvekiKiSH-49" value="&lt;ul&gt;&lt;li&gt;Adopt Agile Methods, DevOps&lt;/li&gt;&lt;li&gt;Create cross-functional teams&lt;/li&gt;&lt;li&gt;Create Innovation Squads&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="GZyilb-u1pMrvekiKiSH-49" value="&lt;ul&gt;&lt;li&gt;Adopt Agile Methods, DevOps&lt;/li&gt;&lt;li&gt;Create cross-functional teams&lt;/li&gt;&lt;li&gt;Create Innovation Squads&lt;/li&gt;&lt;li&gt;Limit Technical Debt&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="1885" y="410" width="217" height="76.25" as="geometry" />
         </mxCell>
       </root>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T12:49:45.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="TzI0S0WW64kF46hFpYLJ" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T12:57:15.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="lw82M2VeyYryl7R8kxc1" version="16.6.4" type="github">
   <diagram id="UUOuqIWbBqUZXSSypKxw" name="Page-1">
-    <mxGraphModel dx="1938" dy="1656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3700" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,163 +8,163 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-1" value="Data Collection" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="120" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-2" value="Make Data accessible and queryable" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="380" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-3" value="Generate Reports and alerts" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="510" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-4" value="Generate insights, forecast and recommendation" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="640" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1030" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-5" value="Stakeholder Management" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="770" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1160" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-43" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="GZyilb-u1pMrvekiKiSH-6" target="GZyilb-u1pMrvekiKiSH-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-6" value="&lt;ul&gt;&lt;li&gt;Does the organisation collect all data required for? transactions, application logs, customer data, IoT, social media, 3rd party data, medical records, External data sets (open/commercial)&lt;/li&gt;&lt;li&gt;Prioritize data sources in terms of business value, quality and reliability&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="67.5" y="270" width="225" height="140" as="geometry" />
+          <mxGeometry x="457.5" y="700" width="225" height="140" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;" edge="1" parent="1" source="GZyilb-u1pMrvekiKiSH-8" target="GZyilb-u1pMrvekiKiSH-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-8" value="Data Management" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="250" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-41" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Tahoma;endArrow=none;endFill=0;dashed=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="GZyilb-u1pMrvekiKiSH-10" target="GZyilb-u1pMrvekiKiSH-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-10" value="&lt;ul&gt;&lt;li&gt;Data localization Laws&lt;/li&gt;&lt;li&gt;Data Privacy Laws - GDPR/CCPA&lt;/li&gt;&lt;li&gt;Other Regulations - PCI-DSS, HIPAA&lt;/li&gt;&lt;li&gt;Data retention requirements - auditing and legal hold&lt;/li&gt;&lt;li&gt;Ensure Data Security&lt;/li&gt;&lt;li&gt;Data Governance&lt;/li&gt;&lt;li&gt;Data Quality Management&lt;/li&gt;&lt;li&gt;Master Data Management&lt;/li&gt;&lt;li&gt;Data Provenance&lt;/li&gt;&lt;li&gt;Data Observability&lt;/li&gt;&lt;li&gt;Metadata management&lt;/li&gt;&lt;li&gt;Enterprise Business Glossary&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="167.5" y="-140" width="285" height="200" as="geometry" />
+          <mxGeometry x="557.5" y="290" width="285" height="200" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-12" value="Manage Cost" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="900" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1290" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GZyilb-u1pMrvekiKiSH-2" target="GZyilb-u1pMrvekiKiSH-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="190" as="sourcePoint" />
-            <mxPoint x="440" y="270" as="targetPoint" />
+            <mxPoint x="580" y="620" as="sourcePoint" />
+            <mxPoint x="830" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="GZyilb-u1pMrvekiKiSH-3" target="GZyilb-u1pMrvekiKiSH-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="190" as="sourcePoint" />
-            <mxPoint x="570" y="30" as="targetPoint" />
+            <mxPoint x="840" y="620" as="sourcePoint" />
+            <mxPoint x="960" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GZyilb-u1pMrvekiKiSH-4" target="GZyilb-u1pMrvekiKiSH-27">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="200" as="sourcePoint" />
-            <mxPoint x="700" y="270" as="targetPoint" />
+            <mxPoint x="850" y="630" as="sourcePoint" />
+            <mxPoint x="1090" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;exitX=0.44;exitY=0.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GZyilb-u1pMrvekiKiSH-5" target="GZyilb-u1pMrvekiKiSH-24">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="210" as="sourcePoint" />
-            <mxPoint x="823" y="40" as="targetPoint" />
+            <mxPoint x="860" y="640" as="sourcePoint" />
+            <mxPoint x="1213" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GZyilb-u1pMrvekiKiSH-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="220" as="sourcePoint" />
-            <mxPoint x="960" y="260" as="targetPoint" />
+            <mxPoint x="870" y="650" as="sourcePoint" />
+            <mxPoint x="1350" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-18" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Develop data architecture&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Break data silos in a hybrid or multi-cloud environment&amp;nbsp;&lt;/span&gt;&lt;span&gt;(Data fabric or data virtualization)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Define&amp;nbsp;&lt;/span&gt;Data Storage &amp;amp; Access Strategy&lt;/li&gt;&lt;li&gt;&lt;span&gt;Data sharing&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="300" y="270" width="280" height="100" as="geometry" />
+          <mxGeometry x="690" y="700" width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-20" value="Change Management" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1420" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;exitX=0.44;exitY=0.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GZyilb-u1pMrvekiKiSH-20" target="GZyilb-u1pMrvekiKiSH-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="210" as="sourcePoint" />
-            <mxPoint x="1083" y="40" as="targetPoint" />
+            <mxPoint x="1120" y="640" as="sourcePoint" />
+            <mxPoint x="1473" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-22" value="&lt;ul&gt;&lt;li&gt;Prepare for the change -&amp;nbsp;Assess organisation maturity and readiness to be data driven&lt;/li&gt;&lt;li&gt;Establish a clear vision and roadmap&lt;/li&gt;&lt;li&gt;Define KPIs and assign stakeholders&lt;/li&gt;&lt;li&gt;Define migration strategy&lt;/li&gt;&lt;li&gt;Initiate change&lt;/li&gt;&lt;li&gt;Scale the change initiative&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(7 , 18 , 36) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif&quot;&gt;Monitor Progress and Track Results&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(7 , 18 , 36) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif&quot;&gt;Training for Business users and Data Stewards&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="946.25" y="-110" width="274.75" height="166.25" as="geometry" />
+          <mxGeometry x="1336.25" y="320" width="274.75" height="166.25" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-23" value="&lt;ul&gt;&lt;li&gt;Calculate TCO&lt;/li&gt;&lt;li&gt;Perform Cost Benefit Analysis&lt;/li&gt;&lt;li&gt;Perform Risk assessment&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="870" y="260" width="220" height="60" as="geometry" />
+          <mxGeometry x="1260" y="690" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-24" value="&lt;ul&gt;&lt;li&gt;Identify Key Internal and external stakeholders - internal IT teams, business units, executive sponsors, Finance&lt;/li&gt;&lt;li&gt;Clear and concise communication&lt;/li&gt;&lt;li&gt;Raise awareness&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="704" y="-60" width="237" height="109.25" as="geometry" />
+          <mxGeometry x="1094" y="370" width="237" height="109.25" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-26" value="Define Data visualization tools and capabilities&lt;br&gt;Define KPIs" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="482.5" y="6.25" width="175" height="50" as="geometry" />
+          <mxGeometry x="872.5" y="436.25" width="175" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-27" value="Predictive analytics&lt;br&gt;Ad-hoc data discovery" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="635" y="285" width="130" height="30" as="geometry" />
+          <mxGeometry x="1025" y="715" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-29" value="Technology Choice" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1550" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GZyilb-u1pMrvekiKiSH-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="220" as="sourcePoint" />
-            <mxPoint x="1220" y="260" as="targetPoint" />
+            <mxPoint x="1130" y="650" as="sourcePoint" />
+            <mxPoint x="1610" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-31" value="Open source? Vendor lock-in?&amp;nbsp;&lt;br&gt;Multi-cloud ?&lt;br&gt;What is the Data volume?&lt;br&gt;What is acceptable data latency?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="260" width="220" height="70" as="geometry" />
+          <mxGeometry x="1520" y="690" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-32" value="Align with Business Priorities" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-12" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="378" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="GZyilb-u1pMrvekiKiSH-32" target="GZyilb-u1pMrvekiKiSH-34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="190" as="sourcePoint" />
-            <mxPoint x="48" y="60" as="targetPoint" />
+            <mxPoint x="580" y="620" as="sourcePoint" />
+            <mxPoint x="438" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-34" value="&lt;ul&gt;&lt;li&gt;What are the business use cases?&lt;/li&gt;&lt;li&gt;Set a strong vision&lt;/li&gt;&lt;li&gt;What are the business metrics? How do we measure it?&lt;/li&gt;&lt;li&gt;Identify the pain points in business?&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="-62.5" y="-60" width="221" height="109.25" as="geometry" />
+          <mxGeometry x="327.5" y="370" width="221" height="109.25" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-35" value="Build Capability" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1680" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;exitX=0.44;exitY=0.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GZyilb-u1pMrvekiKiSH-35" target="GZyilb-u1pMrvekiKiSH-37">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="990" y="210" as="sourcePoint" />
-            <mxPoint x="1343.0588235294122" y="56.25" as="targetPoint" />
+            <mxPoint x="1380" y="640" as="sourcePoint" />
+            <mxPoint x="1733.0588235294122" y="486.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-37" value="&lt;ul&gt;&lt;li&gt;Identify required skill sets and gaps&lt;/li&gt;&lt;li&gt;Define delivery model - Insourcing/Outsourcing/partnering&lt;/li&gt;&lt;li&gt;Define Training requirements&lt;/li&gt;&lt;li&gt;Carry out Proof of concepts - simple and robust&lt;/li&gt;&lt;li&gt;Adopt methodologies&lt;/li&gt;&lt;li&gt;Define and enrich best practices&lt;/li&gt;&lt;li&gt;Document lessons learnt&lt;/li&gt;&lt;li&gt;Promote Knowledge sharing&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="1206" y="-110" width="274" height="166.25" as="geometry" />
+          <mxGeometry x="1596" y="320" width="274" height="166.25" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-40" value="Data &lt;br&gt;has to be timely, &lt;br&gt;relevant and &lt;br&gt;trusted" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-220" width="140" height="100" as="geometry" />
+          <mxGeometry x="860" y="210" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-42" value="Improve &lt;br&gt;processes&amp;nbsp;to &lt;br&gt;&amp;nbsp; &amp;nbsp;mitigate data errors &lt;br&gt;at source" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="210" width="150" height="100" as="geometry" />
+          <mxGeometry x="290" y="640" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-44" value="Data driven culture" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1810" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GZyilb-u1pMrvekiKiSH-44" target="GZyilb-u1pMrvekiKiSH-46">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1352.7999999999997" y="130.53999999999996" as="sourcePoint" />
-            <mxPoint x="1480" y="260" as="targetPoint" />
+            <mxPoint x="1742.7999999999997" y="560.54" as="sourcePoint" />
+            <mxPoint x="1870" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-46" value="Evidence based actions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="1392.5" y="270" width="175" height="30" as="geometry" />
+          <mxGeometry x="1782.5" y="700" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-47" value="Execution" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1940" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-48" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;exitX=0.44;exitY=0.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GZyilb-u1pMrvekiKiSH-47" target="GZyilb-u1pMrvekiKiSH-49">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1250" y="210" as="sourcePoint" />
-            <mxPoint x="1603.0588235294122" y="56.25" as="targetPoint" />
+            <mxPoint x="1640" y="640" as="sourcePoint" />
+            <mxPoint x="1993.0588235294122" y="486.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GZyilb-u1pMrvekiKiSH-49" value="&lt;ul&gt;&lt;li&gt;Adopt Agile Methods, DevOps&lt;/li&gt;&lt;li&gt;Create cross-functional teams&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="1513" y="-10" width="180" height="66.25" as="geometry" />
+        <mxCell id="GZyilb-u1pMrvekiKiSH-49" value="&lt;ul&gt;&lt;li&gt;Adopt Agile Methods, DevOps&lt;/li&gt;&lt;li&gt;Create cross-functional teams&lt;/li&gt;&lt;li&gt;Create Innovation Squads&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="1885" y="410" width="217" height="76.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

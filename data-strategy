@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T12:04:29.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ErJYopRuEp_Qq9xKAjGQ" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T12:10:10.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="R1TEYxiiAR36yXvPLQVN" version="16.6.4" type="github">
   <diagram id="UUOuqIWbBqUZXSSypKxw" name="Page-1">
     <mxGraphModel dx="1938" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -121,8 +121,8 @@
             <mxPoint x="48" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GZyilb-u1pMrvekiKiSH-34" value="&lt;ul&gt;&lt;li&gt;What are the business use cases?&lt;/li&gt;&lt;li&gt;Set a strong vision&lt;/li&gt;&lt;li&gt;What are the business metrics? How do we measure it?&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="-41" y="-60" width="178" height="109.25" as="geometry" />
+        <mxCell id="GZyilb-u1pMrvekiKiSH-34" value="&lt;ul&gt;&lt;li&gt;What are the business use cases?&lt;/li&gt;&lt;li&gt;Set a strong vision&lt;/li&gt;&lt;li&gt;What are the business metrics? How do we measure it?&lt;/li&gt;&lt;li&gt;Identify the pain points in business?&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="-62.5" y="-60" width="221" height="109.25" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-35" value="Build Capability" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1290" y="120" width="120" height="60" as="geometry" />

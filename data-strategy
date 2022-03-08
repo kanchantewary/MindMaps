@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T12:10:10.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="R1TEYxiiAR36yXvPLQVN" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T12:10:53.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="oKDk8J8DCmmIQujWni8-" version="16.6.4" type="github">
   <diagram id="UUOuqIWbBqUZXSSypKxw" name="Page-1">
     <mxGraphModel dx="1938" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -91,8 +91,8 @@
         <mxCell id="GZyilb-u1pMrvekiKiSH-23" value="&lt;ul&gt;&lt;li&gt;Calculate TCO&lt;/li&gt;&lt;li&gt;Perform Cost Benefit Analysis&lt;/li&gt;&lt;li&gt;Perform Risk assessment&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="870" y="260" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GZyilb-u1pMrvekiKiSH-24" value="&lt;ul&gt;&lt;li&gt;Identify Key Internal and external stakeholders - internal IT teams, business units, executive sponsors, Finance&lt;/li&gt;&lt;li&gt;Clear and concise communication&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="704" y="-47" width="237" height="96.25" as="geometry" />
+        <mxCell id="GZyilb-u1pMrvekiKiSH-24" value="&lt;ul&gt;&lt;li&gt;Identify Key Internal and external stakeholders - internal IT teams, business units, executive sponsors, Finance&lt;/li&gt;&lt;li&gt;Clear and concise communication&lt;/li&gt;&lt;li&gt;Raise awareness&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="704" y="-60" width="237" height="109.25" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-26" value="Define Data visualization tools and capabilities&lt;br&gt;Define KPIs" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="482.5" y="6.25" width="175" height="50" as="geometry" />

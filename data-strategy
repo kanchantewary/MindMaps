@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T05:44:57.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="hA4diiOdZyBP2wUiZ4cs" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T05:50:35.102Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="-5c3etCXiu513hnlNqQH" version="16.6.4" type="github">
   <diagram id="UUOuqIWbBqUZXSSypKxw" name="Page-1">
     <mxGraphModel dx="1938" dy="1656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-5" value="Stakeholder Management" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="770" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GZyilb-u1pMrvekiKiSH-43" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="GZyilb-u1pMrvekiKiSH-6" target="GZyilb-u1pMrvekiKiSH-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-6" value="&lt;ul&gt;&lt;li&gt;Does the organisation collect all data required for? transactions, application logs, customer data, IoT, social media, 3rd party data, medical records&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="67.5" y="270" width="225" height="80" as="geometry" />
@@ -135,6 +138,9 @@
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-40" value="Data &lt;br&gt;has to be timely, &lt;br&gt;relevant and &lt;br&gt;trusted" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="440" y="-210" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GZyilb-u1pMrvekiKiSH-42" value="Can we mitigate data errors at source?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="300" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

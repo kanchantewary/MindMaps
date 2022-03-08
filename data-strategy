@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T12:12:26.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="3BZjEBuvRwLVIO9XcCqx" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T12:16:18.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="jUKVyKLOZvFtjFJ741LN" version="16.6.4" type="github">
   <diagram id="UUOuqIWbBqUZXSSypKxw" name="Page-1">
     <mxGraphModel dx="1938" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,8 +37,8 @@
         <mxCell id="GZyilb-u1pMrvekiKiSH-41" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Tahoma;endArrow=none;endFill=0;dashed=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="GZyilb-u1pMrvekiKiSH-10" target="GZyilb-u1pMrvekiKiSH-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GZyilb-u1pMrvekiKiSH-10" value="&lt;ul&gt;&lt;li&gt;Data localization Laws&lt;/li&gt;&lt;li&gt;Data Privacy Laws - GDPR/CCPA&lt;/li&gt;&lt;li&gt;Other Regulations - PCI-DSS, HIPAA&lt;/li&gt;&lt;li&gt;Data retention requirements - auditing and legal hold&lt;/li&gt;&lt;li&gt;Ensure Data Security&lt;/li&gt;&lt;li&gt;Data Governance&lt;/li&gt;&lt;li&gt;Data Quality Management&lt;/li&gt;&lt;li&gt;Master Data Management&lt;/li&gt;&lt;li&gt;Data Provenance&lt;/li&gt;&lt;li&gt;Data Observability&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="167.5" y="-110" width="285" height="170" as="geometry" />
+        <mxCell id="GZyilb-u1pMrvekiKiSH-10" value="&lt;ul&gt;&lt;li&gt;Data localization Laws&lt;/li&gt;&lt;li&gt;Data Privacy Laws - GDPR/CCPA&lt;/li&gt;&lt;li&gt;Other Regulations - PCI-DSS, HIPAA&lt;/li&gt;&lt;li&gt;Data retention requirements - auditing and legal hold&lt;/li&gt;&lt;li&gt;Ensure Data Security&lt;/li&gt;&lt;li&gt;Data Governance&lt;/li&gt;&lt;li&gt;Data Quality Management&lt;/li&gt;&lt;li&gt;Master Data Management&lt;/li&gt;&lt;li&gt;Data Provenance&lt;/li&gt;&lt;li&gt;Data Observability&lt;/li&gt;&lt;li&gt;Metadata management&lt;/li&gt;&lt;li&gt;Enterprise Business Glossary&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="-140" width="285" height="200" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-12" value="Manage Cost" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="900" y="120" width="120" height="60" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry x="1206" y="-110" width="274" height="166.25" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-40" value="Data &lt;br&gt;has to be timely, &lt;br&gt;relevant and &lt;br&gt;trusted" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-160" width="140" height="100" as="geometry" />
+          <mxGeometry x="470" y="-220" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-42" value="Improve &lt;br&gt;processes&amp;nbsp;to &lt;br&gt;&amp;nbsp; &amp;nbsp;mitigate data errors &lt;br&gt;at source" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="-100" y="210" width="150" height="100" as="geometry" />

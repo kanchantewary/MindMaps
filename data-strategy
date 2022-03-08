@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T06:07:15.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="t5iGXZ-vPm437hgBMv4h" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T10:12:00.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="llL9W5zJPwSlhOj9Xmbh" version="16.6.4" type="github">
   <diagram id="UUOuqIWbBqUZXSSypKxw" name="Page-1">
     <mxGraphModel dx="1938" dy="1656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -133,14 +133,23 @@
             <mxPoint x="1343.0588235294122" y="56.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GZyilb-u1pMrvekiKiSH-37" value="&lt;ul&gt;&lt;li&gt;Identify required skill sets and gaps&lt;/li&gt;&lt;li&gt;Define delivery model - Insourcing/Outsourcing/partnering&lt;/li&gt;&lt;li&gt;Define Training requirements&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="1206" y="-29.75" width="274" height="86" as="geometry" />
+        <mxCell id="GZyilb-u1pMrvekiKiSH-37" value="&lt;ul&gt;&lt;li&gt;Identify required skill sets and gaps&lt;/li&gt;&lt;li&gt;Define delivery model - Insourcing/Outsourcing/partnering&lt;/li&gt;&lt;li&gt;Define Training requirements&lt;/li&gt;&lt;li&gt;Carry out Proof of concepts - simple and robust&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="1206" y="-40" width="274" height="96.25" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-40" value="Data &lt;br&gt;has to be timely, &lt;br&gt;relevant and &lt;br&gt;trusted" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="470" y="-160" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GZyilb-u1pMrvekiKiSH-42" value="Improve &lt;br&gt;processes&amp;nbsp;to &lt;br&gt;&amp;nbsp; &amp;nbsp;mitigate data errors &lt;br&gt;at source" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="-100" y="210" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GZyilb-u1pMrvekiKiSH-44" value="Data driven culture" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GZyilb-u1pMrvekiKiSH-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GZyilb-u1pMrvekiKiSH-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1352.7999999999997" y="130.53999999999996" as="sourcePoint" />
+            <mxPoint x="1480" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

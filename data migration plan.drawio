@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T10:40:09.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Vu65PCoj4zvAb0bUk72U" version="16.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-16T10:41:33.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="_BBcYJFeFFfdqm8hljE9" version="16.6.8" type="github">
   <diagram id="TNnfOFpaVKoH5bNG57tp" name="Page-1">
     <mxGraphModel dx="2006" dy="1770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
             <mxPoint x="681" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KtdAWQznxBgwJKkL_lew-20" value="&lt;ul&gt;&lt;li&gt;What are the business use cases?&lt;/li&gt;&lt;li&gt;Set a strong vision&lt;/li&gt;&lt;li&gt;What are the business metrics? How do we measure it?&lt;/li&gt;&lt;li&gt;Identify the pain points in business?&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="KtdAWQznxBgwJKkL_lew-20" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Validate your migrated data, clean the migrated data further if required&lt;/li&gt;&lt;li&gt;Decommission the old legacy systems or continue parallel run till the source system is phased out.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="709" y="-50" width="221" height="109.25" as="geometry" />
         </mxCell>
         <mxCell id="KtdAWQznxBgwJKkL_lew-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;" edge="1" parent="1" target="KtdAWQznxBgwJKkL_lew-22" source="KtdAWQznxBgwJKkL_lew-3">

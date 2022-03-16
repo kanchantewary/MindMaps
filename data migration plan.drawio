@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T10:13:03.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="RJ0WNGHSSkt1_37sLH1V" version="16.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-16T10:15:30.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="B3ynHU7qW2gSClaJyAcq" version="16.6.8" type="github">
   <diagram id="TNnfOFpaVKoH5bNG57tp" name="Page-1">
     <mxGraphModel dx="2006" dy="1770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -72,7 +72,7 @@
             <mxPoint x="230" y="210" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KtdAWQznxBgwJKkL_lew-22" value="&lt;ul&gt;&lt;li&gt;Does the organisation collect all data required for? transactions, application logs, customer data, IoT, social media, 3rd party data, medical records, External data sets (open/commercial)&lt;/li&gt;&lt;li&gt;Prioritize data sources in terms of business value, quality and reliability&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="KtdAWQznxBgwJKkL_lew-22" value="&lt;ul&gt;&lt;li&gt;Analyze data formats and data model of source systems&lt;/li&gt;&lt;li class=&quot;graf graf--li&quot;&gt;Define the Data Quality Business Requirements&lt;/li&gt;&lt;li class=&quot;graf graf--li&quot;&gt;Perform Data Profiling&lt;/li&gt;&lt;li class=&quot;graf graf--li&quot;&gt;Define business rule to handle migration issues - missing records, missing values, duplicate records&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="270" width="225" height="140" as="geometry" />
         </mxCell>
         <mxCell id="KtdAWQznxBgwJKkL_lew-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;" edge="1" parent="1" target="KtdAWQznxBgwJKkL_lew-24" source="KtdAWQznxBgwJKkL_lew-5">

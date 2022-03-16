@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T10:23:08.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ebeC1xs797tlM8hJhs6N" version="16.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-16T10:24:48.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="jLVLuN-0J1oiBQpyIheC" version="16.6.8" type="github">
   <diagram id="TNnfOFpaVKoH5bNG57tp" name="Page-1">
     <mxGraphModel dx="2006" dy="1770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
             <mxPoint x="441" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KtdAWQznxBgwJKkL_lew-18" value="&lt;ul&gt;&lt;li&gt;Perform data mapping&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="KtdAWQznxBgwJKkL_lew-18" value="&lt;ul&gt;&lt;li&gt;Perform data mapping&lt;/li&gt;&lt;li&gt;Perform gap analysis, identify mandatory attributes in the target system&lt;/li&gt;&lt;li&gt;Assess for any database compatibility issues&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="469" y="-50" width="221" height="109.25" as="geometry" />
         </mxCell>
         <mxCell id="KtdAWQznxBgwJKkL_lew-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;" edge="1" parent="1" target="KtdAWQznxBgwJKkL_lew-20" source="KtdAWQznxBgwJKkL_lew-6">

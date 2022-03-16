@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T10:00:14.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="v_xo6uS_Pr6KFMy4vG0E" version="16.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-16T10:13:03.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="RJ0WNGHSSkt1_37sLH1V" version="16.6.8" type="github">
   <diagram id="TNnfOFpaVKoH5bNG57tp" name="Page-1">
     <mxGraphModel dx="2006" dy="1770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,8 +37,8 @@
         <mxCell id="KtdAWQznxBgwJKkL_lew-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;" edge="1" parent="1" source="KtdAWQznxBgwJKkL_lew-1" target="KtdAWQznxBgwJKkL_lew-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KtdAWQznxBgwJKkL_lew-14" value="&lt;ul&gt;&lt;li&gt;Does the organisation collect all data required for? transactions, application logs, customer data, IoT, social media, 3rd party data, medical records, External data sets (open/commercial)&lt;/li&gt;&lt;li&gt;Prioritize data sources in terms of business value, quality and reliability&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="107.5" y="280" width="225" height="140" as="geometry" />
+        <mxCell id="KtdAWQznxBgwJKkL_lew-14" value="&lt;ul&gt;&lt;li&gt;Prepare the business case, perform feasibility study, cost-benefit analysis&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="107.5" y="280" width="225" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KtdAWQznxBgwJKkL_lew-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;" edge="1" parent="1" target="KtdAWQznxBgwJKkL_lew-16" source="KtdAWQznxBgwJKkL_lew-2">
           <mxGeometry relative="1" as="geometry">
@@ -46,8 +46,8 @@
             <mxPoint x="210.5" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KtdAWQznxBgwJKkL_lew-16" value="&lt;ul&gt;&lt;li&gt;What are the business use cases?&lt;/li&gt;&lt;li&gt;Set a strong vision&lt;/li&gt;&lt;li&gt;What are the business metrics? How do we measure it?&lt;/li&gt;&lt;li&gt;Identify the pain points in business?&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="229.5" y="-50" width="221" height="109.25" as="geometry" />
+        <mxCell id="KtdAWQznxBgwJKkL_lew-16" value="&lt;ul&gt;&lt;li&gt;Define scope, migration approach, cardinality, data domains, integration with enterprise reference data, data reconciliation approach, assumptions made, acceptance criteria&lt;/li&gt;&lt;li&gt;Develop Effort and cost estimates&lt;/li&gt;&lt;li&gt;Develop the data migration plan&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="225.5" y="-80" width="230.5" height="139.25" as="geometry" />
         </mxCell>
         <mxCell id="KtdAWQznxBgwJKkL_lew-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;" edge="1" parent="1" target="KtdAWQznxBgwJKkL_lew-18" source="KtdAWQznxBgwJKkL_lew-4">
           <mxGeometry relative="1" as="geometry">

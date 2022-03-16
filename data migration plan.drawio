@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T10:39:18.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="x0X7frCP0Dx47T3X75pc" version="16.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-16T10:40:09.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Vu65PCoj4zvAb0bUk72U" version="16.6.8" type="github">
   <diagram id="TNnfOFpaVKoH5bNG57tp" name="Page-1">
     <mxGraphModel dx="2006" dy="1770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -80,8 +80,8 @@
             <mxPoint x="712.5" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KtdAWQznxBgwJKkL_lew-24" value="&lt;ul&gt;&lt;li&gt;Develop Data migration processes, test scripts, reconciliation scripts&lt;/li&gt;&lt;li&gt;Test the migration with a small sample and perform trial runs with increasing proportions&lt;/li&gt;&lt;li&gt;Track defects and bug fixes&lt;/li&gt;&lt;li&gt;Perform user acceptance tests, end to end application execution&lt;/li&gt;&lt;li&gt;&lt;span&gt;Backup your data and proceed with cutover&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="588" y="279" width="225" height="170" as="geometry" />
+        <mxCell id="KtdAWQznxBgwJKkL_lew-24" value="&lt;ul&gt;&lt;li&gt;Develop Data migration processes, test scripts, reconciliation scripts&lt;/li&gt;&lt;li&gt;Test the migration with a small sample and perform trial runs with increasing proportions&lt;/li&gt;&lt;li&gt;Track defects and bug fixes&lt;/li&gt;&lt;li&gt;Perform user acceptance tests, end to end application execution&lt;/li&gt;&lt;li&gt;&lt;span&gt;Backup your data and proceed with cutover&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Generate reconciliation report&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="588" y="279" width="225" height="191" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

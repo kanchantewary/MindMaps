@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T10:31:29.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="sGutqvfoYR5nbNzI06Ib" version="16.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-16T10:32:53.522Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="UVAEF0hGc_SYzSvqyf84" version="16.6.8" type="github">
   <diagram id="TNnfOFpaVKoH5bNG57tp" name="Page-1">
     <mxGraphModel dx="2006" dy="1770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,8 +46,8 @@
             <mxPoint x="210.5" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KtdAWQznxBgwJKkL_lew-16" value="&lt;ul&gt;&lt;li&gt;Define scope, migration approach, cardinality, data domains, integration with enterprise reference data, data reconciliation approach, assumptions made, acceptance criteria&lt;/li&gt;&lt;li&gt;Develop Effort and cost estimates&lt;/li&gt;&lt;li&gt;Develop the data migration plan&lt;/li&gt;&lt;li&gt;Define scope and business value of historical data&lt;/li&gt;&lt;li&gt;Define Data archiving Requirements , regulatory requirements, legal hold&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="209.5" y="-110" width="261.5" height="169.25" as="geometry" />
+        <mxCell id="KtdAWQznxBgwJKkL_lew-16" value="&lt;ul&gt;&lt;li&gt;Define scope, migration approach, cardinality, data domains, integration with enterprise reference data, data reconciliation approach, assumptions made, acceptance criteria&lt;/li&gt;&lt;li&gt;Define choice of Data migration tool&lt;/li&gt;&lt;li&gt;Develop Effort and cost estimates&lt;/li&gt;&lt;li&gt;Develop the data migration plan&lt;/li&gt;&lt;li&gt;Define scope and business value of historical data&lt;/li&gt;&lt;li&gt;Define Data archiving Requirements , regulatory requirements, legal hold&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="209.5" y="-130" width="261.5" height="189.25" as="geometry" />
         </mxCell>
         <mxCell id="KtdAWQznxBgwJKkL_lew-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=oval;endFill=1;" edge="1" parent="1" target="KtdAWQznxBgwJKkL_lew-18" source="KtdAWQznxBgwJKkL_lew-4">
           <mxGeometry relative="1" as="geometry">

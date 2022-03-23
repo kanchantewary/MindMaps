@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T14:17:00.197Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="snyL2V32Gme44UEuBsaZ" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-23T14:40:19.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="24HtUPPbnJDCf8C8bZik" version="17.1.3" type="github">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="V43_jzV2RidBm6Wxg-L6-2" value="&lt;p style=&quot;font-size: 12px&quot;&gt;Architecture&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="160" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V43_jzV2RidBm6Wxg-L6-3" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Built on open source apache spark&lt;/li&gt;&lt;li&gt;runs on JVM&lt;/li&gt;&lt;li&gt;Storage is in memory and disk&lt;/li&gt;&lt;li&gt;Supports batch, streaming or interactive execution&lt;/li&gt;&lt;li&gt;Supports&amp;nbsp;&lt;/li&gt;&lt;li&gt;Java/Scala, Python, SQL, R&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-100" width="230" height="110" as="geometry" />
+        <mxCell id="V43_jzV2RidBm6Wxg-L6-3" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Built on open source apache spark&lt;/li&gt;&lt;li&gt;runs on JVM&lt;/li&gt;&lt;li&gt;Storage is in memory and disk&lt;/li&gt;&lt;li&gt;Supports batch, streaming or interactive execution&lt;/li&gt;&lt;li&gt;Supports Java/Scala, Python, SQL, R&lt;/li&gt;&lt;li&gt;Driver and worker nodes, cluster manager&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-110" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-5" target="V43_jzV2RidBm6Wxg-L6-6">
           <mxGeometry relative="1" as="geometry" />
@@ -22,7 +22,7 @@
         <mxCell id="V43_jzV2RidBm6Wxg-L6-5" value="&lt;p style=&quot;font-size: 12px&quot;&gt;Spark APIs&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="290" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V43_jzV2RidBm6Wxg-L6-6" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="V43_jzV2RidBm6Wxg-L6-6" value="&lt;ul&gt;&lt;li&gt;RDD&lt;/li&gt;&lt;li&gt;Dataframe&lt;/li&gt;&lt;li&gt;Dataset&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
           <mxGeometry x="290" y="-100" width="230" height="110" as="geometry" />
         </mxCell>
       </root>

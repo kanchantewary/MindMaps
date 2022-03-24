@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T04:27:34.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="heO6u-kkGWpNENPoxQq-" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-24T04:49:12.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="N0--FEY5Ag6mopaD3qv4" version="17.1.3" type="github">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
-    <mxGraphModel dx="2171" dy="1866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1621" dy="1547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,7 +115,7 @@
         <mxCell id="V43_jzV2RidBm6Wxg-L6-29" value="&lt;ul&gt;&lt;li&gt;Workspace&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
           <mxGeometry x="160" y="570" width="230" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="V43_jzV2RidBm6Wxg-L6-30" value="&lt;ul&gt;&lt;li&gt;Workspace&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="V43_jzV2RidBm6Wxg-L6-30" value="&lt;ul&gt;&lt;li&gt;fully managed spark clusters&lt;/li&gt;&lt;li&gt;integration with Azure AD&lt;/li&gt;&lt;li&gt;supports RBAC on notebooks, clusters, jobs, and data&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
           <mxGeometry x="400" y="570" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-34" value="&lt;ul&gt;&lt;li&gt;In Azure, AD integration and RBAC&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">

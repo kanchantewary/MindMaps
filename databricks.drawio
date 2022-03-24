@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T06:38:09.571Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="8Zx0z7KQis6UTRf32ch4" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-24T06:38:25.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="vhoyQOIrO2TJse3ck63O" version="17.1.3" type="github">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="2006" dy="1770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-14" value="&lt;p style=&quot;font-size: 12px&quot;&gt;Authentication and Authorizations&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="30" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-15" value="&lt;ul&gt;&lt;li&gt;AWS, GCP, Azure&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
           <mxGeometry x="-250" y="60" width="230" height="110" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-17" value="&lt;p style=&quot;font-size: 12px&quot;&gt;Security&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="30" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-18" target="V43_jzV2RidBm6Wxg-L6-22">
           <mxGeometry relative="1" as="geometry">
@@ -149,7 +149,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-45" value="&lt;p style=&quot;font-size: 12px&quot;&gt;CI/CD&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="30" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-46" value="&lt;ul&gt;&lt;li&gt;In Azure, AD integration and RBAC&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
           <mxGeometry x="-250" y="300" width="230" height="110" as="geometry" />

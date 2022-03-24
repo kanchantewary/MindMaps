@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T05:08:21.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="UuUvo3t0LJpix__tNm7J" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-24T06:31:45.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="DtzlG5sv6fOwY4VUPySR" version="17.1.3" type="github">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1621" dy="1547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="V43_jzV2RidBm6Wxg-L6-1" value="&lt;h3&gt;DataBricks&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="160" y="160" width="320" height="150" as="geometry" />
+          <mxGeometry x="160" y="160" width="420" height="150" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-2" target="V43_jzV2RidBm6Wxg-L6-3">
           <mxGeometry relative="1" as="geometry" />
@@ -32,10 +32,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-8" value="&lt;p style=&quot;font-size: 12px&quot;&gt;Spark foundational aspects&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="500" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-9" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;&lt;span&gt;Spark context, Spark session, Driver and Executor, Stages and tasks&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Cluster manager - YARN, Standalone&lt;/li&gt;&lt;li&gt;Lazy evaluation&lt;/li&gt;&lt;li&gt;Accumulators, Broadcast variables&lt;/li&gt;&lt;li&gt;Shuffle&lt;/li&gt;&lt;li&gt;Job Scheduling&lt;/li&gt;&lt;li&gt;Narrow and wide dependencies&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
-          <mxGeometry x="680" y="80" width="290" height="140" as="geometry" />
+          <mxGeometry x="770" y="80" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.695;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-11" target="V43_jzV2RidBm6Wxg-L6-12">
           <mxGeometry relative="1" as="geometry" />
@@ -128,10 +128,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-38" value="&lt;p style=&quot;font-size: 12px&quot;&gt;Integrations&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="500" y="245" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-39" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
-          <mxGeometry x="680" y="240" width="290" height="140" as="geometry" />
+          <mxGeometry x="770" y="240" width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="V43_jzV2RidBm6Wxg-L6-41" value="&lt;p style=&quot;font-size: 12px&quot;&gt;administration&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="425" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T06:36:18.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="IFdo9Qwy-kaAkPc09-j2" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-24T06:37:52.396Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="zXiwqRtTc580wxqvVdZY" version="17.1.3" type="github">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
-    <mxGraphModel dx="1654" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2006" dy="1770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="160" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-3" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Built on open source apache spark&lt;/li&gt;&lt;li&gt;runs on JVM&lt;/li&gt;&lt;li&gt;Storage is in memory and disk&lt;/li&gt;&lt;li&gt;Supports batch, streaming or interactive execution&lt;/li&gt;&lt;li&gt;Supports Java/Scala, Python, SQL, R&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="-40" width="290" height="140" as="geometry" />
+          <mxGeometry x="-130" y="-105" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-7" value="Core API" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-5" target="V43_jzV2RidBm6Wxg-L6-6">
           <mxGeometry relative="1" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="30" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-15" value="&lt;ul&gt;&lt;li&gt;AWS, GCP, Azure&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="135" width="230" height="110" as="geometry" />
+          <mxGeometry x="-250" y="60" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-17" target="V43_jzV2RidBm6Wxg-L6-34">
           <mxGeometry relative="1" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry x="400" y="570" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-34" value="&lt;ul&gt;&lt;li&gt;In Azure, AD integration and RBAC&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="260" width="230" height="110" as="geometry" />
+          <mxGeometry x="-250" y="180" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-36" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Spark SQL&lt;/li&gt;&lt;li&gt;MLLib&lt;/li&gt;&lt;li&gt;Streaming&lt;/li&gt;&lt;li&gt;GraphX&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
           <mxGeometry x="370" y="-70" width="170" height="70" as="geometry" />
@@ -144,6 +144,15 @@
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-43" value="&lt;ul&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;Delta sharing, open protocol developed by Databricks&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Unity Catalog - secure metastore,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;create shares and recipients.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
           <mxGeometry x="830" y="320" width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="V43_jzV2RidBm6Wxg-L6-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-45" target="V43_jzV2RidBm6Wxg-L6-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V43_jzV2RidBm6Wxg-L6-45" value="&lt;p style=&quot;font-size: 12px&quot;&gt;CI/CD&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="30" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V43_jzV2RidBm6Wxg-L6-46" value="&lt;ul&gt;&lt;li&gt;In Azure, AD integration and RBAC&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="300" width="230" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

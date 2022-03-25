@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T16:46:07.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="J6TZNclZWfTeSo46V-O6" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T08:54:31.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="5mUDS9uJ9c9oN8nID83Q" version="17.2.1" type="github">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
         <mxCell id="V43_jzV2RidBm6Wxg-L6-30" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;fully managed spark clusters&lt;/li&gt;&lt;li&gt;integration with Azure AD&lt;/li&gt;&lt;li&gt;supports RBAC on notebooks, clusters, jobs, and data&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="400" y="570" width="230" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="V43_jzV2RidBm6Wxg-L6-34" value="&lt;ul&gt;&lt;li&gt;In Azure, AD integration and RBAC&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
+        <mxCell id="V43_jzV2RidBm6Wxg-L6-34" value="&lt;ul&gt;&lt;li&gt;Databricks Security and Trust Center&lt;/li&gt;&lt;li&gt;In Azure, AD integration and RBAC&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="-250" y="180" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-36" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Spark SQL&lt;/li&gt;&lt;li&gt;MLLib&lt;/li&gt;&lt;li&gt;Streaming&lt;/li&gt;&lt;li&gt;GraphX&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">

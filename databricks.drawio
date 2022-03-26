@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T14:17:29.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="NoSrLNNvKJVmWZ2A3ZvC" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T15:00:40.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="Il5MyScR3z2O6yEEtURf" version="17.2.1" type="github">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1467" dy="1457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -255,8 +255,8 @@
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-18" value="&lt;ul&gt;&lt;li&gt;incrementally and efficiently processes new data files as they arrive in cloud storage&lt;/li&gt;&lt;li&gt;Supports AWS, GCP and Azure blob storage, DBFS&lt;/li&gt;&lt;li&gt;Supports&amp;nbsp;Schema inference and evolution&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
           <mxGeometry x="710" y="-280" width="260" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Ct0M-siwjqjeuyYmhKqq-20" value="Auto optimize" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1017.5" y="-90" width="120" height="60" as="geometry" />
+        <mxCell id="Ct0M-siwjqjeuyYmhKqq-20" value="Auto optimize&lt;br&gt;&lt;div&gt;Compaction - coalescing small files into larger ones&lt;/div&gt;&lt;div&gt;Data skipping&lt;/div&gt;&lt;div&gt;Z-Ordering - multi-dimensional clustering&lt;/div&gt;&lt;div&gt;Autotune file size (based on table size, workload)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1014" y="-115" width="296" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

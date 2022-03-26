@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T16:06:03.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="iCUY_JWqSJTtrFzHGfxu" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T16:06:19.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="RdG7t19lZp5JhJAUIIDb" version="17.2.1" type="github">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1590" dy="1529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -306,7 +306,7 @@
           <mxGeometry x="140" y="-310" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-34" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Can be persistent (created manually) or transient, which are created by jobs and terminated at the end of successful run. A cluster can be single or multi-user&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="-282.5" width="202.75" height="135" as="geometry" />
+          <mxGeometry x="-680" y="-266.25" width="202.75" height="102.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

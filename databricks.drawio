@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T07:06:53.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="13BpOUGCIW86eQYNujnB" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T07:09:58.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="hcj5NBRauofIfTxi0hdt" version="17.2.1" type="github">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
-    <mxGraphModel dx="1654" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="1337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -201,7 +201,7 @@
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-3" value="&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li&gt;JSON based, define allowed number of and sizing of nodes, spark version, autoscale limits, auto-termination limits, custom tags&lt;/li&gt;&lt;li&gt;manage policies from UI console&lt;/li&gt;&lt;li&gt;helps to enforce governance and cost constraints (T-shirt sizing)&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="570" width="230" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Ct0M-siwjqjeuyYmhKqq-5" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Define Pipelines using Databricks notebook&lt;/li&gt;&lt;li&gt;Write in Python or SQL&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Ct0M-siwjqjeuyYmhKqq-5" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Define Pipelines using Databricks notebook&lt;/li&gt;&lt;li&gt;Write in Python or SQL&lt;/li&gt;&lt;li&gt;Define DQ constraints&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="655" y="694" width="175" height="75" as="geometry" />
         </mxCell>
       </root>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T15:56:27.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="aKlHRsqLZjbd6-BAeg-U" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T15:57:13.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="VNJs5Ogm5-QDwjAFz3gz" version="17.2.1" type="github">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1590" dy="1529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -123,19 +123,19 @@
         <mxCell id="V43_jzV2RidBm6Wxg-L6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" parent="1" source="V43_jzV2RidBm6Wxg-L6-22" target="V43_jzV2RidBm6Wxg-L6-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V43_jzV2RidBm6Wxg-L6-22" value="&lt;p style=&quot;font-size: 12px&quot;&gt;Databricks SQL&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;" parent="1" vertex="1">
+        <mxCell id="V43_jzV2RidBm6Wxg-L6-22" value="&lt;p style=&quot;font-size: 12px&quot;&gt;Databricks SQL&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" parent="1" source="V43_jzV2RidBm6Wxg-L6-24" target="V43_jzV2RidBm6Wxg-L6-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V43_jzV2RidBm6Wxg-L6-24" value="&lt;p style=&quot;font-size: 12px&quot;&gt;Databricks ML&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;" parent="1" vertex="1">
+        <mxCell id="V43_jzV2RidBm6Wxg-L6-24" value="&lt;p style=&quot;font-size: 12px&quot;&gt;Databricks ML&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="188" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" parent="1" source="V43_jzV2RidBm6Wxg-L6-25" target="V43_jzV2RidBm6Wxg-L6-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V43_jzV2RidBm6Wxg-L6-25" value="&lt;p style=&quot;font-size: 12px&quot;&gt;Databricks Data Science and Engineering&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;" parent="1" vertex="1">
+        <mxCell id="V43_jzV2RidBm6Wxg-L6-25" value="&lt;p style=&quot;font-size: 12px&quot;&gt;Databricks Data Science and Engineering&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="330" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-28" value="&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(23 , 23 , 23) ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;run quick ad-hoc SQL queries on your data lake&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(23 , 23 , 23) ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Supports visualizations&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(23 , 23 , 23) ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Supports Serverless compute&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">

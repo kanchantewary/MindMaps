@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T13:46:16.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="nosRa0-r7dbb1f3rmr_K" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T13:53:22.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="3y_wjXDFk0AIsDp4a51L" version="17.2.1" type="github">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
-    <mxGraphModel dx="1379" dy="1406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1467" dy="1457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -249,8 +249,8 @@
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-16" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Built in support for kafka, Azure Event hub, Azure blob storage and queue as source/sinks&lt;/li&gt;&lt;li&gt;Supports other arbitrary data source/sinks&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
           <mxGeometry x="334" y="-270" width="240" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Ct0M-siwjqjeuyYmhKqq-18" value="&lt;ul&gt;&lt;li&gt;incrementally and efficiently processes new data files as they arrive in cloud storage&lt;/li&gt;&lt;li&gt;Supports AWS, GCP and Azure blob storage, DBFS&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
-          <mxGeometry x="710" y="-260" width="260" height="90" as="geometry" />
+        <mxCell id="Ct0M-siwjqjeuyYmhKqq-18" value="&lt;ul&gt;&lt;li&gt;incrementally and efficiently processes new data files as they arrive in cloud storage&lt;/li&gt;&lt;li&gt;Supports AWS, GCP and Azure blob storage, DBFS&lt;/li&gt;&lt;li&gt;Supports&amp;nbsp;Schema inference and evolution&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-280" width="260" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

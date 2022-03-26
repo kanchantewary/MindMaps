@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T12:57:22.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="xJtiu6UaAU8UpZeakZXj" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T13:02:07.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="wwR1n1p4huKeBkzxM903" version="17.2.1" type="github">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -237,7 +237,7 @@
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-12" value="&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
           <mxGeometry x="47.5" y="750" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ct0M-siwjqjeuyYmhKqq-14" value="&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="Ct0M-siwjqjeuyYmhKqq-14" value="&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;central repo of features&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;stored as delta tables&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;offline feature store (delta tables)&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;online feature store (MySQL, Azure SQL)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
           <mxGeometry x="320" y="750" width="250" height="80" as="geometry" />
         </mxCell>
       </root>

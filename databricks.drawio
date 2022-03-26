@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T06:33:14.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="Nlr8V0st6eYfZxo-xRDI" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T06:33:20.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="EnzXUw87yhFOyRrE5eMK" version="17.2.1" type="github">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1535" dy="1497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -192,7 +192,7 @@
           <mxGeometry x="-600" y="110" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-3" value="&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li&gt;JSON based, define allowed node types and other configurations&lt;/li&gt;&lt;li&gt;define security, governance and cost constraints&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="500" width="155" height="100" as="geometry" />
+          <mxGeometry x="1290" y="520" width="155" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

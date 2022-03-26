@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T15:48:02.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="BBofJK6v7irpBUq6U4Qv" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T15:50:38.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="sM1AYhAHDm1OwCA0ieXE" version="17.2.1" type="github">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1731" dy="1610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -283,10 +283,10 @@
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-22" value="&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
           <mxGeometry x="-220" y="750" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ct0M-siwjqjeuyYmhKqq-24" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Under Databricks subscription, houses cluster manager, UI and DBFS storage&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Ct0M-siwjqjeuyYmhKqq-24" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Under &lt;b&gt;Databricks&lt;/b&gt; &lt;b&gt;subscription&lt;/b&gt;, houses cluster manager, UI and DBFS storage&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-350" y="-250" width="154.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ct0M-siwjqjeuyYmhKqq-26" value="&lt;span style=&quot;font-size: 11px&quot;&gt;customer subscription, houses underlying VMs, VNets, networking rules (NSG in Azure)&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Ct0M-siwjqjeuyYmhKqq-26" value="&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;customer&lt;/b&gt; &lt;b&gt;subscription&lt;/b&gt;&lt;br&gt;houses underlying VMs, VNets, networking rules (NSG in Azure), Blob storage&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-350" y="-140" width="154.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-28" value="DataBricks &lt;br&gt;Architecture" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;fontStyle=1" vertex="1" parent="1">

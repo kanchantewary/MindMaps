@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T07:23:37.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="qpG4sBdQQ895ltDCbcdx" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T07:24:02.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="Hb7Xi8T45py5MnrqKcJt" version="17.2.1" type="github">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1824" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -202,7 +202,7 @@
           <mxGeometry x="1220" y="570" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-5" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Define Pipelines using Databricks notebook&lt;/li&gt;&lt;li&gt;Write in Python or SQL&lt;/li&gt;&lt;li&gt;Define DQ constraints&lt;/li&gt;&lt;li&gt;Define CDC rules on live tables&lt;/li&gt;&lt;li&gt;Define incremental updates from external data sources&lt;/li&gt;&lt;li&gt;create a job linking the pipeline and schedule further e.g. using Apache Airflow&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="660" width="380" height="130" as="geometry" />
+          <mxGeometry x="634" y="656" width="380" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T15:14:37.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="W5x5NxpBR59TV78VBku5" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T15:33:43.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="LNWbAImqX63YNlnlEaeQ" version="17.2.1" type="github">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1731" dy="1610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -139,6 +139,14 @@
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-15" value="feature store" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#3333FF;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-29" target="Ct0M-siwjqjeuyYmhKqq-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Ct0M-siwjqjeuyYmhKqq-23" value="MLFlow" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#3333FF;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-29" target="Ct0M-siwjqjeuyYmhKqq-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="700" />
+              <mxPoint x="-95" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-29" value="&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;&lt;span&gt;Feature Store&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Experiments&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Models&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;AutoML&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(23 , 23 , 23)&quot;&gt;Databricks Runtime ML&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="160" y="570" width="230" height="110" as="geometry" />
         </mxCell>
@@ -257,6 +265,9 @@
         </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-20" value="Auto optimize&lt;br&gt;&lt;div&gt;Compaction - coalescing small files into larger ones&lt;/div&gt;&lt;div&gt;Data skipping&lt;/div&gt;&lt;div&gt;Z-Ordering - multi-dimensional clustering&lt;/div&gt;&lt;div&gt;Autotune file size (based on table size, workload)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1014" y="-115" width="296" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ct0M-siwjqjeuyYmhKqq-22" value="&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="750" width="250" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

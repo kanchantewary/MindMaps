@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T07:25:36.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="qEa-AkSjyKvpc1xiTfAG" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T07:26:07.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="O9fTkwbGdKRwd6cnKrD4" version="17.2.1" type="github">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
-    <mxGraphModel dx="1824" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3163" dy="2440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
           <mxGeometry x="590" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-9" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;&lt;span&gt;Spark context, Spark session, Driver and Executor, Stages and tasks&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Cluster manager - YARN, Standalone&lt;/li&gt;&lt;li&gt;Lazy evaluation&lt;/li&gt;&lt;li&gt;Accumulators, Broadcast variables&lt;/li&gt;&lt;li&gt;Shuffle&lt;/li&gt;&lt;li&gt;Job Scheduling&lt;/li&gt;&lt;li&gt;Narrow and wide dependencies&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
-          <mxGeometry x="830" y="20" width="290" height="140" as="geometry" />
+          <mxGeometry x="770" y="20" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" parent="1" source="V43_jzV2RidBm6Wxg-L6-11" target="V43_jzV2RidBm6Wxg-L6-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -152,7 +152,7 @@
           <mxGeometry x="590" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-39" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(23 , 23 , 23) ; background-color: rgb(255 , 255 , 255)&quot;&gt;Synapse Analytics, Cosmos DB, Data Lake Store, Blob storage,&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(23 , 23 , 23) ; background-color: rgb(255 , 255 , 255)&quot;&gt;Visualization Tools - Power BI, Tableau&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;dbt core, dbt cloud&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
-          <mxGeometry x="830" y="170" width="290" height="140" as="geometry" />
+          <mxGeometry x="770" y="170" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-49" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" parent="1" source="V43_jzV2RidBm6Wxg-L6-41" target="V43_jzV2RidBm6Wxg-L6-48" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -172,7 +172,7 @@
           <mxGeometry x="590" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-43" value="&lt;ul&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;Delta sharing, open protocol developed by Databricks&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Unity Catalog - secure metastore,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;create shares and recipients.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
-          <mxGeometry x="830" y="320" width="290" height="140" as="geometry" />
+          <mxGeometry x="770" y="320" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" parent="1" source="V43_jzV2RidBm6Wxg-L6-45" target="V43_jzV2RidBm6Wxg-L6-46" edge="1">
           <mxGeometry relative="1" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T12:43:29.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="vEOk4-6MIHAf2c_Vs-bw" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T12:49:22.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="x7bz3-t-cYs6XiOsHiL2" version="17.2.1" type="github">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -94,6 +94,16 @@
               <mxPoint x="220" y="430" />
               <mxPoint x="250" y="430" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ct0M-siwjqjeuyYmhKqq-11" value="workspace objects" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=11;fontColor=#3333FF;endArrow=none;endFill=0;" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-18" target="Ct0M-siwjqjeuyYmhKqq-10">
+          <mxGeometry x="0.5349" y="10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="430" />
+              <mxPoint x="-40" y="430" />
+              <mxPoint x="-40" y="505" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-18" value="&lt;p style=&quot;font-size: 12px&quot;&gt;Workspaces&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;" parent="1" vertex="1">
@@ -212,8 +222,11 @@
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-5" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Define Pipelines using Databricks notebook&lt;/li&gt;&lt;li&gt;Write in Python or SQL&lt;/li&gt;&lt;li&gt;Define DQ constraints&lt;/li&gt;&lt;li&gt;Define CDC rules on live tables&lt;/li&gt;&lt;li&gt;Define incremental updates from external data sources&lt;/li&gt;&lt;li&gt;create a job linking the pipeline and schedule further e.g. using Apache Airflow&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="634" y="656" width="380" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Ct0M-siwjqjeuyYmhKqq-8" value="&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;SSO, using Azure AD&lt;/li&gt;&lt;li&gt;RBAC on workspace resources&lt;/li&gt;&lt;li&gt;Credential passthrough&lt;/li&gt;&lt;li&gt;Vnet Injection&lt;/li&gt;&lt;li&gt;secure cluster connectivity&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="Ct0M-siwjqjeuyYmhKqq-8" value="&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;SSO, using Azure AD&lt;/li&gt;&lt;li&gt;RBAC on workspace resources&lt;/li&gt;&lt;li&gt;Credential passthrough&lt;/li&gt;&lt;li&gt;Vnet Injection&lt;/li&gt;&lt;li&gt;secure cluster connectivity&lt;/li&gt;&lt;li&gt;Encryption&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
           <mxGeometry x="-600" y="240" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ct0M-siwjqjeuyYmhKqq-10" value="&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;notebooks&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;clusters&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;jobs&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;data tables&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;APIs&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;folders&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;jobs&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;registered models&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;libraries&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;experiments&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="420" width="250" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

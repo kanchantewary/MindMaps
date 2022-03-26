@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T13:02:07.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="wwR1n1p4huKeBkzxM903" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T13:04:12.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="7PbTYTEUrqpiNONtlr9g" version="17.2.1" type="github">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -161,7 +161,10 @@
         <mxCell id="V43_jzV2RidBm6Wxg-L6-34" value="&lt;ul&gt;&lt;li&gt;Databricks Security and Trust Center&lt;/li&gt;&lt;li&gt;In Azure, AD integration and RBAC&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="-250" y="175" width="230" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="V43_jzV2RidBm6Wxg-L6-36" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Spark SQL&lt;/li&gt;&lt;li&gt;MLLib&lt;/li&gt;&lt;li&gt;Streaming&lt;/li&gt;&lt;li&gt;GraphX&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
+        <mxCell id="Ct0M-siwjqjeuyYmhKqq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=11;fontColor=#3333FF;endArrow=none;endFill=0;" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-36" target="Ct0M-siwjqjeuyYmhKqq-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V43_jzV2RidBm6Wxg-L6-36" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Spark SQL&lt;/li&gt;&lt;li&gt;MLLib&lt;/li&gt;&lt;li&gt;Structured Streaming&lt;/li&gt;&lt;li&gt;GraphX&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="370" y="-70" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" parent="1" source="V43_jzV2RidBm6Wxg-L6-38" target="V43_jzV2RidBm6Wxg-L6-39" edge="1">
@@ -239,6 +242,9 @@
         </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-14" value="&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;central repo of features&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;stored as delta tables&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;offline feature store (delta tables)&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;online feature store (MySQL, Azure SQL)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
           <mxGeometry x="320" y="750" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ct0M-siwjqjeuyYmhKqq-16" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Spark SQL&lt;/li&gt;&lt;li&gt;MLLib&lt;/li&gt;&lt;li&gt;Structured Streaming&lt;/li&gt;&lt;li&gt;GraphX&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-195" width="170" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

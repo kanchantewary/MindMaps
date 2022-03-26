@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T07:26:07.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="O9fTkwbGdKRwd6cnKrD4" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T07:27:00.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="ylzawOFPh8Trj_LYfGQq" version="17.2.1" type="github">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="3163" dy="2440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -184,7 +184,12 @@
           <mxGeometry x="-250" y="300" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-4" value="cluster policies" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1;fontColor=#3333FF;" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-48" target="Ct0M-siwjqjeuyYmhKqq-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.4074" y="-3" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1233" y="580" />
+            </Array>
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-48" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;workflow management with Azure Data Factory or Apache Airflow&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;workspace organization (e.g. dev, stage, prod, by Line of Business or cross-LoB data products)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;enable SSO, Audit Logs, and Unity Catalog&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Apply policies and controls at both the storage level and at the metastore, ACLs, secure sharing&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;DR and backup (delta lake, workspace objects, external databases and configurations). use git repo&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Automation - use Terraform or similar Infra-as-code tools&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;user management&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="720" y="490" width="410" height="160" as="geometry" />
@@ -199,7 +204,7 @@
           <mxGeometry x="-600" y="110" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-3" value="&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li&gt;JSON based, define allowed number of and sizing of nodes, spark version, autoscale limits, auto-termination limits, custom tags&lt;/li&gt;&lt;li&gt;manage policies from UI console&lt;/li&gt;&lt;li&gt;helps to enforce governance and cost constraints (T-shirt sizing)&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="570" width="230" height="110" as="geometry" />
+          <mxGeometry x="1060" y="666" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-5" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Define Pipelines using Databricks notebook&lt;/li&gt;&lt;li&gt;Write in Python or SQL&lt;/li&gt;&lt;li&gt;Define DQ constraints&lt;/li&gt;&lt;li&gt;Define CDC rules on live tables&lt;/li&gt;&lt;li&gt;Define incremental updates from external data sources&lt;/li&gt;&lt;li&gt;create a job linking the pipeline and schedule further e.g. using Apache Airflow&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="634" y="656" width="380" height="130" as="geometry" />

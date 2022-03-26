@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T15:40:50.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="4FsTH1aeVMc4NeteUnOl" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T15:45:46.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="6b29gBUqQTbaKlSCqcRt" version="17.2.1" type="github">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1731" dy="1610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,31 +13,27 @@
         <mxCell id="V43_jzV2RidBm6Wxg-L6-2" value="&lt;p style=&quot;font-size: 12px&quot;&gt;Architecture&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="160" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V43_jzV2RidBm6Wxg-L6-50" value="supported platforms" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" parent="1" source="V43_jzV2RidBm6Wxg-L6-3" target="V43_jzV2RidBm6Wxg-L6-12" edge="1">
+        <mxCell id="V43_jzV2RidBm6Wxg-L6-50" value="supported platforms" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" parent="1" source="Ct0M-siwjqjeuyYmhKqq-28" target="V43_jzV2RidBm6Wxg-L6-12" edge="1">
           <mxGeometry x="0.2653" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="10" y="-150" />
-            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uxrqat-RcbdeCMddSxPX-3" value="HADR" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;" parent="1" source="V43_jzV2RidBm6Wxg-L6-3" target="Uxrqat-RcbdeCMddSxPX-2" edge="1">
+        <mxCell id="Uxrqat-RcbdeCMddSxPX-3" value="HADR" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Ct0M-siwjqjeuyYmhKqq-28" target="Uxrqat-RcbdeCMddSxPX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="10" y="-110" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="10" y="-150" />
-              <mxPoint x="-160" y="-150" />
-            </Array>
+            <mxPoint x="-35.5" y="-40" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ct0M-siwjqjeuyYmhKqq-25" value="Control Plane" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#3333FF;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-3" target="Ct0M-siwjqjeuyYmhKqq-24">
+        <mxCell id="Ct0M-siwjqjeuyYmhKqq-25" value="Control Plane" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#3333FF;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="Ct0M-siwjqjeuyYmhKqq-28" target="Ct0M-siwjqjeuyYmhKqq-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ct0M-siwjqjeuyYmhKqq-27" value="Data Plane" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#3333FF;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-3" target="Ct0M-siwjqjeuyYmhKqq-26">
+        <mxCell id="Ct0M-siwjqjeuyYmhKqq-27" value="Data Plane" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#3333FF;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="Ct0M-siwjqjeuyYmhKqq-28" target="Ct0M-siwjqjeuyYmhKqq-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ct0M-siwjqjeuyYmhKqq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-3" target="Ct0M-siwjqjeuyYmhKqq-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-3" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Built on open source apache spark&lt;/li&gt;&lt;li&gt;runs on JVM&lt;/li&gt;&lt;li&gt;Storage is in memory and disk&lt;/li&gt;&lt;li&gt;Supports batch, streaming or interactive execution&lt;/li&gt;&lt;li&gt;Supports Java/Scala, Python, SQL, R&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="-105" width="290" height="140" as="geometry" />
+          <mxGeometry x="-130" y="-60" width="290" height="95" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-7" value="Core API" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" parent="1" source="V43_jzV2RidBm6Wxg-L6-5" target="V43_jzV2RidBm6Wxg-L6-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -66,8 +62,8 @@
         <mxCell id="V43_jzV2RidBm6Wxg-L6-11" value="&lt;p style=&quot;font-size: 12px&quot;&gt;Delta Lake&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="420" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V43_jzV2RidBm6Wxg-L6-12" value="&lt;ul&gt;&lt;li&gt;AWS, GCP, Azure&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
-          <mxGeometry x="162.5" y="-195" width="150" height="90" as="geometry" />
+        <mxCell id="V43_jzV2RidBm6Wxg-L6-12" value="&lt;span&gt;AWS, GCP, Azure&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry x="94.5" y="-270" width="97.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" parent="1" source="V43_jzV2RidBm6Wxg-L6-14" target="V43_jzV2RidBm6Wxg-L6-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -248,7 +244,7 @@
           <mxGeometry x="562.5" y="-130" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Uxrqat-RcbdeCMddSxPX-2" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;active/passive&lt;/li&gt;&lt;li&gt;active/active&lt;/li&gt;&lt;li&gt;what are the RTO/RPO targets?&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-255" y="-252.5" width="175" height="75" as="geometry" />
+          <mxGeometry x="-95.5" y="-300" width="175" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-1" value="&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;&lt;span&gt;fine-grained permission on tables, fields, views&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;ANSI SQL based permission model&lt;/li&gt;&lt;li&gt;works across multiple workspaces, geographic regions and clouds&lt;/li&gt;&lt;li&gt;Secure connections (JDBC/ODBC/delta sharing protocol)&lt;/li&gt;&lt;li&gt;UI to discover and govern data assets&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
           <mxGeometry x="-600" y="110" width="250" height="120" as="geometry" />
@@ -286,11 +282,14 @@
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-22" value="&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">
           <mxGeometry x="-220" y="750" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ct0M-siwjqjeuyYmhKqq-24" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Databricks subscription&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="-130" width="120" height="60" as="geometry" />
+        <mxCell id="Ct0M-siwjqjeuyYmhKqq-24" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Under Databricks subscription, houses cluster manager, UI and DBFS storage&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="-250" width="154.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-26" value="&lt;span style=&quot;font-size: 11px&quot;&gt;customer subscription&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-340" width="120" height="60" as="geometry" />
+          <mxGeometry x="-350" y="-140" width="154.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ct0M-siwjqjeuyYmhKqq-28" value="DataBricks &lt;br&gt;Architecture" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-45.5" y="-185" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-27T06:10:25.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="6KBwPqWMTM_mejmoTgD0" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-27T06:11:08.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="VuXWkyjWOwpLGs6oQ1qC" version="17.2.1" type="github">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1621" dy="1547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -311,7 +311,7 @@
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-34" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Can be persistent (created manually) or transient, which are created by jobs and terminated at the end of successful run. A cluster can be single or multi-user&lt;br&gt;Supports Auto-termination and auto-scaling&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-710" y="-270" width="232.75" height="116.25" as="geometry" />
         </mxCell>
-        <mxCell id="Ct0M-siwjqjeuyYmhKqq-37" value="&lt;p&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Databricks file system, abstraction on top of cloud object storage,&amp;nbsp; interact with object storage using directory and file semantics instead of storage URLs&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Ct0M-siwjqjeuyYmhKqq-37" value="&lt;p&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Databricks file system, abstraction on top of cloud object storage, mount storage objects and interact using directory and file semantics instead of storage URLs&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-372.75" y="-440" width="177.25" height="105" as="geometry" />
         </mxCell>
       </root>

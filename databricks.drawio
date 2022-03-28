@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T07:45:30.398Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="qnD9XsVWWYYuGLR961kA" version="17.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-28T07:54:45.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="Q2KB1zOH3UjYA2NcOU5Y" version="17.2.1" type="github" pages="2">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1878" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -347,16 +347,16 @@
           <mxGeometry x="580" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="260IgYrY84z_pgkx8gj4-5" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Metadata catalog&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;search&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;feature store&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;data movement&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;clickstream tracking&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="230" y="350" width="160" height="80" as="geometry" />
+          <mxGeometry x="230" y="360" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="260IgYrY84z_pgkx8gj4-7" value="&lt;ul&gt;&lt;li&gt;data lake management&lt;/li&gt;&lt;li&gt;data wrangling&lt;/li&gt;&lt;li&gt;data rights governance&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="330" y="50" width="180" height="80" as="geometry" />
+          <mxGeometry x="330" y="40" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="260IgYrY84z_pgkx8gj4-9" value="&lt;ul&gt;&lt;li&gt;Data Virtualization&lt;/li&gt;&lt;li&gt;Data Transformation&lt;/li&gt;&lt;li&gt;Model Training&lt;/li&gt;&lt;li&gt;Continuous Integration&lt;/li&gt;&lt;li&gt;A/B Testing&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="440" y="360" width="180" height="80" as="geometry" />
+          <mxGeometry x="440" y="359" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="260IgYrY84z_pgkx8gj4-11" value="&lt;ul&gt;&lt;li&gt;query optimization&lt;/li&gt;&lt;li&gt;pipeline orchestration&lt;/li&gt;&lt;li&gt;model deploy&lt;/li&gt;&lt;li&gt;quality observability&lt;/li&gt;&lt;li&gt;cost management&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="560" y="50" width="160" height="80" as="geometry" />
+          <mxGeometry x="560" y="40" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-27T07:19:52.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="rG1-eIadEYui5yjX2w1q" version="17.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-28T07:35:18.924Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="w7SFX7jKMiuDsvcoTqmR" version="17.2.1" type="github" pages="2">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1878" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -318,7 +318,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XUH3krE81OkrfBBacNsB" name="Page-2">
-    <mxGraphModel dx="925" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -328,11 +328,17 @@
         <mxCell id="260IgYrY84z_pgkx8gj4-2" value="Build" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontFamily=Tahoma;fontSize=12;fontColor=#0000FF;fontStyle=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="470" y="210" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="260IgYrY84z_pgkx8gj4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="260IgYrY84z_pgkx8gj4-3" target="260IgYrY84z_pgkx8gj4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="260IgYrY84z_pgkx8gj4-3" value="Discover" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontFamily=Tahoma;fontSize=12;fontColor=#0000FF;fontStyle=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="250" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="260IgYrY84z_pgkx8gj4-4" value="Operationalize" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fontFamily=Tahoma;fontSize=12;fontColor=#0000FF;fontStyle=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="580" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="260IgYrY84z_pgkx8gj4-5" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Metadata catalog&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;search&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;feature store&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Tahoma;fontSize=12;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="350" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

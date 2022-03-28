@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T07:55:52.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="5XZojNot8O_SFSuDp7je" version="17.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-28T09:47:17.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="PZM2Y85-Cs7N3BY9yhwT" version="17.2.1" type="github" pages="2">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
-    <mxGraphModel dx="1878" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1878" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,7 +173,7 @@
         <mxCell id="V43_jzV2RidBm6Wxg-L6-30" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;fully managed spark clusters&lt;/li&gt;&lt;li&gt;integration with Azure AD&lt;/li&gt;&lt;li&gt;supports RBAC on notebooks, clusters, jobs, and data&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="400" y="570" width="230" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Ct0M-siwjqjeuyYmhKqq-2" value="unity catalog" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-34" target="Ct0M-siwjqjeuyYmhKqq-1">
+        <mxCell id="Ct0M-siwjqjeuyYmhKqq-2" value="unity catalog" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;fontSize=12;fontColor=#0000FF;fontStyle=1" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-34" target="Ct0M-siwjqjeuyYmhKqq-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#3333FF;endArrow=none;endFill=0;" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-34" target="Ct0M-siwjqjeuyYmhKqq-8">

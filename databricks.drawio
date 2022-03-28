@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T13:01:10.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="oetTS8GVfl7c0xrutotd" version="17.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-28T13:02:14.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="uGemppW33zb3MtxSlgk9" version="17.2.1" type="github" pages="2">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1938" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -306,7 +306,7 @@
         <mxCell id="a9Hsd4KwDBXN5o0fySm8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=12;fontColor=#3333FF;endArrow=none;endFill=0;" edge="1" parent="1" source="a9Hsd4KwDBXN5o0fySm8-1" target="a9Hsd4KwDBXN5o0fySm8-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a9Hsd4KwDBXN5o0fySm8-1" value="&lt;p style=&quot;font-size: 12px&quot;&gt;Cost Control&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a9Hsd4KwDBXN5o0fySm8-1" value="&lt;p style=&quot;font-size: 12px&quot;&gt;Cost Control and chargeback&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="30" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a9Hsd4KwDBXN5o0fySm8-2" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Admins create pools of VMs&lt;/li&gt;&lt;li&gt;Admins create policies and assign budget at the pool level&lt;/li&gt;&lt;li&gt;users create clusters using the assigned policies&lt;/li&gt;&lt;li&gt;Admins monitor usage across platform&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" vertex="1" parent="1">

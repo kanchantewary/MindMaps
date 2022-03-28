@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T11:59:00.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="JmxxFSBp1F43nT74zPaj" version="17.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-28T11:59:17.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="RbZp1-EjD1j52GBEOBx4" version="17.2.1" type="github" pages="2">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1590" dy="1529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -202,7 +202,7 @@
           <mxGeometry x="590" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-43" value="&lt;ul&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;Delta sharing, open protocol developed by Databricks&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Unity Catalog - secure metastore,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;create shares and recipients.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
-          <mxGeometry x="770" y="320" width="290" height="140" as="geometry" />
+          <mxGeometry x="770" y="300" width="410" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" parent="1" source="V43_jzV2RidBm6Wxg-L6-45" target="V43_jzV2RidBm6Wxg-L6-46" edge="1">
           <mxGeometry relative="1" as="geometry">

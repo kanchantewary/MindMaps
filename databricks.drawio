@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T10:16:04.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="M8pw41jQrdXk9xroh6BK" version="17.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-28T10:17:07.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="CM_QUcTHexszy8WdDoAf" version="17.2.1" type="github" pages="2">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1654" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,13 +63,8 @@
         <mxCell id="V43_jzV2RidBm6Wxg-L6-12" value="&lt;span&gt;AWS, GCP, Azure&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="199.25" y="-182.5" width="97.5" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="V43_jzV2RidBm6Wxg-L6-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" parent="1" source="V43_jzV2RidBm6Wxg-L6-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-20" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-17" value="&lt;p style=&quot;font-size: 12px&quot;&gt;Security and Data Governance&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="30" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" parent="1" source="V43_jzV2RidBm6Wxg-L6-18" target="V43_jzV2RidBm6Wxg-L6-22" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -164,20 +159,12 @@
           <mxGeometry x="400" y="570" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-2" value="unity catalog" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;fontSize=12;fontColor=#0000FF;fontStyle=1" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-17" target="Ct0M-siwjqjeuyYmhKqq-1">
-          <mxGeometry x="-0.1698" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-60" y="230" />
-              <mxPoint x="-60" y="150" />
-            </Array>
+          <mxGeometry x="0.0975" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-9" value="Databricks Security and Trust Center" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#3333FF;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-17" target="Ct0M-siwjqjeuyYmhKqq-8">
-          <mxGeometry x="-0.2666" y="-20" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-60" y="230" />
-              <mxPoint x="-60" y="300" />
-            </Array>
+          <mxGeometry x="-0.0146" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -226,7 +213,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-45" value="&lt;p style=&quot;font-size: 12px&quot;&gt;Continuous Integration&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="30" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-46" value="&lt;ul&gt;&lt;li&gt;Using Jenkins, Azure DevOps&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="-250" y="340" width="230" height="62" as="geometry" />

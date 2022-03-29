@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T12:44:24.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="r23lfY5PAJ66ursZjk1W" version="17.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-29T12:44:55.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="_2yc4QsjfJNbjme12tJQ" version="17.2.1" type="github" pages="10">
   <diagram id="LtZiCpY-84f6tLsCK7bx" name="Overview">
     <mxGraphModel dx="1590" dy="1529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="LGAu-1AWbNAaCffHML-8-2" value="Cost management and chargeback" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="529.6" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGAu-1AWbNAaCffHML-8-16" value="standard" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-3" target="LGAu-1AWbNAaCffHML-8-15" edge="1">
+        <mxCell id="LGAu-1AWbNAaCffHML-8-16" value="standard" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;fontFamily=Tahoma;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-3" target="LGAu-1AWbNAaCffHML-8-15" edge="1">
           <mxGeometry x="0.5941" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="720" y="160" />
@@ -36,7 +36,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGAu-1AWbNAaCffHML-8-17" value="Enterprise" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-3" target="LGAu-1AWbNAaCffHML-8-14" edge="1">
+        <mxCell id="LGAu-1AWbNAaCffHML-8-17" value="Enterprise" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fontFamily=Tahoma;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-3" target="LGAu-1AWbNAaCffHML-8-14" edge="1">
           <mxGeometry x="0.5794" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="720" y="160" />
@@ -45,15 +45,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGAu-1AWbNAaCffHML-8-18" value="Business Critical" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-3" target="LGAu-1AWbNAaCffHML-8-13" edge="1">
+        <mxCell id="LGAu-1AWbNAaCffHML-8-18" value="Business&lt;br&gt;Critical" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;fontFamily=Tahoma;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-3" target="LGAu-1AWbNAaCffHML-8-13" edge="1">
           <mxGeometry x="0.495" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="160" />
+              <mxPoint x="760" y="133" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LGAu-1AWbNAaCffHML-8-19" value="VPS" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-3" target="LGAu-1AWbNAaCffHML-8-12" edge="1">
           <mxGeometry x="0.5232" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="720" y="170" />
+              <mxPoint x="720" y="160" />
               <mxPoint x="720" y="215" />
             </Array>
             <mxPoint as="offset" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T09:28:31.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="jSloYEHZl2Vrwi9RSQ4n" version="17.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-29T09:31:28.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="xFpQmr59G69EpuxOxQkP" version="17.2.1" type="github" pages="10">
   <diagram id="LtZiCpY-84f6tLsCK7bx" name="Overview">
     <mxGraphModel dx="1621" dy="1547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -164,6 +164,14 @@
         <mxCell id="TFhJOi3NY_1YhK1pEbsQ-13" value="DR" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-1" target="TFhJOi3NY_1YhK1pEbsQ-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-15" value="databases created by default" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-1" target="TFhJOi3NY_1YhK1pEbsQ-14">
+          <mxGeometry x="0.4286" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="-140" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TFhJOi3NY_1YhK1pEbsQ-1" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;storage and compute are separate&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;three layers - cloud services, compute and storage&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Virtual warehouse with T-shirt sizing&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;per second billing, based on warehouse size&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;scaling policy - standard, economy&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;data is stored in compressed, columnar format&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;underlying file system is implemented on respective cloud storage&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;databases can be permanent or transient (24 hours)&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientColor=none;rounded=1;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
           <mxGeometry x="-200" y="-165" width="315" height="165" as="geometry" />
         </mxCell>
@@ -202,6 +210,9 @@
         </mxCell>
         <mxCell id="TFhJOi3NY_1YhK1pEbsQ-12" value="fail-safe data recovery period" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientColor=none;rounded=1;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
           <mxGeometry x="-102.5" y="-290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-14" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;SNOWFLAKE&lt;/li&gt;&lt;li&gt;UTIL_DB&lt;/li&gt;&lt;li&gt;DEMO_DB&lt;/li&gt;&lt;li&gt;SNOWFLAKE_SAMPLE_DATA&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientColor=none;rounded=1;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+          <mxGeometry x="80" y="-290" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

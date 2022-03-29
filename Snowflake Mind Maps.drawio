@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T13:10:56.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="mNhhk5Dsfj4bOB-E84zC" version="17.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-29T13:11:03.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="PNbre_xJ1T7om8Y-xNA9" version="17.2.1" type="github" pages="10">
   <diagram id="LtZiCpY-84f6tLsCK7bx" name="Overview">
     <mxGraphModel dx="1590" dy="1529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -247,7 +247,7 @@
           <mxGeometry x="495" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TFhJOi3NY_1YhK1pEbsQ-27" value="&lt;ul&gt;&lt;li&gt;List databases, schema and objects to be migrated&lt;/li&gt;&lt;li&gt;List existing integration points (process/tools)&lt;/li&gt;&lt;li&gt;List existing security roles, users and permissions&lt;/li&gt;&lt;li&gt;Some databases requires SQL transformation e.g. Hive&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
-          <mxGeometry x="455" y="-230" width="335" height="110" as="geometry" />
+          <mxGeometry x="420" y="-230" width="335" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

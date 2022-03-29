@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T09:07:54.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="4bDMrnIRYBWJhe8iAERS" version="17.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-29T09:09:38.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="EU78xabWbSLuz7tAyTnx" version="17.2.1" type="github" pages="10">
   <diagram id="LtZiCpY-84f6tLsCK7bx" name="Overview">
-    <mxGraphModel dx="1731" dy="1610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1938" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HvkJfbxAIFK8lNL6DU89-0" />
         <mxCell id="HvkJfbxAIFK8lNL6DU89-1" parent="HvkJfbxAIFK8lNL6DU89-0" />
@@ -39,11 +39,6 @@
         </mxCell>
         <mxCell id="LGAu-1AWbNAaCffHML-8-18" value="Business Critical" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-3" target="LGAu-1AWbNAaCffHML-8-13" edge="1">
           <mxGeometry x="0.495" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="720" y="141" />
-              <mxPoint x="720" y="180" />
-              <mxPoint x="880" y="180" />
-            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -51,7 +46,7 @@
           <mxGeometry x="0.5232" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="720" y="141" />
-              <mxPoint x="720" y="263" />
+              <mxPoint x="720" y="215" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -159,10 +154,10 @@
           <mxGeometry x="-200" y="-165" width="315" height="165" as="geometry" />
         </mxCell>
         <mxCell id="LGAu-1AWbNAaCffHML-8-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fontSize=11;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
-          <mxGeometry x="880" y="226.43" width="210" height="73.57" as="geometry" />
+          <mxGeometry x="870" y="178.21" width="210" height="73.57" as="geometry" />
         </mxCell>
         <mxCell id="LGAu-1AWbNAaCffHML-8-13" value="&lt;ul&gt;&lt;li&gt;customer managed encryption keys&lt;/li&gt;&lt;li&gt;private link connectivity&lt;/li&gt;&lt;li&gt;Regulatory compliance (HIPAA, HITRUST, FEDRAMP, PCI DSS, IRAP)&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fontSize=11;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
-          <mxGeometry x="880" y="144.26" width="240" height="75.74" as="geometry" />
+          <mxGeometry x="870" y="95.25999999999999" width="240" height="75.74" as="geometry" />
         </mxCell>
         <mxCell id="LGAu-1AWbNAaCffHML-8-14" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;extended time travel (90 days)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;periodic rekeying of encrypted data&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;column level security&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;row access policies&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;object tagging and data classification&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;multi-cluster virtual warehouses&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;search optimization, materialized views&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Database failover and failback&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="870" y="-40" width="240" height="130" as="geometry" />

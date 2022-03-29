@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T12:34:05.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="8tWlrudEdvUHrWDW3nJr" version="17.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-29T12:44:08.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="fPFn0MYfdageM0tKHKhi" version="17.2.1" type="github" pages="10">
   <diagram id="LtZiCpY-84f6tLsCK7bx" name="Overview">
-    <mxGraphModel dx="1731" dy="1610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1590" dy="1529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HvkJfbxAIFK8lNL6DU89-0" />
         <mxCell id="HvkJfbxAIFK8lNL6DU89-1" parent="HvkJfbxAIFK8lNL6DU89-0" />
         <mxCell id="LGAu-1AWbNAaCffHML-8-0" value="Data Sharing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
-          <mxGeometry x="230" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="365" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TFhJOi3NY_1YhK1pEbsQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-1" target="TFhJOi3NY_1YhK1pEbsQ-6">
           <mxGeometry relative="1" as="geometry" />
@@ -30,7 +30,7 @@
         <mxCell id="LGAu-1AWbNAaCffHML-8-16" value="standard" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-3" target="LGAu-1AWbNAaCffHML-8-15" edge="1">
           <mxGeometry x="0.5941" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="720" y="141" />
+              <mxPoint x="720" y="160" />
               <mxPoint x="720" y="-90" />
             </Array>
             <mxPoint as="offset" />
@@ -39,7 +39,7 @@
         <mxCell id="LGAu-1AWbNAaCffHML-8-17" value="Enterprise" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-3" target="LGAu-1AWbNAaCffHML-8-14" edge="1">
           <mxGeometry x="0.5794" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="720" y="141" />
+              <mxPoint x="720" y="160" />
               <mxPoint x="720" y="30" />
             </Array>
             <mxPoint as="offset" />
@@ -53,34 +53,22 @@
         <mxCell id="LGAu-1AWbNAaCffHML-8-19" value="VPS" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-3" target="LGAu-1AWbNAaCffHML-8-12" edge="1">
           <mxGeometry x="0.5232" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="720" y="141" />
+              <mxPoint x="720" y="170" />
               <mxPoint x="720" y="215" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LGAu-1AWbNAaCffHML-8-3" value="Editions" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
-          <mxGeometry x="529.6" y="111" width="120" height="60" as="geometry" />
+          <mxGeometry x="529.6" y="136" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-4" target="LGAu-1AWbNAaCffHML-8-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-4" target="0VUw2bEQ5yQ7uSR4YcZu-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-4" target="0VUw2bEQ5yQ7uSR4YcZu-20" edge="1">
+        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-13" value="Snowpark" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;endArrow=none;endFill=0;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-4" target="0VUw2bEQ5yQ7uSR4YcZu-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="435" y="20" />
-              <mxPoint x="615" y="20" />
-            </Array>
+            <mxPoint x="335.19047619047615" y="-20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LGAu-1AWbNAaCffHML-8-4" value="Integrations" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
-          <mxGeometry x="375" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-6" value="API library" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-5" target="0VUw2bEQ5yQ7uSR4YcZu-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="230" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TFhJOi3NY_1YhK1pEbsQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-6" target="0VUw2bEQ5yQ7uSR4YcZu-3">
           <mxGeometry relative="1" as="geometry" />
@@ -98,7 +86,7 @@
           <mxGeometry x="133.6" y="430" width="346.4" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-5" value="&lt;ul&gt;&lt;li&gt;External functions in Python, Scala, Java and SQL&lt;/li&gt;&lt;li&gt;functions are converted to Snowflake UDF with a push down of the code to Snowflake&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
-          <mxGeometry x="215" y="-160" width="210" height="80" as="geometry" />
+          <mxGeometry x="185" y="-150" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-8" value="access control" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;endArrow=none;endFill=0;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" source="0VUw2bEQ5yQ7uSR4YcZu-7" target="LGAu-1AWbNAaCffHML-8-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -125,23 +113,17 @@
         <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-7" value="Security and Data Governance" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="-60" y="137" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-17" value="dbt" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="HvkJfbxAIFK8lNL6DU89-1" source="0VUw2bEQ5yQ7uSR4YcZu-14" target="0VUw2bEQ5yQ7uSR4YcZu-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-17" value="dbt" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-4" target="0VUw2bEQ5yQ7uSR4YcZu-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="494.80952380952385" y="-30" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="290" y="20" />
+              <mxPoint x="410" y="20" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-16" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
-          <mxGeometry x="439.6" y="-160" width="210" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-18" value="" style="group;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1" connectable="0">
-          <mxGeometry x="320" y="-30" width="230" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LGAu-1AWbNAaCffHML-8-5" value="Snowpark" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="0VUw2bEQ5yQ7uSR4YcZu-18" vertex="1">
-          <mxGeometry width="110.4" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-14" value="3rd Party packages" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="0VUw2bEQ5yQ7uSR4YcZu-18" vertex="1">
-          <mxGeometry x="119.60000000000001" width="110.4" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-20" value="Connectors" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
-          <mxGeometry x="560" y="-30" width="110.4" height="40" as="geometry" />
+          <mxGeometry x="370" y="-320" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TFhJOi3NY_1YhK1pEbsQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Tahoma;" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="-_QBojwmXZZEPzJq5RTx-0" target="TFhJOi3NY_1YhK1pEbsQ-1">
           <mxGeometry relative="1" as="geometry" />
@@ -249,7 +231,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TFhJOi3NY_1YhK1pEbsQ-23" value="Objects" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=1" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
-          <mxGeometry x="-60" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="219" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TFhJOi3NY_1YhK1pEbsQ-24" value="&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Table&lt;/b&gt; - PERMANENT, TEMPORARY, TRANSIENT, EXTERNAL&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Views&lt;/b&gt; - MATERIALIZED, NON-MATERIALIZED&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;stages&lt;/b&gt;- INTERNAL (can be of NAMED, USER and TABLE stage types), EXTERNAL.&amp;nbsp;default file format is CSV. We can create file formats for JSON, AVRO, ORC, PARQUET, and XML&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;span&gt;&lt;b&gt;Stored Procedures&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;User Defined Functions (UDF)&lt;/b&gt; - can be written in Javascript or SQL. can return tabular or scalar value&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Pipes -&amp;nbsp;&lt;/b&gt;&lt;/span&gt;object with a COPY statement, used by Snowpipe&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;span&gt;&lt;b&gt;Streams -&amp;nbsp;&lt;/b&gt;&lt;/span&gt;change data capture (CDC)&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Sequences -&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;generate unique number&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
           <mxGeometry x="-600" y="345" width="370" height="175" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T12:53:04.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="CL_FUyjaWNJ8j2BOHhfl" version="17.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-29T13:08:48.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="JaafrV-BwiLtqo4NIH95" version="17.2.1" type="github" pages="10">
   <diagram id="LtZiCpY-84f6tLsCK7bx" name="Overview">
     <mxGraphModel dx="1590" dy="1529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -240,14 +240,14 @@
         <mxCell id="TFhJOi3NY_1YhK1pEbsQ-24" value="&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Table&lt;/b&gt; - PERMANENT, TEMPORARY, TRANSIENT, EXTERNAL&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Views&lt;/b&gt; - MATERIALIZED, NON-MATERIALIZED&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;stages&lt;/b&gt;- INTERNAL (can be of NAMED, USER and TABLE stage types), EXTERNAL.&amp;nbsp;default file format is CSV. We can create file formats for JSON, AVRO, ORC, PARQUET, and XML&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;span&gt;&lt;b&gt;Stored Procedures&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;User Defined Functions (UDF)&lt;/b&gt; - can be written in Javascript or SQL. can return tabular or scalar value&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Pipes -&amp;nbsp;&lt;/b&gt;&lt;/span&gt;object with a COPY statement, used by Snowpipe&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;span&gt;&lt;b&gt;Streams -&amp;nbsp;&lt;/b&gt;&lt;/span&gt;change data capture (CDC)&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Sequences -&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;generate unique number&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
           <mxGeometry x="-600" y="345" width="370" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-26" target="TFhJOi3NY_1YhK1pEbsQ-27">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-28" value="Approach" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-26" target="TFhJOi3NY_1YhK1pEbsQ-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TFhJOi3NY_1YhK1pEbsQ-26" value="Data Migration" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=1" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
           <mxGeometry x="495" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-27" value="Hive - requires SQL transformation" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
-          <mxGeometry x="485" y="-122.5" width="200" height="80" as="geometry" />
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-27" value="&lt;ul&gt;&lt;li&gt;List databases, schema and objects to be migrated&lt;/li&gt;&lt;li&gt;List existing integration points (process/tools)&lt;/li&gt;&lt;li&gt;Hive - requires SQL transformation&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+          <mxGeometry x="455" y="-230" width="275" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

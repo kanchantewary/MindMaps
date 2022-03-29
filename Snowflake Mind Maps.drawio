@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T09:07:12.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="RVea_lw3YTdyxQEy1tEm" version="17.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-29T09:07:54.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="4bDMrnIRYBWJhe8iAERS" version="17.2.1" type="github" pages="10">
   <diagram id="LtZiCpY-84f6tLsCK7bx" name="Overview">
     <mxGraphModel dx="1731" dy="1610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="HvkJfbxAIFK8lNL6DU89-1" parent="HvkJfbxAIFK8lNL6DU89-0" />
         <mxCell id="LGAu-1AWbNAaCffHML-8-0" value="Data Sharing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="230" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-1" target="TFhJOi3NY_1YhK1pEbsQ-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGAu-1AWbNAaCffHML-8-1" value="Administration" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="375" y="320" width="120" height="60" as="geometry" />
@@ -178,6 +181,9 @@
         </mxCell>
         <mxCell id="TFhJOi3NY_1YhK1pEbsQ-3" value="&lt;ul&gt;&lt;li&gt;snapshot of a database, metadata-only operation, no additional storage cost&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
           <mxGeometry x="-140" y="430" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-6" value="&lt;ul&gt;&lt;li&gt;snapshot of a database, metadata-only operation, no additional storage cost&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+          <mxGeometry x="460" y="430" width="260" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T03:34:32.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="kDyNc1pu-rWdMtbNfv_E" version="17.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-29T03:36:10.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="xm67Xpe6bjFRBlTMT_CI" version="17.2.1" type="github" pages="10">
   <diagram id="LtZiCpY-84f6tLsCK7bx" name="Overview">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -142,11 +142,17 @@
         <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-20" value="Connectors" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="560" y="-30" width="110.4" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="-_QBojwmXZZEPzJq5RTx-0" target="TFhJOi3NY_1YhK1pEbsQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-_QBojwmXZZEPzJq5RTx-0" value="Architecture" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
           <mxGeometry x="95" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TFhJOi3NY_1YhK1pEbsQ-0" value="Snowpipe" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
           <mxGeometry x="-60" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-1" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;charged per snowflake credit&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;consumption depends on the size of VW&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;compute cost per credit goes up as we move from standard edition to higher editions&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientColor=none;rounded=1;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+          <mxGeometry x="-160" y="-120" width="225" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

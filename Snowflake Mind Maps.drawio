@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T04:18:21.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="nk0UL8vLUfXdAG6ztj43" version="17.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-29T04:19:49.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="2LjnZb-k3ZCsW9uMaAAZ" version="17.2.1" type="github" pages="10">
   <diagram id="LtZiCpY-84f6tLsCK7bx" name="Overview">
     <mxGraphModel dx="1590" dy="1529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -175,8 +175,8 @@
         <mxCell id="LGAu-1AWbNAaCffHML-8-15" value="standard time travel (1 day)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="870" y="-130" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LGAu-1AWbNAaCffHML-8-7" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Federated authentication and SSO&lt;/li&gt;&lt;li&gt;Configure Identity providers like Okta or Azure AD&lt;/li&gt;&lt;li&gt;Multi-factor authentication&lt;/li&gt;&lt;li&gt;OAuth&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
-          <mxGeometry x="-470" y="219" width="240" height="81" as="geometry" />
+        <mxCell id="LGAu-1AWbNAaCffHML-8-7" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Federated authentication and SSO&lt;/li&gt;&lt;li&gt;Configure Identity providers like Okta or Azure AD&lt;/li&gt;&lt;li&gt;Multi-factor authentication&lt;/li&gt;&lt;li&gt;OAuth&lt;/li&gt;&lt;li&gt;Key pair authentication&lt;/li&gt;&lt;li&gt;Key pair rotation&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
+          <mxGeometry x="-470" y="219" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LGAu-1AWbNAaCffHML-8-9" value="Access Control" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="-470" y="130" width="240" height="80" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T09:17:59.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="z8O8T4KtNd5sO_NEueY8" version="17.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-29T09:19:34.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="2en7yfgX7mHWkgWmV4Hq" version="17.2.1" type="github" pages="10">
   <diagram id="LtZiCpY-84f6tLsCK7bx" name="Overview">
     <mxGraphModel dx="1621" dy="1547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -194,7 +194,7 @@
         <mxCell id="TFhJOi3NY_1YhK1pEbsQ-8" value="&lt;ul style=&quot;font-size: 11px;&quot;&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;daily average compressed size&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientColor=none;rounded=1;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
           <mxGeometry x="862.5" y="360" width="297.5" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-10" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Query results cache - persisted for 24 hours&lt;/li&gt;&lt;li&gt;Metadata cache - column statistics, used to build query execution plan&lt;/li&gt;&lt;li&gt;Local Disk Cache&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-10" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Query results cache - persisted for 24 hours&lt;/li&gt;&lt;li&gt;Metadata cache - column statistics, used to build query execution plan&lt;/li&gt;&lt;li&gt;Local Disk Cache - traditional data cache (aka SSD cache)&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
           <mxGeometry x="-540" y="-190" width="270" height="80" as="geometry" />
         </mxCell>
       </root>

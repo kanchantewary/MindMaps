@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T10:19:28.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="yhMl2BctkNhBnGDs9067" version="17.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-29T10:22:22.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="1f8_UuB8OxQtYPdwMisz" version="17.2.1" type="github" pages="10">
   <diagram id="LtZiCpY-84f6tLsCK7bx" name="Overview">
     <mxGraphModel dx="1775" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -169,7 +169,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-17" value="Snowpipe" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-1" target="TFhJOi3NY_1YhK1pEbsQ-16">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-17" value="Data load options" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-1" target="TFhJOi3NY_1YhK1pEbsQ-16">
           <mxGeometry x="-0.561" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-150" y="-290" />
@@ -219,7 +219,7 @@
         <mxCell id="TFhJOi3NY_1YhK1pEbsQ-14" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;SNOWFLAKE - read-only shared database, provides object metadata and usage metrics about the snowflake account&lt;/li&gt;&lt;li&gt;UTIL_DB&lt;/li&gt;&lt;li&gt;DEMO_DB&lt;/li&gt;&lt;li&gt;SNOWFLAKE_SAMPLE_DATA&lt;/li&gt;&lt;li&gt;INFORMATION_SCHEMA is included in all databases&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientColor=none;rounded=1;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
           <mxGeometry x="80" y="-340" width="270" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-16" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;loads data from files as soon as they are available in a stage&lt;/li&gt;&lt;li&gt;Mechanism - Automating Snowpipe using cloud messaging or Calling Snowpipe REST endpoints&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-16" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Snowpipe&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;loads data from files as soon as they are available in a stage&lt;/li&gt;&lt;li&gt;Mechanism - Automating Snowpipe using cloud messaging or Calling Snowpipe REST endpoints&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Bulk Data Load&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
           <mxGeometry x="-560" y="-350" width="310" height="120" as="geometry" />
         </mxCell>
       </root>

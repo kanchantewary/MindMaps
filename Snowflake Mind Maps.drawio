@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T08:34:23.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="oaYsftNJc8PLPRYi0LN9" version="17.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-29T09:07:12.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="RVea_lw3YTdyxQEy1tEm" version="17.2.1" type="github" pages="10">
   <diagram id="LtZiCpY-84f6tLsCK7bx" name="Overview">
     <mxGraphModel dx="1731" dy="1610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,15 +76,7 @@
         <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-6" value="API library" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-5" target="0VUw2bEQ5yQ7uSR4YcZu-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-2" value="Retention period" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-6" target="0VUw2bEQ5yQ7uSR4YcZu-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="285" y="420" />
-              <mxPoint x="150" y="420" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-4" value="options" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-6" target="0VUw2bEQ5yQ7uSR4YcZu-3" edge="1">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-6" target="0VUw2bEQ5yQ7uSR4YcZu-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGAu-1AWbNAaCffHML-8-6" value="Time Travel" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
@@ -99,11 +91,8 @@
         <mxCell id="tJKTH8c92iPMbayajSP0-0" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;charged per snowflake credit&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;consumption depends on the size of VW&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;compute cost per credit goes up as we move from standard edition to higher editions&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientColor=none;rounded=1;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="790" y="355" width="225" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-1" value="up to 90 days for Enterprise, 1 day for Standard Edition" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
-          <mxGeometry x="120" y="450" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-3" value="&lt;ul&gt;&lt;li&gt;time-based (a timestamp or time offset from the present)&lt;/li&gt;&lt;li&gt;the ID for a completed statement (e.g. SELECT or INSERT)&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
-          <mxGeometry x="290" y="450" width="190" height="60" as="geometry" />
+        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-3" value="&lt;ul&gt;&lt;li&gt;restore a previous version of a database, table, or schema&lt;br&gt;&lt;/li&gt;&lt;li&gt;time-based (a timestamp or time offset from the present)&lt;/li&gt;&lt;li&gt;the ID for a completed statement (e.g. SELECT or INSERT)&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;retention period - up to 90 days for Enterprise, 1 day for Standard Edition&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
+          <mxGeometry x="143" y="430" width="306" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-5" value="&lt;ul&gt;&lt;li&gt;External functions in Python, Scala, Java and SQL&lt;/li&gt;&lt;li&gt;functions are converted to Snowflake UDF with a push down of the code to Snowflake&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="215" y="-160" width="210" height="80" as="geometry" />
@@ -188,7 +177,7 @@
           <mxGeometry x="-650" y="-50" width="420" height="170" as="geometry" />
         </mxCell>
         <mxCell id="TFhJOi3NY_1YhK1pEbsQ-3" value="&lt;ul&gt;&lt;li&gt;snapshot of a database, metadata-only operation, no additional storage cost&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
-          <mxGeometry x="-340" y="390" width="260" height="110" as="geometry" />
+          <mxGeometry x="-140" y="430" width="260" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

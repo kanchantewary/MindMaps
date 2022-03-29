@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T09:12:03.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="xhd0ZkixkUqhInoJE5jP" version="17.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-29T09:12:10.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="RvKCSFcgNtvfT3Dj-Rrn" version="17.2.1" type="github" pages="10">
   <diagram id="LtZiCpY-84f6tLsCK7bx" name="Overview">
     <mxGraphModel dx="1938" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
         <mxCell id="LGAu-1AWbNAaCffHML-8-8" value="&lt;h2&gt;Snowflake&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;fontFamily=Tahoma;fillColor=#d5e8d4;strokeColor=#82b366;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="80" y="120" width="430" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="LGAu-1AWbNAaCffHML-8-10" value="Snowpipe" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
+        <mxCell id="LGAu-1AWbNAaCffHML-8-10" value="Snowpipe" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="-60" y="219" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tJKTH8c92iPMbayajSP0-0" value="&lt;ul style=&quot;font-size: 11px;&quot;&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;charged per snowflake credit&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;consumption depends on the size of VW&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;compute cost per credit goes up as we move from standard edition to higher editions&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientColor=none;rounded=1;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">

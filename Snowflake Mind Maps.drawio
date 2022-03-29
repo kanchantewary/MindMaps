@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T08:33:03.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="p_SG0V_i0atLZrluGXUl" version="17.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-29T08:34:23.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="oaYsftNJc8PLPRYi0LN9" version="17.2.1" type="github" pages="10">
   <diagram id="LtZiCpY-84f6tLsCK7bx" name="Overview">
     <mxGraphModel dx="1731" dy="1610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -187,8 +187,8 @@
         <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-10" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;all data at rest is always encrypted and encrypted with TLS in transit&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Client side encryption&lt;/li&gt;&lt;li&gt;Encryption keys can be snowflake-managed or customer-managed (by the cloud platform e.g. Azure Key Vault in Azure)&lt;/li&gt;&lt;li&gt;Automatic Key rotation after 30 days&lt;/li&gt;&lt;li&gt;Periodic Re-keying&lt;/li&gt;&lt;li&gt;Hardware Security Module (HSM)&lt;/li&gt;&lt;li&gt;Tri-Secret Secure -&amp;nbsp; combination of a Snowflake-maintained key and a customer-managed key - Business Critical Edition feature&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="-650" y="-50" width="420" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-3" value="up to 90 days for Enterprise, 1 day for Standard Edition" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
-          <mxGeometry x="-122.5" y="390" width="160" height="60" as="geometry" />
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-3" value="&lt;ul&gt;&lt;li&gt;snapshot of a database, metadata-only operation, no additional storage cost&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+          <mxGeometry x="-340" y="390" width="260" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T07:14:04.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="0q1gJU1zi9DHg_bXLJzX" version="17.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-29T07:14:39.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="cDiXI_Etc3lvQHDCQxpJ" version="17.2.1" type="github" pages="10">
   <diagram id="LtZiCpY-84f6tLsCK7bx" name="Overview">
     <mxGraphModel dx="1590" dy="1529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -181,7 +181,7 @@
         <mxCell id="LGAu-1AWbNAaCffHML-8-9" value="Access Control" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="-470" y="130" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-10" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;all data at rest is always encrypted and encrypted with TLS in transit&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Client side encryption&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Encryption keys can be snowflake-managed or customer-managed&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
+        <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-10" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;all data at rest is always encrypted and encrypted with TLS in transit&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Client side encryption&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Encryption keys can be snowflake-managed or customer-managed&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Key rotation&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Periodic Re-keying&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="-470" y="10" width="240" height="110" as="geometry" />
         </mxCell>
       </root>

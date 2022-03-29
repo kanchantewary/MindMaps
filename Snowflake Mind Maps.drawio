@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T09:09:38.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="EU78xabWbSLuz7tAyTnx" version="17.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-29T09:10:20.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="uKJcj8c1C7tPbJ3U4TIB" version="17.2.1" type="github" pages="10">
   <diagram id="LtZiCpY-84f6tLsCK7bx" name="Overview">
     <mxGraphModel dx="1938" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,8 +16,16 @@
         <mxCell id="tJKTH8c92iPMbayajSP0-1" value="compute cost" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-2" target="tJKTH8c92iPMbayajSP0-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-9" value="storage cost" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-2" target="TFhJOi3NY_1YhK1pEbsQ-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="260" />
+              <mxPoint x="710" y="407" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LGAu-1AWbNAaCffHML-8-2" value="Cost management and chargeback" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
-          <mxGeometry x="540" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="529.6" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGAu-1AWbNAaCffHML-8-16" value="standard" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-3" target="LGAu-1AWbNAaCffHML-8-15" edge="1">
           <mxGeometry x="0.5941" relative="1" as="geometry">
@@ -87,7 +95,7 @@
           <mxGeometry x="-60" y="219" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tJKTH8c92iPMbayajSP0-0" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;charged per snowflake credit&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;consumption depends on the size of VW&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;compute cost per credit goes up as we move from standard edition to higher editions&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientColor=none;rounded=1;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
-          <mxGeometry x="790" y="355" width="225" height="95" as="geometry" />
+          <mxGeometry x="862.5" y="260" width="225" height="95" as="geometry" />
         </mxCell>
         <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-3" value="&lt;ul&gt;&lt;li&gt;restore a previous version of a database, table, or schema&lt;br&gt;&lt;/li&gt;&lt;li&gt;time-based (a timestamp or time offset from the present)&lt;/li&gt;&lt;li&gt;the ID for a completed statement (e.g. SELECT or INSERT)&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;retention period - up to 90 days for Enterprise, 1 day for Standard Edition&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="143" y="430" width="306" height="90" as="geometry" />
@@ -179,6 +187,9 @@
         </mxCell>
         <mxCell id="TFhJOi3NY_1YhK1pEbsQ-6" value="&lt;ul&gt;&lt;li&gt;snapshot of a database, metadata-only operation, no additional storage cost&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
           <mxGeometry x="460" y="430" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-8" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;charged per snowflake credit&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;consumption depends on the size of VW&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;compute cost per credit goes up as we move from standard edition to higher editions&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientColor=none;rounded=1;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+          <mxGeometry x="862.5" y="360" width="225" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T11:14:49.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="OdClp5XfnLafqFg3pUd-" version="17.2.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-30T11:15:19.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="7ZrPogxHt9yXVpcol_E7" version="17.2.4" type="github" pages="10">
   <diagram id="LtZiCpY-84f6tLsCK7bx" name="Overview">
     <mxGraphModel dx="2674" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="710" y="260" />
-              <mxPoint x="710" y="407" />
+              <mxPoint x="710" y="418" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -84,7 +84,7 @@
           <mxGeometry x="80" y="120" width="430" height="190" as="geometry" />
         </mxCell>
         <mxCell id="tJKTH8c92iPMbayajSP0-0" value="&lt;ul style=&quot;font-size: 11px;&quot;&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;charged per snowflake credit&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;consumption depends on the size of VW&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;compute cost per credit goes up as we move from standard edition to higher editions&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
-          <mxGeometry x="862.5" y="260" width="297.5" height="95" as="geometry" />
+          <mxGeometry x="870" y="260" width="290" height="95" as="geometry" />
         </mxCell>
         <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-3" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;restore a previous version of a database, table, or schema&lt;br&gt;&lt;/li&gt;&lt;li&gt;time-based (a timestamp or time offset from the present)&lt;/li&gt;&lt;li&gt;the ID for a completed statement (e.g. SELECT or INSERT)&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;retention period - up to 90 days for Enterprise, 1 day for Standard Edition&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="133.6" y="430" width="346.4" height="120" as="geometry" />
@@ -203,7 +203,7 @@
           <mxGeometry x="495" y="430" width="260" height="110" as="geometry" />
         </mxCell>
         <mxCell id="TFhJOi3NY_1YhK1pEbsQ-8" value="&lt;ul style=&quot;font-size: 11px;&quot;&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;daily average compressed size&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
-          <mxGeometry x="862.5" y="360" width="297.5" height="95" as="geometry" />
+          <mxGeometry x="871.25" y="370" width="291.75" height="95" as="geometry" />
         </mxCell>
         <mxCell id="TFhJOi3NY_1YhK1pEbsQ-10" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Query results cache - persisted for 24 hours&lt;/li&gt;&lt;li&gt;Metadata cache - column statistics, used to build query execution plan&lt;/li&gt;&lt;li&gt;Local Disk Cache - traditional data cache (aka SSD cache)&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="-540" y="-190" width="270" height="80" as="geometry" />

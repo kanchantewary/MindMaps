@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T14:20:47.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="FrSj5DEL-zrg52cP1uPi" version="17.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-30T09:19:13.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="KcMTYCmtPHpXyPaMX0zf" version="17.2.4" type="github" pages="10">
   <diagram id="LtZiCpY-84f6tLsCK7bx" name="Overview">
-    <mxGraphModel dx="1511" dy="1483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1654" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HvkJfbxAIFK8lNL6DU89-0" />
         <mxCell id="HvkJfbxAIFK8lNL6DU89-1" parent="HvkJfbxAIFK8lNL6DU89-0" />
         <mxCell id="LGAu-1AWbNAaCffHML-8-0" value="Data Sharing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="365" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-1" target="TFhJOi3NY_1YhK1pEbsQ-6">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-1" target="TFhJOi3NY_1YhK1pEbsQ-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGAu-1AWbNAaCffHML-8-1" value="Administration" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
@@ -16,7 +16,7 @@
         <mxCell id="tJKTH8c92iPMbayajSP0-1" value="compute cost" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;fontFamily=Tahoma;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-2" target="tJKTH8c92iPMbayajSP0-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-9" value="storage cost" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-2" target="TFhJOi3NY_1YhK1pEbsQ-8">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-9" value="storage cost" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-2" target="TFhJOi3NY_1YhK1pEbsQ-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="710" y="260" />
@@ -74,7 +74,7 @@
         <mxCell id="LGAu-1AWbNAaCffHML-8-4" value="Integrations" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="230" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-6" target="0VUw2bEQ5yQ7uSR4YcZu-3">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" parent="HvkJfbxAIFK8lNL6DU89-1" source="LGAu-1AWbNAaCffHML-8-6" target="0VUw2bEQ5yQ7uSR4YcZu-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGAu-1AWbNAaCffHML-8-6" value="Time Travel" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
@@ -114,6 +114,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fYqYSTx3vLGCjY2rHUQZ-2" value="Data Classification" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="0VUw2bEQ5yQ7uSR4YcZu-7" target="fYqYSTx3vLGCjY2rHUQZ-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-80" y="167" />
+              <mxPoint x="-80" y="141" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-7" value="Security and Data Governance" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="-60" y="137" width="120" height="60" as="geometry" />
         </mxCell>
@@ -129,25 +137,25 @@
         <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-16" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;dbt, spark, kafka&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="370" y="-320" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Tahoma;" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="-_QBojwmXZZEPzJq5RTx-0" target="TFhJOi3NY_1YhK1pEbsQ-1">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Tahoma;" parent="HvkJfbxAIFK8lNL6DU89-1" source="-_QBojwmXZZEPzJq5RTx-0" target="TFhJOi3NY_1YhK1pEbsQ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-_QBojwmXZZEPzJq5RTx-0" value="Architecture" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=1" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+        <mxCell id="-_QBojwmXZZEPzJq5RTx-0" value="Architecture" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="95" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-0" target="TFhJOi3NY_1YhK1pEbsQ-3">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-0" target="TFhJOi3NY_1YhK1pEbsQ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-0" value="Zero-copy Cloning" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=1" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-0" value="Zero-copy Cloning" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="95" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-11" value="caching" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-1" target="TFhJOi3NY_1YhK1pEbsQ-10">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-11" value="caching" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-1" target="TFhJOi3NY_1YhK1pEbsQ-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-13" value="DR" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-1" target="TFhJOi3NY_1YhK1pEbsQ-12">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-13" value="DR" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-1" target="TFhJOi3NY_1YhK1pEbsQ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-15" value="databases created by default" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-1" target="TFhJOi3NY_1YhK1pEbsQ-14">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-15" value="databases created by default" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-1" target="TFhJOi3NY_1YhK1pEbsQ-14" edge="1">
           <mxGeometry x="0.4286" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="165" y="-140" />
@@ -155,7 +163,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-1" target="TFhJOi3NY_1YhK1pEbsQ-18">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-1" target="TFhJOi3NY_1YhK1pEbsQ-18" edge="1">
           <mxGeometry x="-0.561" relative="1" as="geometry">
             <mxPoint x="-170" y="-370" as="targetPoint" />
             <Array as="points">
@@ -164,7 +172,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-1" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;storage and compute are separate&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;three layers - cloud services, compute and storage&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Virtual warehouse with T-shirt sizing&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;per second billing, based on warehouse size&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;scaling policy - standard, economy&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;data is stored in compressed, columnar format&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;underlying file system is implemented on respective cloud storage&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;databases can be permanent or transient (24 hours)&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientColor=none;rounded=1;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-1" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;storage and compute are separate&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;three layers - cloud services, compute and storage&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Virtual warehouse with T-shirt sizing&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;per second billing, based on warehouse size&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;scaling policy - standard, economy&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;data is stored in compressed, columnar format&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;underlying file system is implemented on respective cloud storage&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;databases can be permanent or transient (24 hours)&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientColor=none;rounded=1;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="-200" y="-165" width="315" height="165" as="geometry" />
         </mxCell>
         <mxCell id="LGAu-1AWbNAaCffHML-8-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
@@ -180,39 +188,39 @@
           <mxGeometry x="870" y="-130" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LGAu-1AWbNAaCffHML-8-7" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Federated authentication and SSO&lt;/li&gt;&lt;li&gt;Configure Identity providers like Okta or Azure AD&lt;/li&gt;&lt;li&gt;Multi-factor authentication&lt;/li&gt;&lt;li&gt;OAuth&lt;/li&gt;&lt;li&gt;Key pair authentication&lt;/li&gt;&lt;li&gt;Key pair rotation&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
-          <mxGeometry x="-500" y="219" width="270" height="110" as="geometry" />
+          <mxGeometry x="-650" y="219" width="420" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LGAu-1AWbNAaCffHML-8-9" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Roles - SYSADMIN, PUBLIC, ACCOUNTADMIN, USERADMIN, SECURITYADMIN&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
-          <mxGeometry x="-650" y="130" width="420" height="80" as="geometry" />
+          <mxGeometry x="-650" y="160" width="420" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0VUw2bEQ5yQ7uSR4YcZu-10" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;all data at rest is always encrypted and encrypted with TLS in transit&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Client side encryption&lt;/li&gt;&lt;li&gt;Encryption keys can be snowflake-managed or customer-managed (by the cloud platform e.g. Azure Key Vault in Azure)&lt;/li&gt;&lt;li&gt;Automatic Key rotation after 30 days&lt;/li&gt;&lt;li&gt;Periodic Re-keying&lt;/li&gt;&lt;li&gt;Hardware Security Module (HSM)&lt;/li&gt;&lt;li&gt;Tri-Secret Secure -&amp;nbsp; combination of a Snowflake-maintained key and a customer-managed key - Business Critical Edition feature&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="-650" y="-50" width="420" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-3" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;snapshot of a database, metadata-only operation, no additional storage cost&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-3" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;snapshot of a database, metadata-only operation, no additional storage cost&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="-140" y="430" width="260" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-6" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;snapshot of a database, metadata-only operation, no additional storage cost&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-6" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;snapshot of a database, metadata-only operation, no additional storage cost&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="495" y="430" width="260" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-8" value="&lt;ul style=&quot;font-size: 11px;&quot;&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;daily average compressed size&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-8" value="&lt;ul style=&quot;font-size: 11px;&quot;&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;daily average compressed size&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="862.5" y="360" width="297.5" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-10" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Query results cache - persisted for 24 hours&lt;/li&gt;&lt;li&gt;Metadata cache - column statistics, used to build query execution plan&lt;/li&gt;&lt;li&gt;Local Disk Cache - traditional data cache (aka SSD cache)&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-10" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Query results cache - persisted for 24 hours&lt;/li&gt;&lt;li&gt;Metadata cache - column statistics, used to build query execution plan&lt;/li&gt;&lt;li&gt;Local Disk Cache - traditional data cache (aka SSD cache)&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="-540" y="-190" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-12" value="&lt;font style=&quot;font-size: 11px&quot;&gt;fail-safe data recovery period&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientColor=none;rounded=1;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-12" value="&lt;font style=&quot;font-size: 11px&quot;&gt;fail-safe data recovery period&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientColor=none;rounded=1;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="-102.5" y="-290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-14" value="&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;ul&gt;&lt;li&gt;SNOWFLAKE - read-only shared database, provides object metadata and usage metrics about the snowflake account&lt;/li&gt;&lt;li&gt;UTIL_DB&lt;/li&gt;&lt;li&gt;DEMO_DB&lt;/li&gt;&lt;li&gt;SNOWFLAKE_SAMPLE_DATA&lt;/li&gt;&lt;li&gt;INFORMATION_SCHEMA is included in all databases&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientColor=none;rounded=1;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-14" value="&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;ul&gt;&lt;li&gt;SNOWFLAKE - read-only shared database, provides object metadata and usage metrics about the snowflake account&lt;/li&gt;&lt;li&gt;UTIL_DB&lt;/li&gt;&lt;li&gt;DEMO_DB&lt;/li&gt;&lt;li&gt;SNOWFLAKE_SAMPLE_DATA&lt;/li&gt;&lt;li&gt;INFORMATION_SCHEMA is included in all databases&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientColor=none;rounded=1;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="80" y="-350" width="270" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-16" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;loads data from files as soon as they are available in a stage&lt;/li&gt;&lt;li&gt;Mechanism - Automating Snowpipe using cloud messaging or Calling Snowpipe REST endpoints&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-16" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;loads data from files as soon as they are available in a stage&lt;/li&gt;&lt;li&gt;Mechanism - Automating Snowpipe using cloud messaging or Calling Snowpipe REST endpoints&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="-640" y="-470" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-19" value="Snowpipe" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-18" target="TFhJOi3NY_1YhK1pEbsQ-16">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-19" value="Snowpipe" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-18" target="TFhJOi3NY_1YhK1pEbsQ-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-22" value="Bulk Data Load" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-18" target="TFhJOi3NY_1YhK1pEbsQ-20">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-22" value="Bulk Data Load" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-18" target="TFhJOi3NY_1YhK1pEbsQ-20" edge="1">
           <mxGeometry x="0.0667" y="10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-350" y="-320" />
@@ -221,47 +229,50 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-18" value="Data Load options" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontStyle=1" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-18" value="Data Load options" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="-320" y="-350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-20" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;uses COPY statement&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-20" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;uses COPY statement&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="-640" y="-330" width="250" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-23" target="TFhJOi3NY_1YhK1pEbsQ-24">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-23" target="TFhJOi3NY_1YhK1pEbsQ-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-20" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-23" value="Objects" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=1" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-23" value="Objects" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="-60" y="219" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-32" value="query notes" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-24" target="TFhJOi3NY_1YhK1pEbsQ-31">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-32" value="query notes" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-24" target="TFhJOi3NY_1YhK1pEbsQ-31" edge="1">
           <mxGeometry x="-0.4388" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-34" value="Functions" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-24" target="TFhJOi3NY_1YhK1pEbsQ-33">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-34" value="Functions" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-24" target="TFhJOi3NY_1YhK1pEbsQ-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-24" value="&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Table&lt;/b&gt; - PERMANENT, TEMPORARY, TRANSIENT, EXTERNAL&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Views&lt;/b&gt; - MATERIALIZED, NON-MATERIALIZED&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Datatypes&lt;/b&gt; - basic SQL data types, semi-structured data is stored as VARIANT data type, others are OBJECT and ARRAY&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;stages&lt;/b&gt;- INTERNAL (can be of NAMED, USER and TABLE stage types), EXTERNAL.&amp;nbsp;default file format is CSV. We can create file formats for JSON, AVRO, ORC, PARQUET, and XML&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;span&gt;&lt;b&gt;Stored Procedures&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;User Defined Functions (UDF)&lt;/b&gt; - can be written in Javascript or SQL. can return tabular or scalar value&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Pipes -&amp;nbsp;&lt;/b&gt;&lt;/span&gt;object with a COPY statement, used by Snowpipe&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;span&gt;&lt;b&gt;Streams -&amp;nbsp;&lt;/b&gt;&lt;/span&gt;change data capture (CDC)&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Sequences -&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;generate unique number&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
-          <mxGeometry x="-600" y="345" width="440" height="185" as="geometry" />
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-24" value="&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Table&lt;/b&gt; - PERMANENT, TEMPORARY, TRANSIENT, EXTERNAL&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Views&lt;/b&gt; - MATERIALIZED, NON-MATERIALIZED&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Datatypes&lt;/b&gt; - basic SQL data types, semi-structured data is stored as VARIANT data type, others are OBJECT and ARRAY&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;stages&lt;/b&gt;- INTERNAL (can be of NAMED, USER and TABLE stage types), EXTERNAL.&amp;nbsp;default file format is CSV. We can create file formats for JSON, AVRO, ORC, PARQUET, and XML&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;span&gt;&lt;b&gt;Stored Procedures&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;User Defined Functions (UDF)&lt;/b&gt; - can be written in Javascript or SQL. can return tabular or scalar value&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Pipes -&amp;nbsp;&lt;/b&gt;&lt;/span&gt;object with a COPY statement, used by Snowpipe&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;&lt;span&gt;&lt;b&gt;Streams -&amp;nbsp;&lt;/b&gt;&lt;/span&gt;change data capture (CDC)&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Sequences -&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;generate unique number&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
+          <mxGeometry x="-650" y="345" width="490" height="185" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-28" value="Approach" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-26" target="TFhJOi3NY_1YhK1pEbsQ-27">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-28" value="Approach" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" source="TFhJOi3NY_1YhK1pEbsQ-26" target="TFhJOi3NY_1YhK1pEbsQ-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-26" value="Data Migration" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=1" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-26" value="Data Migration" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=1" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="495" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-27" value="&lt;ul&gt;&lt;li&gt;List databases, schema and objects to be migrated&lt;/li&gt;&lt;li&gt;List existing integration points (process/tools)&lt;/li&gt;&lt;li&gt;List existing security roles, users and permissions&lt;/li&gt;&lt;li&gt;List processes that can be integrated as-is or require reengineering&lt;/li&gt;&lt;li&gt;Prioritize datasets for migration&lt;/li&gt;&lt;li&gt;Estimate storage and compute requirements to define virtual warehouse sizes&lt;/li&gt;&lt;li&gt;Some databases requires SQL transformation e.g. Hive&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-27" value="&lt;ul&gt;&lt;li&gt;List databases, schema and objects to be migrated&lt;/li&gt;&lt;li&gt;List existing integration points (process/tools)&lt;/li&gt;&lt;li&gt;List existing security roles, users and permissions&lt;/li&gt;&lt;li&gt;List processes that can be integrated as-is or require reengineering&lt;/li&gt;&lt;li&gt;Prioritize datasets for migration&lt;/li&gt;&lt;li&gt;Estimate storage and compute requirements to define virtual warehouse sizes&lt;/li&gt;&lt;li&gt;Some databases requires SQL transformation e.g. Hive&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="420" y="-230" width="430" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-31" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;DCL&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;DML&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;DDL&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;DQL&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;TCL&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;TCE&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-31" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;DCL&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;DML&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;DDL&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;DQL&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;TCL&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;TCE&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="-312.5" y="550" width="210" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-33" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;tabular functions&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;System functions&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;External functions&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+        <mxCell id="TFhJOi3NY_1YhK1pEbsQ-33" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;tabular functions&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;System functions&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;External functions&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;align=left;" parent="HvkJfbxAIFK8lNL6DU89-1" vertex="1">
           <mxGeometry x="-312.5" y="670" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fYqYSTx3vLGCjY2rHUQZ-1" value="" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="HvkJfbxAIFK8lNL6DU89-1">
+          <mxGeometry x="-810" y="111" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

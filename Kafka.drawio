@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T17:59:07.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="_cDsk-zD93BppExLBDoS" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-30T18:48:14.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="VC3Rl94LksW8vN5sSTmS" version="17.2.4" type="github">
   <diagram id="pxYi87dzXqwNqoQB3EMh" name="Page-1">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -36,6 +36,12 @@
         </mxCell>
         <mxCell id="XU-mJ-ivhtag0VWZFGJD-10" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-260" y="182.13" width="290" height="75.74" as="geometry" />
+        </mxCell>
+        <mxCell id="XU-mJ-ivhtag0VWZFGJD-12" value="Foundational Concepts" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XU-mJ-ivhtag0VWZFGJD-13" value="&lt;ul&gt;&lt;li&gt;Message&lt;/li&gt;&lt;li&gt;Topic&lt;/li&gt;&lt;li&gt;Partitions&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-10" width="290" height="75.74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

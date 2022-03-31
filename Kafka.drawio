@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T03:24:41.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="105JmZPxHwSg_WA2f85w" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-31T03:26:52.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="ne0Qy8UTBHyPaRWYPyVb" version="17.2.4" type="github">
   <diagram id="pxYi87dzXqwNqoQB3EMh" name="Page-1">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="XU-mJ-ivhtag0VWZFGJD-8" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="280" y="440" width="290" height="75.74" as="geometry" />
         </mxCell>
-        <mxCell id="XU-mJ-ivhtag0VWZFGJD-9" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Apache Zookeeper is used to maintain the list of brokers that are currently members of a cluster&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;each partition can have multiple replicas, replicas are stored on brokers. Leader replica, Follower replica. Controlled by replication factor&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="XU-mJ-ivhtag0VWZFGJD-9" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Apache Zookeeper is used to maintain the list of brokers that are currently members of a cluster&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;each partition can have multiple replicas, replicas are stored on brokers. Leader replica, Follower replica. Controlled by replication factor&lt;/li&gt;&lt;li&gt;order guarantee&lt;/li&gt;&lt;li&gt;at-least-once and exactly-once semantics&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="60" y="-90" width="290" height="115.74" as="geometry" />
         </mxCell>
         <mxCell id="XU-mJ-ivhtag0VWZFGJD-10" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
@@ -47,7 +47,7 @@
           <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XU-mJ-ivhtag0VWZFGJD-13" value="&lt;ul&gt;&lt;li&gt;Message&lt;/li&gt;&lt;li&gt;Topic&lt;/li&gt;&lt;li&gt;Partitions&lt;/li&gt;&lt;li&gt;Broker&lt;/li&gt;&lt;li&gt;Cluster&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-50" width="290" height="75.74" as="geometry" />
+          <mxGeometry x="400" y="-90" width="290" height="115.74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

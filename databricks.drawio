@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T19:27:27.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="J5emNyp_d_c6JS6hwFUw" version="17.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-01T19:28:59.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="BCEqyOFOkIuiIRKaDH__" version="17.2.4" type="github" pages="3">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1775" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -223,6 +223,9 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vmOzD1zISduSIHuOrPGB-4" value="automation" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-48" target="vmOzD1zISduSIHuOrPGB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-48" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;workflow management with Azure Data Factory or Apache Airflow&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;workspace organization (e.g. dev, stage, prod, by Line of Business or cross-LoB data products)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;enable SSO, Audit Logs, and Unity Catalog&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Apply policies and controls at both the storage level and at the metastore, ACLs, secure sharing&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;DR and backup (delta lake, workspace objects, external databases and configurations). use git repo&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Automation - use Terraform or similar Infra-as-code tools&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;user management&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="770" y="390" width="410" height="160" as="geometry" />
         </mxCell>
@@ -317,6 +320,9 @@
         </mxCell>
         <mxCell id="3yI5W3MGBE1zlL3Pgvqv-2" value="standard and premium (comes with RBAC)" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-720" y="25" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmOzD1zISduSIHuOrPGB-3" value="&lt;ul&gt;&lt;li&gt;use Clusters API to create, start, edit, list, terminate, and delete clusters&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="320" width="235" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T06:44:18.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="O1OlD9dKPQNESetJ-l85" version="17.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-01T06:48:12.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="Trh9RWp78Te9ErCghjPI" version="17.2.4" type="github" pages="2">
   <diagram id="j9-zPIuTRtvwQkuq-qpG" name="adf">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,8 +81,8 @@
         <mxCell id="EKDc-KFi7niFZFVhuuSw-18" value="&lt;ul&gt;&lt;li&gt;graphically monitor pipeline and data flow execution&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
           <mxGeometry x="355" y="480" width="255" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EKDc-KFi7niFZFVhuuSw-19" value="&lt;ul&gt;&lt;li&gt;Requires contributor, owner or administrator to create a ADF instance&lt;/li&gt;&lt;li&gt;Data Factory Contributor can deploy ARM templates&lt;/li&gt;&lt;li&gt;Integrate with &lt;b&gt;Azure Purview&lt;/b&gt; for data catalog and governance&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
-          <mxGeometry x="30" y="480" width="305" height="100" as="geometry" />
+        <mxCell id="EKDc-KFi7niFZFVhuuSw-19" value="&lt;ul&gt;&lt;li&gt;Requires contributor, owner or administrator to create a ADF instance&lt;/li&gt;&lt;li&gt;Data Factory Contributor can deploy ARM templates&lt;/li&gt;&lt;li&gt;Integrate with &lt;b&gt;Azure Purview&lt;/b&gt; for data catalog and governance. We can push data factory lineage data in Purview&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="480" width="305" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EKDc-KFi7niFZFVhuuSw-20" value="&lt;ul&gt;&lt;li&gt;Integrated with git and Azure DevOps&lt;/li&gt;&lt;li&gt;Deploy using ARM templates&lt;/li&gt;&lt;li&gt;Automation - create ADF objects using Powershell/python/Azure CLI/REST API&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
           <mxGeometry x="640" y="290" width="330" height="100" as="geometry" />

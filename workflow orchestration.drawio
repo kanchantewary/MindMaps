@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T05:02:48.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="p5_M2PYVPkC1uhepdbHU" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-01T05:09:26.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="Xs8VpZp2dK7SPt0fjLgD" version="17.2.4" type="github">
   <diagram id="j9-zPIuTRtvwQkuq-qpG" name="adf">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="EKDc-KFi7niFZFVhuuSw-6" value="Orchestration&lt;br style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;features" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="490" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EKDc-KFi7niFZFVhuuSw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="EKDc-KFi7niFZFVhuuSw-7" target="EKDc-KFi7niFZFVhuuSw-16">
+        <mxCell id="EKDc-KFi7niFZFVhuuSw-28" value="&lt;b&gt;Data Flow&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="EKDc-KFi7niFZFVhuuSw-7" target="EKDc-KFi7niFZFVhuuSw-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EKDc-KFi7niFZFVhuuSw-7" value="Data Transformation Features" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=14;" vertex="1" parent="1">
@@ -64,13 +64,13 @@
         <mxCell id="EKDc-KFi7niFZFVhuuSw-15" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
           <mxGeometry x="-230" y="290" width="255" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EKDc-KFi7niFZFVhuuSw-16" value="&lt;ul&gt;&lt;li&gt;Data Flows&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="160" width="255" height="100" as="geometry" />
+        <mxCell id="EKDc-KFi7niFZFVhuuSw-16" value="&lt;ul&gt;&lt;li&gt;Supports debug mode&lt;/li&gt;&lt;li&gt;Preview data, also shows column statistics&lt;/li&gt;&lt;li&gt;Support for schema drift&lt;/li&gt;&lt;li&gt;use patterns, rule-based mapping to assign derived logic in bulk&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="30" width="265" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="EKDc-KFi7niFZFVhuuSw-17" value="&lt;ul&gt;&lt;li&gt;Compute - Integration Runtimes. Can be Azure-managed or self-hosted VMs in Azure&lt;/li&gt;&lt;li&gt;Also integrated within Azure Synapse Analytics&lt;/li&gt;&lt;li&gt;Data Flows run on Apache Spark clusters&lt;/li&gt;&lt;li&gt;Data flows can be run on debug mode&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
+        <mxCell id="EKDc-KFi7niFZFVhuuSw-17" value="&lt;ul&gt;&lt;li&gt;Compute - Integration Runtimes. Can be Azure-managed or self-hosted VMs in Azure&lt;/li&gt;&lt;li&gt;Also integrated within Azure Synapse Analytics&lt;/li&gt;&lt;li&gt;Data Flows run on Apache Spark clusters&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
           <mxGeometry x="340" y="-50" width="300" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="EKDc-KFi7niFZFVhuuSw-18" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
+        <mxCell id="EKDc-KFi7niFZFVhuuSw-18" value="&lt;ul&gt;&lt;li&gt;graphically monitor pipeline and data flow execution&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
           <mxGeometry x="355" y="480" width="255" height="100" as="geometry" />
         </mxCell>
         <mxCell id="EKDc-KFi7niFZFVhuuSw-19" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">

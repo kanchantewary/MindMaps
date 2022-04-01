@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T04:44:56.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="YKtxDQMZzjuJNK_XV7kE" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-01T04:47:28.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="3gxq59ggxd1fcSbh2Scg" version="17.2.4" type="github">
   <diagram id="j9-zPIuTRtvwQkuq-qpG" name="Page-1">
     <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,6 +9,24 @@
         </mxCell>
         <mxCell id="EKDc-KFi7niFZFVhuuSw-2" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Data_Factory.svg;" vertex="1" parent="1">
           <mxGeometry x="325" y="270" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EKDc-KFi7niFZFVhuuSw-4" value="Security" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="210" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKDc-KFi7niFZFVhuuSw-5" value="Connectivity" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="205" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKDc-KFi7niFZFVhuuSw-6" value="Orchestration&lt;br&gt;&amp;nbsp;features" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="490" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKDc-KFi7niFZFVhuuSw-7" value="Data Transformation Features" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="70" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKDc-KFi7niFZFVhuuSw-8" value="Logging and Monitoring" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKDc-KFi7niFZFVhuuSw-9" value="Architecture" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

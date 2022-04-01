@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T16:23:39.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="W_UXLMhbZu6IVdH8N3aK" version="17.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-01T16:27:05.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="zUlH2qlT1EWr6GuhQ-Hg" version="17.2.4" type="github" pages="3">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -315,7 +315,7 @@
         <mxCell id="a9Hsd4KwDBXN5o0fySm8-2" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Admins create pools of VMs&lt;/li&gt;&lt;li&gt;Admins create policies and assign budget at the pool level&lt;/li&gt;&lt;li&gt;users create clusters using the assigned policies&lt;/li&gt;&lt;li&gt;Admins monitor usage across platform&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="-379" y="10" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3yI5W3MGBE1zlL3Pgvqv-2" value="standard and premium" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
+        <mxCell id="3yI5W3MGBE1zlL3Pgvqv-2" value="standard and premium (comes with RBAC)" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-720" y="25" width="200" height="60" as="geometry" />
         </mxCell>
       </root>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T06:07:57.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="SOBjjAYXbVre7NghWm0Y" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-01T06:12:39.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="sknXCzAvKX-Htkxzs-E9" version="17.2.4" type="github">
   <diagram id="j9-zPIuTRtvwQkuq-qpG" name="adf">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="EKDc-KFi7niFZFVhuuSw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="EKDc-KFi7niFZFVhuuSw-10" target="EKDc-KFi7niFZFVhuuSw-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EKDc-KFi7niFZFVhuuSw-10" value="Limitations" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="EKDc-KFi7niFZFVhuuSw-10" value="Deployment" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="490" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EKDc-KFi7niFZFVhuuSw-27" value="&lt;b&gt;Performance&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="EKDc-KFi7niFZFVhuuSw-11" target="EKDc-KFi7niFZFVhuuSw-15">
@@ -73,11 +73,11 @@
         <mxCell id="EKDc-KFi7niFZFVhuuSw-18" value="&lt;ul&gt;&lt;li&gt;graphically monitor pipeline and data flow execution&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
           <mxGeometry x="355" y="480" width="255" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EKDc-KFi7niFZFVhuuSw-19" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="480" width="255" height="100" as="geometry" />
+        <mxCell id="EKDc-KFi7niFZFVhuuSw-19" value="&lt;ul&gt;&lt;li&gt;Requires contributor, owner or administrator to create a ADF instance&lt;/li&gt;&lt;li&gt;Data Factory Contributor can deploy ARM templates&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="480" width="305" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EKDc-KFi7niFZFVhuuSw-20" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
-          <mxGeometry x="640" y="290" width="255" height="100" as="geometry" />
+        <mxCell id="EKDc-KFi7niFZFVhuuSw-20" value="&lt;ul&gt;&lt;li&gt;Integrated with git and Azure DevOps&lt;/li&gt;&lt;li&gt;Deploy using ARM templates&lt;/li&gt;&lt;li&gt;Automation - create ADF objects using Powershell&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="640" y="290" width="330" height="100" as="geometry" />
         </mxCell>
         <mxCell id="EKDc-KFi7niFZFVhuuSw-21" value="&lt;ul&gt;&lt;li&gt;ADF pipelines&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
           <mxGeometry x="640" y="180" width="255" height="100" as="geometry" />

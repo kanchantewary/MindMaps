@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T15:43:42.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="caRyqfQe6BcRJ5GKB1LY" version="17.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-01T15:44:17.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="cUg2HNH3pVQDJLEi7s4V" version="17.2.4" type="github" pages="3">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -433,11 +433,11 @@
         <mxCell id="9LAAcPkyqF6lStpMexvl-8" value="Azure DevOps" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="370" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9LAAcPkyqF6lStpMexvl-9" value="Azure VPN" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-90" width="120" height="60" as="geometry" />
+        <mxCell id="9LAAcPkyqF6lStpMexvl-11" value="Azure VPN" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="220" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9LAAcPkyqF6lStpMexvl-10" value="Azure VMs" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="630" y="-90" width="120" height="60" as="geometry" />
+        <mxCell id="9LAAcPkyqF6lStpMexvl-12" value="Azure VMs" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="350" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

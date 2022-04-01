@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T19:28:59.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="BCEqyOFOkIuiIRKaDH__" version="17.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-01T19:29:06.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="ZO9L3cAyZ0AbcAu51M3Y" version="17.2.4" type="github" pages="3">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1775" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -322,7 +322,7 @@
           <mxGeometry x="-720" y="25" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vmOzD1zISduSIHuOrPGB-3" value="&lt;ul&gt;&lt;li&gt;use Clusters API to create, start, edit, list, terminate, and delete clusters&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="320" width="235" height="120" as="geometry" />
+          <mxGeometry x="1290" y="320" width="270" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

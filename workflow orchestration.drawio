@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T12:11:41.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="ZYX82D-ftYidzxJeEu_F" version="17.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-01T12:12:38.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="4YWOM2MQmZUaVw0vlw1f" version="17.2.4" type="github" pages="3">
   <diagram id="j9-zPIuTRtvwQkuq-qpG" name="adf">
     <mxGraphModel dx="1488" dy="1426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -197,10 +197,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gl3TvR0BD7QqtdCNV-rE-2" value="ADF parent pipeline" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gl3TvR0BD7QqtdCNV-rE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="gl3TvR0BD7QqtdCNV-rE-3" target="gl3TvR0BD7QqtdCNV-rE-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gl3TvR0BD7QqtdCNV-rE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="gl3TvR0BD7QqtdCNV-rE-3" target="gl3TvR0BD7QqtdCNV-rE-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="280" />
+              <mxPoint x="480" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gl3TvR0BD7QqtdCNV-rE-3" value="Logic App" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="390" y="310" width="120" height="60" as="geometry" />

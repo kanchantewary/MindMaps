@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T07:16:05.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="wg2bqdBYMdZ1O4EaSu7v" version="17.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-01T07:17:51.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="HaEznJUBSYzI_UuFGSAk" version="17.2.4" type="github" pages="2">
   <diagram id="j9-zPIuTRtvwQkuq-qpG" name="adf">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -161,8 +161,8 @@
         <mxCell id="blozx4yo4CW3skpLubUT-21" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
           <mxGeometry x="-510" y="120" width="425" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="blozx4yo4CW3skpLubUT-22" value="&lt;ul&gt;&lt;li&gt;Consist of DAGs, which run a number of Tasks&lt;/li&gt;&lt;li&gt;Scheduler&lt;/li&gt;&lt;li&gt;Executor&lt;/li&gt;&lt;li&gt;webserver&lt;/li&gt;&lt;li&gt;metadata db&lt;/li&gt;&lt;li&gt;tasks- operators, sensors, @task (custom python functions)&lt;/li&gt;&lt;li&gt;DAG definition files are written in &lt;b&gt;Python, &lt;/b&gt;which is instantiated to create a DAG, pass arguments. When a DAG runs, python operators instantiate tasks&lt;/li&gt;&lt;li&gt;Use Jinja templating for more complex work&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
-          <mxGeometry x="340" y="-80" width="400" height="160" as="geometry" />
+        <mxCell id="blozx4yo4CW3skpLubUT-22" value="&lt;ul&gt;&lt;li&gt;Consist of DAGs, which run a number of Tasks&lt;/li&gt;&lt;li&gt;Scheduler&lt;/li&gt;&lt;li&gt;Executor&lt;/li&gt;&lt;li&gt;webserver&lt;/li&gt;&lt;li&gt;metadata db&lt;/li&gt;&lt;li&gt;tasks- operators, sensors, @task (custom python functions)&lt;/li&gt;&lt;li&gt;DAG definition files are written in &lt;b&gt;Python, &lt;/b&gt;which is instantiated to create a DAG, pass arguments. When a DAG runs, python operators instantiate tasks&lt;/li&gt;&lt;li&gt;Use Jinja templating for more complex work&lt;/li&gt;&lt;li&gt;Define dependencies among tasks&lt;/li&gt;&lt;li&gt;Add documentation using Markdown&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-120" width="400" height="200" as="geometry" />
         </mxCell>
         <mxCell id="blozx4yo4CW3skpLubUT-23" value="&lt;ul&gt;&lt;li&gt;UI to view logs, monitor DAGs and debugging&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
           <mxGeometry x="355" y="480" width="255" height="100" as="geometry" />

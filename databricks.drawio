@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T18:32:32.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="ySGXgSOek3tH_f0pE8uK" version="17.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-01T18:32:47.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="mQDNVl0XlyOUPBXZUQgI" version="17.2.4" type="github" pages="3">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -440,10 +440,10 @@
           <mxGeometry x="370" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9LAAcPkyqF6lStpMexvl-11" value="Azure Virtual Network" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="220" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9LAAcPkyqF6lStpMexvl-12" value="Azure VMs" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="350" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PnP-nYFMmTZ-u85BWZRr-1" value="Libraries&amp;nbsp;(JAR, Cran, Egg, Wheel, Maven, Pypi)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="500" y="-90" width="120" height="60" as="geometry" />
@@ -458,10 +458,10 @@
           <mxGeometry x="650" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PnP-nYFMmTZ-u85BWZRr-5" value="Azure Network Security Group" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="480" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PnP-nYFMmTZ-u85BWZRr-6" value="Azure Blob Storage" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="610" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

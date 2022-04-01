@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T06:39:10.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="oZ3bHJbvhZK1Pjpalagx" version="17.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-01T06:41:08.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="AldgQwuKBIR1hdyjl3b8" version="17.2.4" type="github" pages="2">
   <diagram id="j9-zPIuTRtvwQkuq-qpG" name="adf">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
         <mxCell id="EKDc-KFi7niFZFVhuuSw-21" value="&lt;ul&gt;&lt;li&gt;ADF pipelines&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
           <mxGeometry x="640" y="180" width="255" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="X0oWeERSuwZuKOa6w0YT-1" value="&lt;ul&gt;&lt;li&gt;Integrated with git and Azure DevOps&lt;/li&gt;&lt;li&gt;Deploy using ARM templates&lt;/li&gt;&lt;li&gt;Automation - create ADF objects using Powershell/python/Azure CLI/REST API&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
+        <mxCell id="X0oWeERSuwZuKOa6w0YT-1" value="&lt;ul&gt;&lt;li&gt;Schedule Trigger&lt;/li&gt;&lt;li&gt;tumbling window&lt;/li&gt;&lt;li&gt;Event Trigger&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
           <mxGeometry x="670" y="410" width="330" height="100" as="geometry" />
         </mxCell>
       </root>

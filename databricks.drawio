@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T15:30:27.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="LJafX_sUF193UqLVs3KN" version="17.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-01T15:36:10.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="8tpE5pUayt2nKL6mJ9hT" version="17.2.4" type="github" pages="3">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -364,6 +364,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BXVosnATaF89JuK_dT3b-8" value="&lt;b&gt;Apache Spark&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="510" height="420" as="geometry" />
+        </mxCell>
         <mxCell id="BXVosnATaF89JuK_dT3b-1" value="Spark Core API for Java, Scala, Python and R (RDD)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="320" y="540" width="200" height="60" as="geometry" />
         </mxCell>
@@ -378,6 +381,27 @@
         </mxCell>
         <mxCell id="BXVosnATaF89JuK_dT3b-7" value="Resource Managers (Yarn, Mesos, Kubernetes, Spark Standalon" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="320" y="610" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BXVosnATaF89JuK_dT3b-9" value="Databricks &lt;br&gt;workspaces" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BXVosnATaF89JuK_dT3b-10" value="DBFS" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BXVosnATaF89JuK_dT3b-11" value="Delta Lake" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BXVosnATaF89JuK_dT3b-12" value="MLFLOW" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="650" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BXVosnATaF89JuK_dT3b-13" value="Notebooks" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="260" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BXVosnATaF89JuK_dT3b-14" value="Unity Catalog" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="390" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BXVosnATaF89JuK_dT3b-15" value="Authentication and RBAC" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="520" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

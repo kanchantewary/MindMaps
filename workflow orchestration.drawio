@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T06:04:10.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="_dlGbVcOMWiUne6wcoGd" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-01T06:04:34.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="diVUAq9JAefnRj9yXqJg" version="17.2.4" type="github">
   <diagram id="j9-zPIuTRtvwQkuq-qpG" name="adf">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
           <mxGeometry x="-510" y="310" width="445" height="200" as="geometry" />
         </mxCell>
         <mxCell id="EKDc-KFi7niFZFVhuuSw-16" value="&lt;ul&gt;&lt;li&gt;Supports debug mode&lt;/li&gt;&lt;li&gt;Preview data, also shows column statistics&lt;/li&gt;&lt;li&gt;Support for schema drift&lt;/li&gt;&lt;li&gt;use patterns, rule-based mapping to assign derived logic in bulk&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="30" width="265" height="160" as="geometry" />
+          <mxGeometry x="-510" y="120" width="425" height="160" as="geometry" />
         </mxCell>
         <mxCell id="EKDc-KFi7niFZFVhuuSw-17" value="&lt;ul&gt;&lt;li&gt;Compute - Integration Runtimes. Can be Azure-managed or self-hosted VMs in Azure&lt;/li&gt;&lt;li&gt;Also integrated within Azure Synapse Analytics&lt;/li&gt;&lt;li&gt;Data Flows run on Apache Spark clusters&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
           <mxGeometry x="340" y="-50" width="300" height="130" as="geometry" />

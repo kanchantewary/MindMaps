@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-02T12:14:58.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="qqxpTwUwlLcnjmcVK7_E" version="17.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-02T12:19:13.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="zjthYsnaWyuwZsbIsSXQ" version="17.2.4" type="github" pages="3">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="2625" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -303,6 +303,15 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vmOzD1zISduSIHuOrPGB-12" value="Database" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#000000;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="Ct0M-siwjqjeuyYmhKqq-28" target="vmOzD1zISduSIHuOrPGB-11">
+          <mxGeometry x="0.5391" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="-155" />
+              <mxPoint x="90" y="-470" />
+            </Array>
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-28" value="DataBricks &lt;br&gt;Architecture" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-45.5" y="-185" width="120" height="60" as="geometry" />
         </mxCell>
@@ -346,6 +355,9 @@
         </mxCell>
         <mxCell id="vmOzD1zISduSIHuOrPGB-9" value="&lt;ul&gt;&lt;li&gt;Filesystem&lt;/li&gt;&lt;li&gt;Notebook Workflow&lt;/li&gt;&lt;li&gt;Widget&lt;/li&gt;&lt;li&gt;Secrets&lt;/li&gt;&lt;li&gt;Library&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#000000;rounded=1;labelBackgroundColor=none;fontStyle=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="140" y="-430" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vmOzD1zISduSIHuOrPGB-11" value="&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;default database, can create tables from files, infer schema&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;labelBackgroundColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-02T11:16:09.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="HRGbm9CcFXSI9QWPmhf3" version="17.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-02T11:18:05.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="2AlTdv2sHTJTomypdqdi" version="17.2.4" type="github" pages="3">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="2625" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -332,8 +332,8 @@
         <mxCell id="vmOzD1zISduSIHuOrPGB-3" value="&lt;ul&gt;&lt;li&gt;use Clusters API to create, start, edit, list, terminate, and delete clusters&lt;/li&gt;&lt;li&gt;Cluster Policies API&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1290" y="320" width="270" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="vmOzD1zISduSIHuOrPGB-6" value="&lt;font style=&quot;font-size: 11px&quot;&gt;idle instances of VMs up to a max capacity, to be consumed by clusters. VMs come with preloaded databricks runtime&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="-124.99" width="160.01" height="85" as="geometry" />
+        <mxCell id="vmOzD1zISduSIHuOrPGB-6" value="&lt;font style=&quot;font-size: 11px&quot;&gt;idle instances of VMs up to a max capacity. VMs come with preloaded databricks runtime. Specifying a pool reduces the cluster start up time significantly&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="-130" width="200.01" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

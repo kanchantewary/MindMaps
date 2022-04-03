@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T14:35:54.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="zpxdX9qg2Dhq_DIQ-gq0" version="17.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-03T14:36:52.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="h_zbwlWJO4-f-SE4uiVJ" version="17.2.4" type="github" pages="4">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="2317" dy="1415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -584,8 +584,8 @@
         <mxCell id="pr_eHDl77idKOUNhx_Tx-20" value="mount" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-22" value="file format&lt;br&gt;write method - overwrite/" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-22" value="&lt;ul&gt;&lt;li&gt;file format&lt;/li&gt;&lt;li&gt;write method - overwrite/&lt;/li&gt;&lt;li&gt;partitioning&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="390" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

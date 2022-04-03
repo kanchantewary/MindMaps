@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T17:27:47.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="Xr0TLAEhRYZ4GquDmQyF" version="17.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-03T17:39:21.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="D8NYJgJL4rHYnn_C4ZyM" version="17.2.4" type="github" pages="4">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="2317" dy="1415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -549,10 +549,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pr_eHDl77idKOUNhx_Tx-8" value="Data Transformation" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;" vertex="1" parent="1">
-          <mxGeometry x="160" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-9" value="&lt;ul&gt;&lt;li&gt;add new columns using WithColumns, Lit&lt;/li&gt;&lt;li&gt;rename columns using WithColumnsRenamed&lt;/li&gt;&lt;li&gt;drop columns using drop&lt;/li&gt;&lt;li&gt;join two dataframes&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="360" y="310" width="310" height="60" as="geometry" />
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-9" value="&lt;ul&gt;&lt;li&gt;add new columns using WithColumns, Lit&lt;/li&gt;&lt;li&gt;rename columns using WithColumnsRenamed&lt;/li&gt;&lt;li&gt;drop columns using drop&lt;/li&gt;&lt;li&gt;join two dataframes&lt;/li&gt;&lt;li&gt;apply filter&lt;/li&gt;&lt;li&gt;aggregation&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="310" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pr_eHDl77idKOUNhx_Tx-11" value="&lt;ul&gt;&lt;li&gt;show&lt;/li&gt;&lt;li&gt;display&lt;/li&gt;&lt;li&gt;describe&lt;/li&gt;&lt;li&gt;printschema&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
@@ -564,13 +564,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pr_eHDl77idKOUNhx_Tx-15" value="Data Load" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;" vertex="1" parent="1">
-          <mxGeometry x="160" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pr_eHDl77idKOUNhx_Tx-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;" edge="1" parent="1" source="pr_eHDl77idKOUNhx_Tx-16" target="pr_eHDl77idKOUNhx_Tx-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pr_eHDl77idKOUNhx_Tx-16" value="Dataframe Writer API" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pr_eHDl77idKOUNhx_Tx-18" value="Data Validation/analysis" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
@@ -585,16 +585,16 @@
           <mxGeometry x="360" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pr_eHDl77idKOUNhx_Tx-22" value="&lt;ul&gt;&lt;li&gt;file format&lt;/li&gt;&lt;li&gt;write method - overwrite/&lt;/li&gt;&lt;li&gt;partitioning&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="560" y="390" width="210" height="60" as="geometry" />
+          <mxGeometry x="560" y="440" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pr_eHDl77idKOUNhx_Tx-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;" edge="1" parent="1" source="pr_eHDl77idKOUNhx_Tx-24" target="pr_eHDl77idKOUNhx_Tx-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pr_eHDl77idKOUNhx_Tx-24" value="Orchestration" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;" vertex="1" parent="1">
-          <mxGeometry x="160" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pr_eHDl77idKOUNhx_Tx-25" value="&lt;ul&gt;&lt;li&gt;pass parameters&lt;/li&gt;&lt;li&gt;reuse functions across notebooks&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="360" y="460" width="220" height="60" as="geometry" />
+          <mxGeometry x="360" y="510" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

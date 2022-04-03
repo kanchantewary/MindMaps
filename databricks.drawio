@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T14:26:07.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="eJ1US54HPzmRm7C1q2Fi" version="17.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-03T14:28:38.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="ynkgTVa24kKvpzppThFt" version="17.2.4" type="github" pages="4">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="2317" dy="1415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -554,7 +554,7 @@
         <mxCell id="pr_eHDl77idKOUNhx_Tx-9" value="&lt;ul&gt;&lt;li&gt;WithColumns&lt;/li&gt;&lt;li&gt;WithColumnsRenamed&lt;/li&gt;&lt;li&gt;Lit&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="360" y="240" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-11" value="&lt;ul&gt;&lt;li&gt;show&lt;/li&gt;&lt;li&gt;describe&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-11" value="&lt;ul&gt;&lt;li&gt;show&lt;/li&gt;&lt;li&gt;display&lt;/li&gt;&lt;li&gt;describe&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="560" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pr_eHDl77idKOUNhx_Tx-13" value="Define schema using StructType and enforce while reading the file" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;" vertex="1" parent="1">

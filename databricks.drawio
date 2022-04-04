@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T14:25:01.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="l-WwrSBnoDf0rdNgZbz4" version="17.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-04T17:18:20.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="VYWm-UDGa_2LuMXtTcmE" version="17.2.4" type="github" pages="4">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="databricks">
     <mxGraphModel dx="2581" dy="1610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -566,7 +566,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RT8gXJek44l3bknQUqbu" name="programming">
-    <mxGraphModel dx="925" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -624,6 +624,9 @@
         <mxCell id="pr_eHDl77idKOUNhx_Tx-20" value="mount" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="90" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jDxRyWlB3F0KmU8o_qWa-2" value="surrogate keys" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#0000FF;endArrow=none;endFill=0;" edge="1" parent="1" source="pr_eHDl77idKOUNhx_Tx-22" target="jDxRyWlB3F0KmU8o_qWa-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pr_eHDl77idKOUNhx_Tx-22" value="&lt;ul&gt;&lt;li&gt;file format&lt;/li&gt;&lt;li&gt;write method - overwrite/&lt;/li&gt;&lt;li&gt;partitioning&lt;/li&gt;&lt;li&gt;full refresh or incremental data load&lt;/li&gt;&lt;li&gt;add/drop partitions&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="560" y="520" width="280" height="80" as="geometry" />
         </mxCell>
@@ -644,6 +647,9 @@
         </mxCell>
         <mxCell id="eg766-3sDcf0xxvN0VKQ-2" value="&lt;ul&gt;&lt;li&gt;create/describe/describe extended on database&lt;/li&gt;&lt;li&gt;show tables&lt;/li&gt;&lt;li&gt;create a managed table using saveAsTable on a dataframe or CTAS in sql&lt;/li&gt;&lt;li&gt;create external tables (specify location in sql or path in python syntax)&lt;/li&gt;&lt;li&gt;INSERT into the table&lt;/li&gt;&lt;li&gt;use delta lake as the underlying format. It would provide ACID transaction support.&lt;/li&gt;&lt;li&gt;use UPDATE/DELETE/MERGE commands&lt;/li&gt;&lt;li&gt;use TIMESTAMP AS OF or VERSION AS OF for time travel&lt;/li&gt;&lt;li&gt;VACUUM - retains data for 7 days by default&lt;/li&gt;&lt;li&gt;delete all history using RETAIN 0 HOURS (retainDurationCheckEnabled should be false)&lt;/li&gt;&lt;li&gt;OPTIMIZE command to optimize table&lt;/li&gt;&lt;li&gt;RESTORE restores a delta table to an earlier state&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="360" y="700" width="480" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jDxRyWlB3F0KmU8o_qWa-1" value="&lt;ul&gt;&lt;li&gt;use python UUID, better alternative compared to monotonically increasing SKs or hash values&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;align=left;fontColor=#0000FF;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="530" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

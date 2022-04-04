@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T11:00:32.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="eEUGRTGlluYNqlVQ3s3f" version="17.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-04T11:03:57.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="tDBVoHXf7zXHLc6r_VI5" version="17.2.4" type="github" pages="4">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="databricks">
     <mxGraphModel dx="2440" dy="1478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -611,10 +611,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eg766-3sDcf0xxvN0VKQ-1" value="Databases" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;" vertex="1" parent="1">
-          <mxGeometry x="160" y="725" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="745" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eg766-3sDcf0xxvN0VKQ-2" value="&lt;ul&gt;&lt;li&gt;create/describe/describe extended on database&lt;/li&gt;&lt;li&gt;show tables&lt;/li&gt;&lt;li&gt;create a managed table using saveAsTable on a dataframe or CTAS in sql&lt;/li&gt;&lt;li&gt;create external tables (specify location in sql or path in python syntax)&lt;/li&gt;&lt;li&gt;INSERT into the table&lt;/li&gt;&lt;li&gt;use delta lake as the underlying format. It would provide ACID transaction support.&lt;/li&gt;&lt;li&gt;use UPDATE/DELETE/MERGE commands&lt;/li&gt;&lt;li&gt;use TIMESTAMP AS OF or VERSION AS OF for time travel&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="360" y="700" width="480" height="110" as="geometry" />
+        <mxCell id="eg766-3sDcf0xxvN0VKQ-2" value="&lt;ul&gt;&lt;li&gt;create/describe/describe extended on database&lt;/li&gt;&lt;li&gt;show tables&lt;/li&gt;&lt;li&gt;create a managed table using saveAsTable on a dataframe or CTAS in sql&lt;/li&gt;&lt;li&gt;create external tables (specify location in sql or path in python syntax)&lt;/li&gt;&lt;li&gt;INSERT into the table&lt;/li&gt;&lt;li&gt;use delta lake as the underlying format. It would provide ACID transaction support.&lt;/li&gt;&lt;li&gt;use UPDATE/DELETE/MERGE commands&lt;/li&gt;&lt;li&gt;use TIMESTAMP AS OF or VERSION AS OF for time travel&lt;/li&gt;&lt;li&gt;VACUUM - retains data for 7 days by default&lt;/li&gt;&lt;li&gt;delete all history using RETAIN 0 HOURS (retainDurationCheckEnabled should be false)&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="700" width="480" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

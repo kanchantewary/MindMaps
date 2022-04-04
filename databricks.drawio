@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T12:11:10.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="6dgi-JgqK80s5yeh8jM7" version="17.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-04T12:13:41.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="I5yOR9Qofooqway-6Na0" version="17.2.4" type="github" pages="4">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="databricks">
-    <mxGraphModel dx="4783" dy="2677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2625" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,10 +49,10 @@
         <mxCell id="V43_jzV2RidBm6Wxg-L6-3" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Built on open source apache spark&lt;/li&gt;&lt;li&gt;runs on JVM&lt;/li&gt;&lt;li&gt;Storage is in memory and disk&lt;/li&gt;&lt;li&gt;Supports batch, streaming or interactive execution&lt;/li&gt;&lt;li&gt;Supports Java/Scala, Python, SQL, R&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="-70" y="-107.5" width="230" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="V43_jzV2RidBm6Wxg-L6-7" value="Core API" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" parent="1" source="V43_jzV2RidBm6Wxg-L6-5" target="V43_jzV2RidBm6Wxg-L6-6" edge="1">
+        <mxCell id="V43_jzV2RidBm6Wxg-L6-7" value="Core API" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;fontStyle=1" parent="1" source="V43_jzV2RidBm6Wxg-L6-5" target="V43_jzV2RidBm6Wxg-L6-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V43_jzV2RidBm6Wxg-L6-37" value="Modules" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" parent="1" source="V43_jzV2RidBm6Wxg-L6-5" target="V43_jzV2RidBm6Wxg-L6-36" edge="1">
+        <mxCell id="V43_jzV2RidBm6Wxg-L6-37" value="Modules" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;fontStyle=1" parent="1" source="V43_jzV2RidBm6Wxg-L6-5" target="V43_jzV2RidBm6Wxg-L6-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-5" value="&lt;p style=&quot;font-size: 12px&quot;&gt;Spark APIs&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=27;fontStyle=1" parent="1" vertex="1">

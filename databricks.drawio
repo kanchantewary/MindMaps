@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T14:23:52.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="6IulxmcvCBmFmOCpkXQe" version="17.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-04T14:25:01.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="l-WwrSBnoDf0rdNgZbz4" version="17.2.4" type="github" pages="4">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="databricks">
     <mxGraphModel dx="2581" dy="1610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -362,7 +362,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-37" value="&lt;p style=&quot;font-size: 12px;&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Databricks file system, abstraction on top of cloud object storage, mount storage objects and interact using directory and file semantics instead of storage URLs&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;DBFS root data is not recommended to store user data, if the databricks service is dropped, this data is lost&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;FileStore&lt;/b&gt; is a folder, can be used to store data&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Query results are stored in dbfs&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Mount&lt;/b&gt; Azure storage to DBFS (Service principal/access key/SAS token)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-609.12" y="-670" width="439.12" height="145" as="geometry" />
+          <mxGeometry x="-502.31" y="-650" width="439.12" height="145" as="geometry" />
         </mxCell>
         <mxCell id="a9Hsd4KwDBXN5o0fySm8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=12;fontColor=#3333FF;endArrow=none;endFill=0;" parent="1" source="a9Hsd4KwDBXN5o0fySm8-1" target="a9Hsd4KwDBXN5o0fySm8-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -400,7 +400,7 @@
           <mxGeometry x="-1060" y="380" width="210.01" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vmOzD1zISduSIHuOrPGB-16" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;register an app in Azure AD&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;get client id, tenant id, client secret&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-920" y="-560" width="240" height="60" as="geometry" />
+          <mxGeometry x="-850" y="-607.5" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gVq9OS-MDNWrs_oQ_ZD8-1" value="&lt;div style=&quot;text-align: left; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;Databricks default (Hive metastore)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;External db (Azure SQL/MySQL e.g.)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;labelBackgroundColor=none;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-97.75" y="-475" width="224.5" height="80" as="geometry" />

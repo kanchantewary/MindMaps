@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T07:34:18.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="NsWYOL7PE5aE1J9_Q8fO" version="17.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-04T07:36:12.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="KjvEwRpFnS7eHCl8opa6" version="17.2.4" type="github" pages="4">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
-    <mxGraphModel dx="3550" dy="2046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2788" dy="1656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,12 +18,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uxrqat-RcbdeCMddSxPX-3" value="HADR" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" parent="1" source="Ct0M-siwjqjeuyYmhKqq-28" target="Uxrqat-RcbdeCMddSxPX-2" edge="1">
+        <mxCell id="Uxrqat-RcbdeCMddSxPX-3" value="HADR" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" parent="1" source="Ct0M-siwjqjeuyYmhKqq-28" target="Uxrqat-RcbdeCMddSxPX-2" edge="1">
           <mxGeometry x="0.533" relative="1" as="geometry">
             <mxPoint x="-35.5" y="-40" as="sourcePoint" />
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="755" y="-290" />
+              <mxPoint x="485" y="-290" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -249,7 +249,7 @@
           <mxGeometry x="562.5" y="-130" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Uxrqat-RcbdeCMddSxPX-2" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;active/passive&lt;/li&gt;&lt;li&gt;active/active&lt;/li&gt;&lt;li&gt;what are the RTO/RPO targets?&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="-540" width="210" height="65" as="geometry" />
+          <mxGeometry x="380" y="-460" width="210" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-1" value="&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;&lt;span&gt;fine-grained permission on tables, fields, views&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;ANSI SQL based permission model&lt;/li&gt;&lt;li&gt;works across multiple workspaces, geographic regions and clouds&lt;/li&gt;&lt;li&gt;Secure connections (JDBC/ODBC/delta sharing protocol)&lt;/li&gt;&lt;li&gt;UI to discover and govern data assets&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="-600" y="110" width="372.75" height="90" as="geometry" />
@@ -319,6 +319,9 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gVq9OS-MDNWrs_oQ_ZD8-2" value="metastore" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="Ct0M-siwjqjeuyYmhKqq-28" target="gVq9OS-MDNWrs_oQ_ZD8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-28" value="DataBricks &lt;br&gt;Architecture" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-45.5" y="-320" width="120" height="60" as="geometry" />
         </mxCell>
@@ -364,16 +367,19 @@
           <mxGeometry x="-920" y="-130" width="200.01" height="85" as="geometry" />
         </mxCell>
         <mxCell id="vmOzD1zISduSIHuOrPGB-9" value="&lt;ul&gt;&lt;li&gt;Filesystem&lt;/li&gt;&lt;li&gt;Notebook Workflow&lt;/li&gt;&lt;li&gt;Widget&lt;/li&gt;&lt;li&gt;Secrets&lt;/li&gt;&lt;li&gt;Library&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#000000;rounded=1;labelBackgroundColor=none;fontStyle=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-550" width="180" height="110" as="geometry" />
+          <mxGeometry x="274" y="-560" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vmOzD1zISduSIHuOrPGB-11" value="&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;default database, can create tables from files, infer schema&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;labelBackgroundColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-550" width="120" height="60" as="geometry" />
+          <mxGeometry x="188" y="-465" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vmOzD1zISduSIHuOrPGB-13" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;Databricks backed&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;Azure Key vault - after we add secrets to azure key vault, link it to databricks secret scope&lt;/li&gt;&lt;li style=&quot;font-size: 11px&quot;&gt;use dbutils.secrets.get method&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="-620" y="450" width="210.01" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vmOzD1zISduSIHuOrPGB-16" value="&lt;ul style=&quot;font-size: 12px&quot;&gt;&lt;li&gt;&lt;span&gt;register an app in Azure AD&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;get client id, tenant id, client secret&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-920" y="-560" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gVq9OS-MDNWrs_oQ_ZD8-1" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Databricks default (Hive metastore)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;External db (Azure SQL/MySQL e.g.)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;labelBackgroundColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-97.75" y="-475" width="224.5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

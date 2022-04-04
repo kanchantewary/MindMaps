@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T08:07:26.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="8-uHHHVJ1_yq68WzGAEq" version="17.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-04T08:20:32.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="YARtv3G0vhqW60jOCF1O" version="17.2.4" type="github" pages="4">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="2440" dy="1478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -613,7 +613,7 @@
         <mxCell id="eg766-3sDcf0xxvN0VKQ-1" value="Databases" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="160" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eg766-3sDcf0xxvN0VKQ-2" value="&lt;ul&gt;&lt;li&gt;create/describe/describe extended on database&lt;/li&gt;&lt;li&gt;show tables&lt;/li&gt;&lt;li&gt;create a managed table using saveAsTable on a dataframe or CTAS in sql&lt;/li&gt;&lt;li&gt;create external tables (specify location in sql or path in python syntax)&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="eg766-3sDcf0xxvN0VKQ-2" value="&lt;ul&gt;&lt;li&gt;create/describe/describe extended on database&lt;/li&gt;&lt;li&gt;show tables&lt;/li&gt;&lt;li&gt;create a managed table using saveAsTable on a dataframe or CTAS in sql&lt;/li&gt;&lt;li&gt;create external tables (specify location in sql or path in python syntax)&lt;/li&gt;&lt;li&gt;INSERT into the table&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="360" y="700" width="480" height="80" as="geometry" />
         </mxCell>
       </root>

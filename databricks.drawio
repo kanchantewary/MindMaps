@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T17:46:35.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="E8yIifEUmTsXt278gcOy" version="17.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-04T04:20:44.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="PI8BiiR6mMu5uDXRKOCZ" version="17.2.4" type="github" pages="4">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="Page-1">
     <mxGraphModel dx="2317" dy="1415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -584,17 +584,17 @@
         <mxCell id="pr_eHDl77idKOUNhx_Tx-20" value="mount" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-22" value="&lt;ul&gt;&lt;li&gt;file format&lt;/li&gt;&lt;li&gt;write method - overwrite/&lt;/li&gt;&lt;li&gt;partitioning&lt;/li&gt;&lt;li&gt;full refresh or incremental data load&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="560" y="440" width="280" height="60" as="geometry" />
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-22" value="&lt;ul&gt;&lt;li&gt;file format&lt;/li&gt;&lt;li&gt;write method - overwrite/&lt;/li&gt;&lt;li&gt;partitioning&lt;/li&gt;&lt;li&gt;full refresh or incremental data load&lt;/li&gt;&lt;li&gt;add/drop partitions&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="430" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pr_eHDl77idKOUNhx_Tx-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;" edge="1" parent="1" source="pr_eHDl77idKOUNhx_Tx-24" target="pr_eHDl77idKOUNhx_Tx-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pr_eHDl77idKOUNhx_Tx-24" value="Orchestration" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;" vertex="1" parent="1">
-          <mxGeometry x="160" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pr_eHDl77idKOUNhx_Tx-25" value="&lt;ul&gt;&lt;li&gt;pass parameters&lt;/li&gt;&lt;li&gt;reuse functions across notebooks&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="360" y="510" width="220" height="60" as="geometry" />
+          <mxGeometry x="360" y="530" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

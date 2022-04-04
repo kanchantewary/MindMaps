@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T12:29:20.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="PY-ludfP_u0sse34F7XU" version="17.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-04T12:30:02.583Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="mGqGak3ktZgaPSob4eLK" version="17.2.4" type="github" pages="4">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="databricks">
     <mxGraphModel dx="3550" dy="2046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-3" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Built on open source apache spark&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;runs on JVM&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Storage is in memory and disk&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Supports batch, streaming or interactive execution&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Supports Java/Scala, Python, SQL, R&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="-107.5" width="230" height="95" as="geometry" />
+          <mxGeometry x="-90" y="-120" width="250" height="107.5" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-7" value="Core API" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;fontStyle=1" parent="1" source="V43_jzV2RidBm6Wxg-L6-5" target="V43_jzV2RidBm6Wxg-L6-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -309,7 +309,7 @@
           <mxGeometry x="-370" y="-390" width="174.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-26" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Under &lt;b style=&quot;font-size: 12px;&quot;&gt;customer&lt;/b&gt; &lt;b style=&quot;font-size: 12px;&quot;&gt;subscription&lt;/b&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;houses underlying VMs, VNets, networking rules (NSG in Azure), Blob storage&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-370" y="-160" width="174.5" height="70" as="geometry" />
+          <mxGeometry x="-401.75" y="-180" width="174.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-31" value="Runtimes" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#0000FF;endArrow=none;endFill=0;fontStyle=1" parent="1" source="Ct0M-siwjqjeuyYmhKqq-28" target="Ct0M-siwjqjeuyYmhKqq-30" edge="1">
           <mxGeometry x="-0.3093" relative="1" as="geometry">

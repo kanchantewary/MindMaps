@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T14:16:35.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="eh4n0Oa0OuK0v_Y2Da1i" version="17.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-04T14:18:03.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="ehcWDMBenj5hI_UD3GfH" version="17.2.4" type="github" pages="4">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="databricks">
     <mxGraphModel dx="2581" dy="1610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
         <mxCell id="V43_jzV2RidBm6Wxg-L6-12" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;AWS, GCP, Azure&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="160" y="-242.5" width="97.5" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="XoX_tpSuYqg6GZoFMZQT-2" value="&lt;p style=&quot;font-size: 12px&quot;&gt;3rd Party products&lt;/p&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=32;fontColor=#0000FF;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-17" target="XoX_tpSuYqg6GZoFMZQT-1">
+        <mxCell id="XoX_tpSuYqg6GZoFMZQT-2" value="&lt;p style=&quot;font-size: 12px&quot;&gt;IMMUTA&lt;/p&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=32;fontColor=#0000FF;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-17" target="XoX_tpSuYqg6GZoFMZQT-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-100" y="220" />
@@ -408,8 +408,8 @@
         <mxCell id="CKyAsqJQP7aCnB3D_jAG-1" value="&lt;div class=&quot;section&quot; id=&quot;does-delta-lake-support-multi-table-transactions&quot; style=&quot;box-sizing: border-box; font-size: 12px;&quot;&gt;&lt;p style=&quot;box-sizing: border-box; line-height: 1.41em; margin: 1em 0px 0px; font-size: 12px;&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Does not support multi-table transactions and foreign keys&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Changing a column’s type or dropping a column requires rewriting the table&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;section&quot; id=&quot;how-can-i-change-the-type-of-a-column&quot; style=&quot;box-sizing: border-box; font-size: 12px;&quot;&gt;&lt;span id=&quot;-how-can-i-change-the-type-of-a-column&quot; style=&quot;box-sizing: border-box; color: rgb(64, 64, 64); font-family: &amp;quot;source sans pro&amp;quot;, helvetica, arial, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1200" y="30" width="410" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XoX_tpSuYqg6GZoFMZQT-1" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Databricks backed&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Azure Key vault - after we add secrets to azure key vault, link it to databricks secret scope&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;use dbutils.secrets.get method&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-970" y="210" width="210.01" height="90" as="geometry" />
+        <mxCell id="XoX_tpSuYqg6GZoFMZQT-1" value="&lt;ul style=&quot;font-size: 12px&quot;&gt;&lt;li style=&quot;font-size: 12px&quot;&gt;3rd party product, provides attribute based access control (ABAC)&lt;/li&gt;&lt;li style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-1070" y="210" width="310.01" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

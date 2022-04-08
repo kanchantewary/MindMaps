@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T12:39:38.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="gbUa8TmQMOGAtt7xF6Mg" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-08T12:41:33.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="G4fDf_nwVzGrrQSwh5Mk" version="17.2.4" type="github">
   <diagram id="QrTFHQmtKIfa22m_GSER" name="Page-1">
     <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="2Xf7dPwdSkggFSb7jj65-2" value="Roles and Responsibilities" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="290" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Xf7dPwdSkggFSb7jj65-9" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;curved=1;endArrow=none;endFill=0;" edge="1" parent="1" source="2Xf7dPwdSkggFSb7jj65-3" target="2Xf7dPwdSkggFSb7jj65-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2Xf7dPwdSkggFSb7jj65-3" value="Data Domains" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="280" y="130" width="120" height="60" as="geometry" />
@@ -24,6 +27,9 @@
         </mxCell>
         <mxCell id="2Xf7dPwdSkggFSb7jj65-7" value="Technical metadata" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="410" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Xf7dPwdSkggFSb7jj65-8" value="Critical Data Elements" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,57 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T13:33:59.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="LTJ2zA7Z8p4gI7eofKwf" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-10T13:33:44.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="IiVwG9nrEwxxymh1vPvQ" version="17.4.1" type="github" pages="2">
   <diagram id="QrTFHQmtKIfa22m_GSER" name="Page-1">
     <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2Xf7dPwdSkggFSb7jj65-1" value="&lt;b&gt;Operating Model&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="2Xf7dPwdSkggFSb7jj65-1" value="&lt;b&gt;Operating Model&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="280" y="220" width="400" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="2Xf7dPwdSkggFSb7jj65-2" value="Roles and Responsibilities" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="2Xf7dPwdSkggFSb7jj65-2" value="Roles and Responsibilities" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="290" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Xf7dPwdSkggFSb7jj65-9" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;curved=1;endArrow=none;endFill=0;" edge="1" parent="1" source="2Xf7dPwdSkggFSb7jj65-3" target="2Xf7dPwdSkggFSb7jj65-8">
+        <mxCell id="2Xf7dPwdSkggFSb7jj65-9" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;curved=1;endArrow=none;endFill=0;" parent="1" source="2Xf7dPwdSkggFSb7jj65-3" target="2Xf7dPwdSkggFSb7jj65-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2Xf7dPwdSkggFSb7jj65-3" value="Data Domains" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="2Xf7dPwdSkggFSb7jj65-3" value="Data Domains" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="280" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Xf7dPwdSkggFSb7jj65-4" value="Business Glossary" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="2Xf7dPwdSkggFSb7jj65-4" value="Business Glossary" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="410" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Xf7dPwdSkggFSb7jj65-5" value="Data Catalog" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="2Xf7dPwdSkggFSb7jj65-5" value="Data Catalog" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="540" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Xf7dPwdSkggFSb7jj65-6" value="Policy Manager" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="2Xf7dPwdSkggFSb7jj65-6" value="Policy Manager" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="280" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Xf7dPwdSkggFSb7jj65-7" value="Technical metadata" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="2Xf7dPwdSkggFSb7jj65-7" value="Technical metadata" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="410" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Xf7dPwdSkggFSb7jj65-8" value="Critical Data Elements" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="2Xf7dPwdSkggFSb7jj65-8" value="Critical Data Elements" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="80" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Xf7dPwdSkggFSb7jj65-10" value="Automation workflow processes" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="2Xf7dPwdSkggFSb7jj65-10" value="Automation workflow processes" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="540" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Xf7dPwdSkggFSb7jj65-12" value="Reporting &lt;br&gt;dashboards" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="2Xf7dPwdSkggFSb7jj65-12" value="Reporting &lt;br&gt;dashboards" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="670" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Xf7dPwdSkggFSb7jj65-13" value="Framework" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="2Xf7dPwdSkggFSb7jj65-13" value="Framework" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="420" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Xf7dPwdSkggFSb7jj65-14" value="Stakeholders" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="2Xf7dPwdSkggFSb7jj65-14" value="Stakeholders" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="550" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Xf7dPwdSkggFSb7jj65-15" value="Governance &lt;br&gt;Structure" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="2Xf7dPwdSkggFSb7jj65-15" value="Governance &lt;br&gt;Structure" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="290" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Xf7dPwdSkggFSb7jj65-18" value="Data Lineage" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="2Xf7dPwdSkggFSb7jj65-18" value="Data Lineage" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="670" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Xf7dPwdSkggFSb7jj65-19" value="Data Governance Readiness" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="2Xf7dPwdSkggFSb7jj65-19" value="Data Governance Readiness" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="50" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QQP9QS-Q6utXxUvrG8u2" name="Page-2">
+    <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>

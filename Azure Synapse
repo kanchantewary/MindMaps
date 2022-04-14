@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T08:42:59.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="y_y0lKkSMuHNqLnq5NCN" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-14T08:46:18.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="Ym6LVgycogTDS1Gue6oW" version="17.4.3" type="github">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,31 +31,38 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="djrklmLnI0YxlqMVX8F7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="djrklmLnI0YxlqMVX8F7-1" target="djrklmLnI0YxlqMVX8F7-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="420" y="340" />
-              <mxPoint x="685" y="340" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="djrklmLnI0YxlqMVX8F7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="djrklmLnI0YxlqMVX8F7-12" target="djrklmLnI0YxlqMVX8F7-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="djrklmLnI0YxlqMVX8F7-1" value="Synapse Workspace" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="djrklmLnI0YxlqMVX8F7-1" value="Analyze" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="djrklmLnI0YxlqMVX8F7-2" value="Serverless SQL Pool" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="djrklmLnI0YxlqMVX8F7-2" value="Data Explorer Pool" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="djrklmLnI0YxlqMVX8F7-4" value="Serverless SQL Pool" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="djrklmLnI0YxlqMVX8F7-5" value="Serverless SQL Pool" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="djrklmLnI0YxlqMVX8F7-5" value="Data Catalog and Governance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="djrklmLnI0YxlqMVX8F7-6" value="Serverless SQL Pool" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="djrklmLnI0YxlqMVX8F7-6" value="Serverless Spark Pool" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="372" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="djrklmLnI0YxlqMVX8F7-7" value="Serverless SQL Pool" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="djrklmLnI0YxlqMVX8F7-7" value="dedicated SQL pool" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="djrklmLnI0YxlqMVX8F7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="djrklmLnI0YxlqMVX8F7-12" target="djrklmLnI0YxlqMVX8F7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="djrklmLnI0YxlqMVX8F7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="djrklmLnI0YxlqMVX8F7-12" target="djrklmLnI0YxlqMVX8F7-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="djrklmLnI0YxlqMVX8F7-12" value="Synapse Workspace" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="djrklmLnI0YxlqMVX8F7-14" value="Visualize" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

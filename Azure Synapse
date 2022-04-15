@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T13:21:51.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="6SMucTF5VH6CjarMheeP" version="17.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-15T13:24:15.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="KVTnT6RQLzR2KZHSDl7T" version="17.4.4" type="github" pages="2">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -105,7 +105,7 @@
           <mxGeometry x="410" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OAi8sVN0F1Je2OMclpJq-2" value="&lt;ul&gt;&lt;li&gt;MPP architecture&lt;/li&gt;&lt;li&gt;Control Node&lt;/li&gt;&lt;li&gt;Compute nodes (1 to 60)&lt;/li&gt;&lt;li&gt;DMS coordinates data movement across compute nodes&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="320" width="300" height="80" as="geometry" />
+          <mxGeometry x="-40" y="320" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OAi8sVN0F1Je2OMclpJq-5" value="&lt;ul&gt;&lt;li&gt;3 sharding or distribution patterns: round-robin, hash and replicate&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;" vertex="1" parent="1">
           <mxGeometry x="410" y="120" width="250" height="60" as="geometry" />
@@ -137,14 +137,17 @@
         </mxCell>
         <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-6" value="serverless SQL pool" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="R-l2xzjWQ7UOF9bRT0Ne-5">
           <mxGeometry x="0.4286" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="210" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-1" value="Architecture" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="200" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-5" value="" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-5" value="run query over data lake" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="40" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T13:44:32.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="vsQYSS4VN1hszzdCOGjo" version="17.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-15T14:07:49.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="UZQ7smk4CwO-YEM1H0N0" version="17.4.4" type="github" pages="2">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
         <mxCell id="OAi8sVN0F1Je2OMclpJq-7" value="Indexing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="760" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OAi8sVN0F1Je2OMclpJq-8" value="multiple workers" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="OAi8sVN0F1Je2OMclpJq-8" value="&lt;ul&gt;&lt;li&gt;static resource classes&lt;/li&gt;&lt;li&gt;dynamic resource classes&lt;/li&gt;&lt;li&gt;concurrency slots&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;" vertex="1" parent="1">
           <mxGeometry x="530" y="250" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-2" value="database objects" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="OAi8sVN0F1Je2OMclpJq-1">

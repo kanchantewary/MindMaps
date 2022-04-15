@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T14:07:49.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="UZQ7smk4CwO-YEM1H0N0" version="17.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-15T14:13:57.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="UQJTLaYAHq26v8d0x0ZJ" version="17.4.4" type="github" pages="3">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -158,6 +158,29 @@
         </mxCell>
         <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-5" value="&lt;ul&gt;&lt;li&gt;run query over data lake (parquet, delta lake, delimited text, csv, json&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-40" y="40" width="320" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="n6pnqWvyykXIGc2412sR" name="security">
+    <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="a3j1dnx749yc6ZNOHNls-3" value="RLS" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="a3j1dnx749yc6ZNOHNls-1" target="a3j1dnx749yc6ZNOHNls-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3j1dnx749yc6ZNOHNls-5" value="CLS" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="a3j1dnx749yc6ZNOHNls-1" target="a3j1dnx749yc6ZNOHNls-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3j1dnx749yc6ZNOHNls-1" value="security" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3j1dnx749yc6ZNOHNls-2" value="" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3j1dnx749yc6ZNOHNls-4" value="" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

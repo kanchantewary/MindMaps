@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T13:09:31.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="Z2eYo5PcVGfxPPndp6D6" version="17.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-15T13:13:25.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="a-51rDSi-Co9VZgg0hGH" version="17.4.4" type="github" pages="2">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,11 +81,17 @@
         <mxCell id="djrklmLnI0YxlqMVX8F7-16" value="Workflow Orchestration" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="10sPyu-3V0MpZ8CoD53n-2" value="triggers" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="djrklmLnI0YxlqMVX8F7-18" target="10sPyu-3V0MpZ8CoD53n-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="djrklmLnI0YxlqMVX8F7-18" value="ADF pipelines" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="360" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="djrklmLnI0YxlqMVX8F7-20" value="Monitor" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="560" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="10sPyu-3V0MpZ8CoD53n-1" value="" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T14:40:18.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="CKx7gOcoHwn5xdhnDxnb" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T14:40:39.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="s7YlJheDd3TpywkwCCxa" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -263,10 +263,10 @@
           <mxGeometry x="1120" y="220" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kf__2PTlYVlAZcN-1VO7-8" value="useful for highly selective queries,&amp;nbsp;Clustered indexes sort and store the data rows in the table or view based on their key values. Automatically created on a PRIMARY KEY constraint" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="270" width="270" height="60" as="geometry" />
+          <mxGeometry x="1119" y="270" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kf__2PTlYVlAZcN-1VO7-9" value="Create non-clustered secondary indexes. It is also automatically created on a UNIQUE constraint" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="340" width="250" height="50" as="geometry" />
+          <mxGeometry x="1120" y="340" width="440" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oh8YpCXCoVaXzwQZIsei-1" value="full copy is available in each compute node, consider if table size is less than 2 GB, query predicates are simple (equality/inequality).&amp;nbsp;Minimize rebuild of the replicated tables by running all batch loads at one go, followed by a select query&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="750" y="-20" width="450" height="80" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T14:28:14.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="nOFAYJtXHO1Uc-nkPgzf" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T14:30:41.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="qjWA5L3Tqrz-J-L14WRx" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4POL2bRA1I5lXoCUZLEh" name="architecture">
-    <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1654" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,7 +137,7 @@
           <mxGeometry x="0.4667" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="620" y="20" />
-              <mxPoint x="620" y="-45" />
+              <mxPoint x="620" y="-70" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -266,8 +266,8 @@
         <mxCell id="oh8YpCXCoVaXzwQZIsei-2" value="distributes table rows evenly across all distributions. Consider using this if there is no good candidate column for hash distribution, or if it is a temporary staging table" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="740" y="-140" width="450" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oh8YpCXCoVaXzwQZIsei-3" value="uses a hash function. Consider when&amp;nbsp;table size on disk is more than 2 GB or the table has frequent insert, update, and delete operations. The distribution column should be chosen such that data skew does not occur and data movement is minimized" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="750" y="-70" width="450" height="40" as="geometry" />
+        <mxCell id="oh8YpCXCoVaXzwQZIsei-3" value="uses a hash function. Consider when&amp;nbsp;table size on disk is more than 2 GB or the table has frequent insert, update, and delete operations. The distribution column should be chosen such that data skew does not occur and data movement is minimized. The column should have high cardinality, no or very few nulls and not a date." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="750" y="-100" width="450" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DG8zZHcHwSaCVrcBqh9R-1" value="Use CTAS to change distribution of a table (create a new table and then rename to original)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="453.75" y="-190" width="202.5" height="60" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T15:59:21.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="BKOeCNAPBfrIqgCXWV7D" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T16:02:17.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="enhIz2xIuzPMyHkVXcP_" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -215,6 +215,9 @@
         <mxCell id="TErsRPFnZDbgiVriLMW8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-8" target="TErsRPFnZDbgiVriLMW8-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TErsRPFnZDbgiVriLMW8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-8" target="TErsRPFnZDbgiVriLMW8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OAi8sVN0F1Je2OMclpJq-8" value="&lt;div&gt;&lt;span&gt;workload management&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=center;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="390" y="310" width="110" height="40" as="geometry" />
         </mxCell>
@@ -320,6 +323,9 @@
         </mxCell>
         <mxCell id="TErsRPFnZDbgiVriLMW8-1" value="&lt;div style=&quot;text-align: left&quot;&gt;resource class is assigned to a role or a user. If a user is a member of multiple roles with different rc, highest one is assigned. user takes precedence over a role membership&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="550" y="296.25" width="240" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TErsRPFnZDbgiVriLMW8-4" value="&lt;div style=&quot;text-align: left&quot;&gt;create workload classifiers to assign dynamically for each request, based on parameters&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="550" y="380" width="240" height="67.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

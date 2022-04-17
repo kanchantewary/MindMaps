@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T18:08:35.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="2tt-VtC6An8IXKbtzbpK" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T09:35:33.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="vBndM-1kSgiUvSd65tlm" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -101,6 +101,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Kf__2PTlYVlAZcN-1VO7-4" value="temporary tables" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-1" target="Kf__2PTlYVlAZcN-1VO7-3">
+          <mxGeometry x="0.2364" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="210" />
+              <mxPoint x="890" y="105" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OAi8sVN0F1Je2OMclpJq-1" value="&lt;ul&gt;&lt;li&gt;Tables, views, schemas, temporary tables, UDF, triggers, materialized views&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;" vertex="1" parent="1">
           <mxGeometry x="530" y="180" width="250" height="60" as="geometry" />
         </mxCell>
@@ -158,6 +167,9 @@
         </mxCell>
         <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-5" value="&lt;ul&gt;&lt;li&gt;run query over data lake (parquet, delta lake, delimited text, csv, json&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-40" y="40" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kf__2PTlYVlAZcN-1VO7-3" value="scope is a user session, global temporary tables are not available" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="950" y="90" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

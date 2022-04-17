@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T09:48:23.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="vdnAV3W-jIfPdoW7UvEl" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T09:53:03.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="JwZz83EDAAjnjHs5AC5X" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -126,7 +126,7 @@
           <mxGeometry x="0.4146" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="960" y="275" />
-              <mxPoint x="960" y="200" />
+              <mxPoint x="960" y="180" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -204,8 +204,8 @@
         <mxCell id="Kf__2PTlYVlAZcN-1VO7-3" value="scope is a user session, global temporary tables are not available" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="950" y="90" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Kf__2PTlYVlAZcN-1VO7-6" value="default index, best compression ratio, best overall query performance" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="180" width="230" height="30" as="geometry" />
+        <mxCell id="Kf__2PTlYVlAZcN-1VO7-6" value="default index, best compression ratio, best overall query performance, users a columnar data format (columnstore), a table is sliced into multiple rowgroups" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="150" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kf__2PTlYVlAZcN-1VO7-7" value="scope is a user session, global temporary tables are not available" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="1120" y="220" width="230" height="30" as="geometry" />

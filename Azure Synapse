@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T10:09:02.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="OUgDu8h_Q3vSv89ErfVB" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T10:09:44.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="DLvxJmvyY-U17hEtzJHv" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -303,7 +303,7 @@
         <mxCell id="rCfftMESmBMLdmdU3AWe-2" value="" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rCfftMESmBMLdmdU3AWe-4" value="&lt;ul&gt;&lt;li&gt;data distribution&lt;/li&gt;&lt;li&gt;partitioning&lt;/li&gt;&lt;li&gt;indexing - poor segment quality&lt;/li&gt;&lt;li&gt;use temporary tables&lt;/li&gt;&lt;li&gt;use CTAS&lt;/li&gt;&lt;li&gt;use materialized views&lt;/li&gt;&lt;li&gt;result set caching&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="rCfftMESmBMLdmdU3AWe-4" value="&lt;ul&gt;&lt;li&gt;data distribution&lt;/li&gt;&lt;li&gt;partitioning&lt;/li&gt;&lt;li&gt;rebuilt indexes to improve segment quality&lt;/li&gt;&lt;li&gt;use temporary tables&lt;/li&gt;&lt;li&gt;use CTAS&lt;/li&gt;&lt;li&gt;use materialized views&lt;/li&gt;&lt;li&gt;result set caching&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="280" y="30" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1FBj1JXxa8ClFnP3Ursf-1" value="" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;" vertex="1" parent="1">

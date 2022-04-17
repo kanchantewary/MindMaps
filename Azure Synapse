@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T13:54:06.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="EXQblKhBcd_4UT8M67oZ" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T14:02:53.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="6xRPs75jvf_fWkbz7YRR" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -266,7 +266,7 @@
         <mxCell id="oh8YpCXCoVaXzwQZIsei-2" value="scope is a user session, global temporary tables are not available" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="750" y="-110" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oh8YpCXCoVaXzwQZIsei-3" value="scope is a user session, global temporary tables are not available" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="oh8YpCXCoVaXzwQZIsei-3" value="uses a hash function" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="750" y="-60" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DG8zZHcHwSaCVrcBqh9R-1" value="Use CTAS to change distribution of a table (create a new table and then rename to original)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
@@ -278,7 +278,7 @@
         <mxCell id="DG8zZHcHwSaCVrcBqh9R-3" value="&lt;span&gt;partitioning&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=center;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="225" y="320" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DG8zZHcHwSaCVrcBqh9R-5" value="partition sizing - For Clustered columnstore Index, a&amp;nbsp;minimum of 1 million rows per distribution and partition is needed&lt;br&gt;drop a partition to achieve periodic deletion" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="DG8zZHcHwSaCVrcBqh9R-5" value="partition sizing - For Clustered columnstore Index, a&amp;nbsp;minimum of 1 million rows per distribution and partition is needed&lt;br&gt;drop a partition to achieve periodic deletion&lt;br&gt;partition switching -&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="350" y="350" width="300" height="80" as="geometry" />
         </mxCell>
       </root>

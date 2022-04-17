@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T14:42:33.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="An9t16r5CSHzKAPUDv00" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T14:43:22.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="3LMJBKpBUiQwY9WP6u8R" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -304,7 +304,7 @@
           <mxGeometry x="830" y="430" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DG8zZHcHwSaCVrcBqh9R-10" value="FOREIGN KEY constraint is not supported in dedicated SQL pool&lt;br&gt;&lt;div&gt;PRIMARY KEY is only supported when NONCLUSTERED and NOT ENFORCED are both used.&lt;/div&gt;&lt;div&gt;UNIQUE constraint is only supported when NOT ENFORCED is used.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="970" y="405" width="410" height="80" as="geometry" />
+          <mxGeometry x="970" y="405" width="530" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DG8zZHcHwSaCVrcBqh9R-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="DG8zZHcHwSaCVrcBqh9R-12" target="DG8zZHcHwSaCVrcBqh9R-14">
           <mxGeometry relative="1" as="geometry" />
@@ -312,8 +312,8 @@
         <mxCell id="DG8zZHcHwSaCVrcBqh9R-12" value="Surrogate Keys" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="510" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DG8zZHcHwSaCVrcBqh9R-14" value="FOREIGN KEY constraint is not supported in dedicated SQL pool&lt;br&gt;&lt;div&gt;PRIMARY KEY is only supported when NONCLUSTERED and NOT ENFORCED are both used.&lt;/div&gt;&lt;div&gt;UNIQUE constraint is only supported when NOT ENFORCED is used.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="970" y="485" width="410" height="80" as="geometry" />
+        <mxCell id="DG8zZHcHwSaCVrcBqh9R-14" value="Use IDENTITY column, needs to be INT or BIGINT" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="970" y="485" width="500" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

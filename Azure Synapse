@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T09:58:53.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="lC3bFpkQ-HI-X3ieZe6W" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T09:59:25.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="2XNUpWhPZkZt0BcQP9Zq" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -141,15 +141,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Kf__2PTlYVlAZcN-1VO7-12" value="Clustered Index" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-7" target="Kf__2PTlYVlAZcN-1VO7-8">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.1628" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="960" y="275" />
               <mxPoint x="960" y="300" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Kf__2PTlYVlAZcN-1VO7-13" value="Nonclustered Index" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-7" target="Kf__2PTlYVlAZcN-1VO7-9">
-          <mxGeometry x="0.2174" relative="1" as="geometry">
+          <mxGeometry x="0.3333" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="960" y="275" />
               <mxPoint x="960" y="355" />
@@ -216,7 +217,7 @@
           <mxGeometry x="1120" y="220" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kf__2PTlYVlAZcN-1VO7-8" value="useful for highly selective queries,&amp;nbsp;Clustered indexes sort and store the data rows in the table or view based on their key values" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="270" width="230" height="60" as="geometry" />
+          <mxGeometry x="1120" y="270" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kf__2PTlYVlAZcN-1VO7-9" value="scope is a user session, global temporary tables are not available" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1120" y="340" width="230" height="30" as="geometry" />

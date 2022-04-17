@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T15:56:24.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="QJhqThC6CkrsSbteHX1E" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T15:59:08.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="2nVzTabu4YWWc3t3Tzrn" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4POL2bRA1I5lXoCUZLEh" name="architecture">
-    <mxGraphModel dx="1654" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1824" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,13 +129,13 @@
         <mxCell id="DG8zZHcHwSaCVrcBqh9R-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-1" target="DG8zZHcHwSaCVrcBqh9R-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="810" y="210" />
+              <mxPoint x="810" y="209" />
               <mxPoint x="810" y="525" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAi8sVN0F1Je2OMclpJq-1" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Tables, views, schemas, temporary tables, UDF, triggers, materialized views&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="530" y="180" width="250" height="60" as="geometry" />
+        <mxCell id="OAi8sVN0F1Je2OMclpJq-1" value="&lt;div&gt;&lt;span&gt;database objects&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=center;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="640" y="192" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="OAi8sVN0F1Je2OMclpJq-2" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;MPP architecture&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Control Node&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Compute nodes (1 to 60)&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;DMS coordinates data movement across compute nodes&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;size determined in DWU or data warehouse units&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;supports table distribution, partitioning and index&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-305" y="225" width="350" height="110" as="geometry" />
@@ -212,13 +212,13 @@
         <mxCell id="OAi8sVN0F1Je2OMclpJq-7" value="Indexes" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="850" y="260" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TErsRPFnZDbgiVriLMW8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-8" target="TErsRPFnZDbgiVriLMW8-1">
+        <mxCell id="TErsRPFnZDbgiVriLMW8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-8" target="TErsRPFnZDbgiVriLMW8-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OAi8sVN0F1Je2OMclpJq-8" value="&lt;div&gt;&lt;span&gt;workload management&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=center;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="530" y="270" width="110" height="40" as="geometry" />
+          <mxGeometry x="390" y="310" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-2" value="database objects" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="OAi8sVN0F1Je2OMclpJq-1">
+        <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="OAi8sVN0F1Je2OMclpJq-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-3" value="sharding" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="OAi8sVN0F1Je2OMclpJq-5">
@@ -250,7 +250,7 @@
           <mxGeometry x="0.2143" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="210" />
-              <mxPoint x="360" y="290" />
+              <mxPoint x="360" y="330" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -319,7 +319,7 @@
           <mxGeometry x="970" y="485" width="500" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TErsRPFnZDbgiVriLMW8-1" value="&lt;div style=&quot;text-align: left&quot;&gt;resource class is assigned to a role or a user. If a user is a member of multiple roles with different rc, highest one is assigned. user takes precedence over a role membership&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="465" y="375" width="240" height="85" as="geometry" />
+          <mxGeometry x="550" y="296.25" width="240" height="67.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

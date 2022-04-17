@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T18:08:58.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="kZXrRhtLQhFgbjPDZUoy" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T18:11:16.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="ekHtVz5xXylydSMDf6Z7" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="1775" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -394,7 +394,7 @@
         <mxCell id="2vttrCONGn76IWba-l0i-5" value="shared metadata" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2vttrCONGn76IWba-l0i-8" value="Delta lake compatible" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="2vttrCONGn76IWba-l0i-8" value="auto-scale feature&lt;br&gt;Delta lake compatible (ACID support, time travel, schema enforcement" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-280" y="-20" width="320" height="60" as="geometry" />
         </mxCell>
       </root>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T14:46:48.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="lLJwQ__1Y3Em5E6f4o5J" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T15:56:24.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="QJhqThC6CkrsSbteHX1E" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -212,8 +212,11 @@
         <mxCell id="OAi8sVN0F1Je2OMclpJq-7" value="Indexes" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="850" y="260" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OAi8sVN0F1Je2OMclpJq-8" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;static resource classes&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;dynamic resource classes&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;concurrency slots&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="530" y="250" width="250" height="60" as="geometry" />
+        <mxCell id="TErsRPFnZDbgiVriLMW8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-8" target="TErsRPFnZDbgiVriLMW8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OAi8sVN0F1Je2OMclpJq-8" value="&lt;div&gt;&lt;span&gt;workload management&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=center;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="530" y="270" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-2" value="database objects" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="OAi8sVN0F1Je2OMclpJq-1">
           <mxGeometry relative="1" as="geometry" />
@@ -243,11 +246,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rbw9WqYoekjeAcDsymGy-1" value="workload &lt;br style=&quot;font-size: 12px;&quot;&gt;management" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="OAi8sVN0F1Je2OMclpJq-8">
+        <mxCell id="Rbw9WqYoekjeAcDsymGy-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="OAi8sVN0F1Je2OMclpJq-8">
           <mxGeometry x="0.2143" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="210" />
-              <mxPoint x="360" y="280" />
+              <mxPoint x="360" y="290" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -295,12 +298,12 @@
           <mxGeometry x="225" y="320" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DG8zZHcHwSaCVrcBqh9R-5" value="partition sizing - For Clustered columnstore Index, a&amp;nbsp;minimum of 1 million rows per distribution and partition is needed&lt;br&gt;drop a partition to achieve periodic deletion&lt;br&gt;partition switching -&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="350" y="350" width="300" height="80" as="geometry" />
+          <mxGeometry x="150" y="405" width="300" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DG8zZHcHwSaCVrcBqh9R-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="DG8zZHcHwSaCVrcBqh9R-8" target="DG8zZHcHwSaCVrcBqh9R-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DG8zZHcHwSaCVrcBqh9R-8" value="constraints" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
+        <mxCell id="DG8zZHcHwSaCVrcBqh9R-8" value="constraints" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="430" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DG8zZHcHwSaCVrcBqh9R-10" value="FOREIGN KEY constraint is not supported in dedicated SQL pool&lt;br&gt;&lt;div&gt;PRIMARY KEY is only supported when NONCLUSTERED and NOT ENFORCED are both used.&lt;/div&gt;&lt;div&gt;UNIQUE constraint is only supported when NOT ENFORCED is used.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
@@ -309,11 +312,14 @@
         <mxCell id="DG8zZHcHwSaCVrcBqh9R-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="DG8zZHcHwSaCVrcBqh9R-12" target="DG8zZHcHwSaCVrcBqh9R-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DG8zZHcHwSaCVrcBqh9R-12" value="Surrogate Keys" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
+        <mxCell id="DG8zZHcHwSaCVrcBqh9R-12" value="Surrogate Keys" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="510" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DG8zZHcHwSaCVrcBqh9R-14" value="Use IDENTITY column, needs to be INT or BIGINT" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="970" y="485" width="500" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TErsRPFnZDbgiVriLMW8-1" value="&lt;div style=&quot;text-align: left&quot;&gt;resource class is assigned to a role or a user. If a user is a member of multiple roles with different rc, highest one is assigned. user takes precedence over a role membership&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="465" y="375" width="240" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T16:03:56.236Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="T0TjGPGyarEs8RedhNsK" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T16:10:21.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="rJvE9KeGF0QXOc8XFNwc" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
-    <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1775" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
           <mxGeometry x="105" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="djrklmLnI0YxlqMVX8F7-5" value="Data Catalog and Governance" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="130" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="djrklmLnI0YxlqMVX8F7-6" value="Serverless Spark Pool" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="360" y="372" width="120" height="60" as="geometry" />
@@ -67,6 +67,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="djrklmLnI0YxlqMVX8F7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;" parent="1" source="djrklmLnI0YxlqMVX8F7-12" target="djrklmLnI0YxlqMVX8F7-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAZyIPjo0I3a1OJ_KG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="djrklmLnI0YxlqMVX8F7-12" target="qzvAZyIPjo0I3a1OJ_KG-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="djrklmLnI0YxlqMVX8F7-12" value="Synapse Workspace" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
@@ -93,11 +96,20 @@
         <mxCell id="10sPyu-3V0MpZ8CoD53n-1" value="" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Yo-ijmcRvszQeDS71Y8b-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="qzvAZyIPjo0I3a1OJ_KG-2" target="Yo-ijmcRvszQeDS71Y8b-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAZyIPjo0I3a1OJ_KG-2" value="Cost Management" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yo-ijmcRvszQeDS71Y8b-1" value="Pause/resume computing nodes on-demand from Portal/using REST API or Powershell" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="40" width="230" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="4POL2bRA1I5lXoCUZLEh" name="architecture">
-    <mxGraphModel dx="1824" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1824" dy="1598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

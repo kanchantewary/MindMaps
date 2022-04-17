@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T14:38:11.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="q7mfuhn2Z447DmIDOVF5" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T14:40:18.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="CKx7gOcoHwn5xdhnDxnb" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -259,8 +259,8 @@
         <mxCell id="Kf__2PTlYVlAZcN-1VO7-6" value="default index, best compression ratio, best overall query performance, users a columnar data format (columnstore), a table is sliced into multiple rowgroups. Use CCI for fact tables and large dimension tables.&amp;nbsp;Columnstore tables do not support varchar(max), nvarchar(max), and varbinary(max)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1120" y="150" width="440" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kf__2PTlYVlAZcN-1VO7-7" value="Small tables with less than 60 million rows. Consider heap tables" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="220" width="230" height="30" as="geometry" />
+        <mxCell id="Kf__2PTlYVlAZcN-1VO7-7" value="good for temporary staging tables or small lookup tables (less than 60M rows)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="220" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kf__2PTlYVlAZcN-1VO7-8" value="useful for highly selective queries,&amp;nbsp;Clustered indexes sort and store the data rows in the table or view based on their key values. Automatically created on a PRIMARY KEY constraint" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1120" y="270" width="270" height="60" as="geometry" />

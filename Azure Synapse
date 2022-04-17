@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T09:55:24.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="RzwuC0KlCmuRjgejF7Hw" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T09:58:53.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="lC3bFpkQ-HI-X3ieZe6W" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Kf__2PTlYVlAZcN-1VO7-4" value="temporary tables" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-1" target="Kf__2PTlYVlAZcN-1VO7-3">
+        <mxCell id="Kf__2PTlYVlAZcN-1VO7-4" value="temporary tables" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-1" target="Kf__2PTlYVlAZcN-1VO7-3">
           <mxGeometry x="0.2364" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="890" y="210" />
@@ -110,19 +110,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kf__2PTlYVlAZcN-1VO7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-1" target="OAi8sVN0F1Je2OMclpJq-7">
+        <mxCell id="Kf__2PTlYVlAZcN-1VO7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-1" target="OAi8sVN0F1Je2OMclpJq-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OAi8sVN0F1Je2OMclpJq-1" value="&lt;ul&gt;&lt;li&gt;Tables, views, schemas, temporary tables, UDF, triggers, materialized views&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;" vertex="1" parent="1">
+        <mxCell id="OAi8sVN0F1Je2OMclpJq-1" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Tables, views, schemas, temporary tables, UDF, triggers, materialized views&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="530" y="180" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OAi8sVN0F1Je2OMclpJq-2" value="&lt;ul&gt;&lt;li&gt;MPP architecture&lt;/li&gt;&lt;li&gt;Control Node&lt;/li&gt;&lt;li&gt;Compute nodes (1 to 60)&lt;/li&gt;&lt;li&gt;DMS coordinates data movement across compute nodes&lt;/li&gt;&lt;li&gt;size determined in DWU or data warehouse units&lt;/li&gt;&lt;li&gt;supports table distribution, partitioning and index&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;" vertex="1" parent="1">
+        <mxCell id="OAi8sVN0F1Je2OMclpJq-2" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;MPP architecture&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Control Node&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Compute nodes (1 to 60)&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;DMS coordinates data movement across compute nodes&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;size determined in DWU or data warehouse units&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;supports table distribution, partitioning and index&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-40" y="320" width="350" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="OAi8sVN0F1Je2OMclpJq-5" value="&lt;ul&gt;&lt;li&gt;3 sharding or distribution patterns: round-robin, hash and replicate&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;" vertex="1" parent="1">
+        <mxCell id="OAi8sVN0F1Je2OMclpJq-5" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;3 sharding or distribution patterns: round-robin, hash and replicate&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="530" y="110" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kf__2PTlYVlAZcN-1VO7-10" value="Clustered&lt;br&gt;Columnstore Index" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-7" target="Kf__2PTlYVlAZcN-1VO7-6">
+        <mxCell id="Kf__2PTlYVlAZcN-1VO7-10" value="Clustered&lt;br style=&quot;font-size: 12px;&quot;&gt;Columnstore Index" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-7" target="Kf__2PTlYVlAZcN-1VO7-6">
           <mxGeometry x="0.4146" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="960" y="275" />
@@ -131,7 +131,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kf__2PTlYVlAZcN-1VO7-11" value="heap" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-7" target="Kf__2PTlYVlAZcN-1VO7-7">
+        <mxCell id="Kf__2PTlYVlAZcN-1VO7-11" value="heap" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-7" target="Kf__2PTlYVlAZcN-1VO7-7">
           <mxGeometry x="0.4118" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="960" y="275" />
@@ -140,28 +140,33 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kf__2PTlYVlAZcN-1VO7-12" value="Clustered Index" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-7" target="Kf__2PTlYVlAZcN-1VO7-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Kf__2PTlYVlAZcN-1VO7-12" value="Clustered Index" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-7" target="Kf__2PTlYVlAZcN-1VO7-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="275" />
+              <mxPoint x="960" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Kf__2PTlYVlAZcN-1VO7-13" value="Nonclustered Index" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-7" target="Kf__2PTlYVlAZcN-1VO7-9">
+        <mxCell id="Kf__2PTlYVlAZcN-1VO7-13" value="Nonclustered Index" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-7" target="Kf__2PTlYVlAZcN-1VO7-9">
           <mxGeometry x="0.2174" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="960" y="275" />
-              <mxPoint x="960" y="315" />
+              <mxPoint x="960" y="355" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAi8sVN0F1Je2OMclpJq-7" value="Indexes" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="OAi8sVN0F1Je2OMclpJq-7" value="Indexes" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="850" y="260" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OAi8sVN0F1Je2OMclpJq-8" value="&lt;ul&gt;&lt;li&gt;static resource classes&lt;/li&gt;&lt;li&gt;dynamic resource classes&lt;/li&gt;&lt;li&gt;concurrency slots&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;" vertex="1" parent="1">
+        <mxCell id="OAi8sVN0F1Je2OMclpJq-8" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;static resource classes&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;dynamic resource classes&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;concurrency slots&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="530" y="250" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-2" value="database objects" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="OAi8sVN0F1Je2OMclpJq-1">
+        <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-2" value="database objects" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="OAi8sVN0F1Je2OMclpJq-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-3" value="sharding" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="OAi8sVN0F1Je2OMclpJq-5">
+        <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-3" value="sharding" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="OAi8sVN0F1Je2OMclpJq-5">
           <mxGeometry x="0.2143" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="210" />
@@ -170,7 +175,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-4" value="dedicated SQL pool" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="OAi8sVN0F1Je2OMclpJq-2">
+        <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-4" value="dedicated SQL pool" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="OAi8sVN0F1Je2OMclpJq-2">
           <mxGeometry x="0.7143" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="100" y="210" />
@@ -178,7 +183,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-6" value="serverless SQL pool" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="R-l2xzjWQ7UOF9bRT0Ne-5">
+        <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-6" value="serverless SQL pool" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="R-l2xzjWQ7UOF9bRT0Ne-5">
           <mxGeometry x="0.4286" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="100" y="210" />
@@ -186,7 +191,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rbw9WqYoekjeAcDsymGy-1" value="workload &lt;br&gt;management" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="OAi8sVN0F1Je2OMclpJq-8">
+        <mxCell id="Rbw9WqYoekjeAcDsymGy-1" value="workload &lt;br style=&quot;font-size: 12px;&quot;&gt;management" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="OAi8sVN0F1Je2OMclpJq-8">
           <mxGeometry x="0.2143" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="210" />
@@ -195,26 +200,26 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-1" value="Architecture" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-1" value="Architecture" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="200" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-5" value="&lt;ul&gt;&lt;li&gt;run query over data lake (parquet, delta lake, delimited text, csv, json&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-5" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;run query over data lake (parquet, delta lake, delimited text, csv, json&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;align=left;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-40" y="40" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kf__2PTlYVlAZcN-1VO7-3" value="scope is a user session, global temporary tables are not available" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="Kf__2PTlYVlAZcN-1VO7-3" value="scope is a user session, global temporary tables are not available" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="950" y="90" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Kf__2PTlYVlAZcN-1VO7-6" value="default index, best compression ratio, best overall query performance, users a columnar data format (columnstore), a table is sliced into multiple rowgroups. Use CCI for fact tables and large dimension tables" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="Kf__2PTlYVlAZcN-1VO7-6" value="default index, best compression ratio, best overall query performance, users a columnar data format (columnstore), a table is sliced into multiple rowgroups. Use CCI for fact tables and large dimension tables" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1120" y="150" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kf__2PTlYVlAZcN-1VO7-7" value="scope is a user session, global temporary tables are not available" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="Kf__2PTlYVlAZcN-1VO7-7" value="scope is a user session, global temporary tables are not available" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1120" y="220" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Kf__2PTlYVlAZcN-1VO7-8" value="useful for highly selective queries" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="260" width="230" height="30" as="geometry" />
+        <mxCell id="Kf__2PTlYVlAZcN-1VO7-8" value="useful for highly selective queries,&amp;nbsp;Clustered indexes sort and store the data rows in the table or view based on their key values" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="270" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kf__2PTlYVlAZcN-1VO7-9" value="scope is a user session, global temporary tables are not available" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="300" width="230" height="30" as="geometry" />
+        <mxCell id="Kf__2PTlYVlAZcN-1VO7-9" value="scope is a user session, global temporary tables are not available" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="340" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

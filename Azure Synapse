@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T16:10:32.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="WzXz6hZHuQwnLLe1cGRW" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T16:22:36.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="ff0vdU2ldX33ApMMAdJ2" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="1775" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -67,7 +67,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="djrklmLnI0YxlqMVX8F7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;" parent="1" source="djrklmLnI0YxlqMVX8F7-12" target="djrklmLnI0YxlqMVX8F7-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="180" />
+              <mxPoint x="520" y="120" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qzvAZyIPjo0I3a1OJ_KG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="djrklmLnI0YxlqMVX8F7-12" target="qzvAZyIPjo0I3a1OJ_KG-2">
           <mxGeometry relative="1" as="geometry" />
@@ -76,7 +81,7 @@
           <mxGeometry x="360" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="djrklmLnI0YxlqMVX8F7-14" value="Visualize" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="210" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="djrklmLnI0YxlqMVX8F7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;" parent="1" source="djrklmLnI0YxlqMVX8F7-16" target="djrklmLnI0YxlqMVX8F7-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -90,8 +95,16 @@
         <mxCell id="djrklmLnI0YxlqMVX8F7-18" value="ADF pipelines" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="360" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Yo-ijmcRvszQeDS71Y8b-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="djrklmLnI0YxlqMVX8F7-20" target="Yo-ijmcRvszQeDS71Y8b-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yo-ijmcRvszQeDS71Y8b-6" value="Dynamic Management Views (DMVs)&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Tahoma;" vertex="1" connectable="0" parent="Yo-ijmcRvszQeDS71Y8b-4">
+          <mxGeometry x="-0.2571" y="1" relative="1" as="geometry">
+            <mxPoint x="27" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="djrklmLnI0YxlqMVX8F7-20" value="Monitor" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="560" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="100" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="10sPyu-3V0MpZ8CoD53n-1" value="" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="-70" width="120" height="60" as="geometry" />
@@ -104,6 +117,9 @@
         </mxCell>
         <mxCell id="Yo-ijmcRvszQeDS71Y8b-1" value="Pause/resume computing nodes on-demand from Portal/using REST API or Powershell" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-80" y="40" width="210" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Yo-ijmcRvszQeDS71Y8b-3" value="Pause/resume computing nodes on-demand from Portal/using REST API or Powershell" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="920" y="97.5" width="210" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

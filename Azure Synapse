@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T13:40:00.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="Uok8v9pCFEjbCa86zZWD" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T13:46:25.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="1VYulIlLzWWOA5pTyB0H" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -124,23 +124,29 @@
         <mxCell id="OAi8sVN0F1Je2OMclpJq-2" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;MPP architecture&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Control Node&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Compute nodes (1 to 60)&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;DMS coordinates data movement across compute nodes&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;size determined in DWU or data warehouse units&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;supports table distribution, partitioning and index&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-40" y="320" width="350" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="oh8YpCXCoVaXzwQZIsei-4" value="roundrobin" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-5" target="oh8YpCXCoVaXzwQZIsei-2">
-          <mxGeometry x="0.2558" relative="1" as="geometry">
+        <mxCell id="oh8YpCXCoVaXzwQZIsei-4" value="roundrobin" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-5" target="oh8YpCXCoVaXzwQZIsei-2">
+          <mxGeometry x="0.5636" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="620" y="20" />
-              <mxPoint x="620" y="-25" />
+              <mxPoint x="620" y="-95" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oh8YpCXCoVaXzwQZIsei-5" value="hash" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-5" target="oh8YpCXCoVaXzwQZIsei-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.4667" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="20" />
+              <mxPoint x="620" y="-45" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="oh8YpCXCoVaXzwQZIsei-6" value="replicated" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-5" target="oh8YpCXCoVaXzwQZIsei-1">
           <mxGeometry x="0.2195" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="20" />
-              <mxPoint x="620" y="55" />
+              <mxPoint x="690" y="20" />
+              <mxPoint x="690" y="20" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -251,17 +257,17 @@
         <mxCell id="Kf__2PTlYVlAZcN-1VO7-9" value="Create non-clustered secondary indexes. It is also automatically created on a UNIQUE constraint" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1120" y="340" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oh8YpCXCoVaXzwQZIsei-1" value="full copy is available in each compute node, consider if table size is less than 2 GB, query predicates are simple (equality/inequality)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="760" y="40" width="300" height="40" as="geometry" />
+        <mxCell id="oh8YpCXCoVaXzwQZIsei-1" value="full copy is available in each compute node, consider if table size is less than 2 GB, query predicates are simple (equality/inequality).&amp;nbsp;Minimize rebuild of the replicated tables by running all batch loads at one go, followed by a select query&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="750" y="-20" width="300" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oh8YpCXCoVaXzwQZIsei-2" value="scope is a user session, global temporary tables are not available" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="760" y="-40" width="230" height="30" as="geometry" />
+          <mxGeometry x="750" y="-110" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oh8YpCXCoVaXzwQZIsei-3" value="scope is a user session, global temporary tables are not available" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="760" y="5" width="230" height="30" as="geometry" />
+          <mxGeometry x="750" y="-60" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DG8zZHcHwSaCVrcBqh9R-1" value="Use CTAS to change distribution of a table (create a new table and then rename to original)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="453.75" y="-130" width="202.5" height="60" as="geometry" />
+          <mxGeometry x="453.75" y="-190" width="202.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

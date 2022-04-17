@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T17:59:15.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="Y-Tq7okh1s70fmZ_8Nvv" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T18:03:08.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="g8_Jn5SOvoHHI_9HdYcr" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="1775" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -306,6 +306,9 @@
         <mxCell id="DG8zZHcHwSaCVrcBqh9R-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="DG8zZHcHwSaCVrcBqh9R-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2vttrCONGn76IWba-l0i-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="2vttrCONGn76IWba-l0i-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-1" value="Architecture" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="200" y="180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -377,6 +380,9 @@
         </mxCell>
         <mxCell id="2vttrCONGn76IWba-l0i-3" value="&lt;div&gt;static resource class&lt;/div&gt;&lt;div&gt;dynamic resource class&lt;/div&gt;&lt;div&gt;concurrency slots&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="550" y="228.75" width="240" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2vttrCONGn76IWba-l0i-5" value="shared metadata management" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

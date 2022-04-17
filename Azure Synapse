@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T14:25:38.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="HIXoXbYn2jCcfPgKSI-P" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T14:27:38.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="fwG_x33FxsrpMSWKjntw" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -124,11 +124,11 @@
         <mxCell id="OAi8sVN0F1Je2OMclpJq-2" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;MPP architecture&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Control Node&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Compute nodes (1 to 60)&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;DMS coordinates data movement across compute nodes&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;size determined in DWU or data warehouse units&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;supports table distribution, partitioning and index&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-305" y="225" width="350" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="oh8YpCXCoVaXzwQZIsei-4" value="roundrobin" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-5" target="oh8YpCXCoVaXzwQZIsei-2">
+        <mxCell id="oh8YpCXCoVaXzwQZIsei-4" value="roundrobin" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAi8sVN0F1Je2OMclpJq-5" target="oh8YpCXCoVaXzwQZIsei-2">
           <mxGeometry x="0.5636" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="620" y="20" />
-              <mxPoint x="620" y="-95" />
+              <mxPoint x="620" y="-125" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -263,8 +263,8 @@
         <mxCell id="oh8YpCXCoVaXzwQZIsei-1" value="full copy is available in each compute node, consider if table size is less than 2 GB, query predicates are simple (equality/inequality).&amp;nbsp;Minimize rebuild of the replicated tables by running all batch loads at one go, followed by a select query&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="750" y="-20" width="450" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oh8YpCXCoVaXzwQZIsei-2" value="distributes table rows evenly across all distributions" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="750" y="-110" width="450" height="30" as="geometry" />
+        <mxCell id="oh8YpCXCoVaXzwQZIsei-2" value="distributes table rows evenly across all distributions. Consider using this if there is no good candidate column for hash distribution" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-140" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oh8YpCXCoVaXzwQZIsei-3" value="uses a hash function. Consider when&amp;nbsp;table size on disk is more than 2 GB or the table has frequent insert, update, and delete operations. The distribution column should be chosen such that data skew does not occur and data movement is minimized" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="750" y="-70" width="450" height="40" as="geometry" />

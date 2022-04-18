@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T04:33:29.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="CRfSJHFX8QiICjhEkBCC" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-18T04:35:22.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="IuSTNeyajUKJnHBQCQ2l" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="1775" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -466,7 +466,7 @@
         <mxCell id="CsOU_F-gwTPtZKWoKPze-5" value="security&lt;br&gt;predicates" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="CsOU_F-gwTPtZKWoKPze-3" target="CsOU_F-gwTPtZKWoKPze-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CsOU_F-gwTPtZKWoKPze-3" value="Create SECURITY POLICY" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="CsOU_F-gwTPtZKWoKPze-3" value="Create SECURITY POLICY. Specify Security predicates (FILTER, BLOCK)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="640" y="330" width="410" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CsOU_F-gwTPtZKWoKPze-4" value="&lt;div&gt;Filter predicates silently filter the rows available to read operations (SELECT, UPDATE, and DELETE).&lt;/div&gt;&lt;div&gt;Block predicates explicitly block write operations (AFTER INSERT, AFTER UPDATE, BEFORE UPDATE, BEFORE DELETE) that violate the predicate.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">

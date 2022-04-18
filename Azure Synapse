@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T12:55:49.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="h-tmm7mZQEGJQLQGS5Nq" version="17.4.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-18T13:00:07.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="TUq1uXr2iAIADb8ZGFfo" version="17.4.5" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -511,12 +511,22 @@
         <mxCell id="niIebIS2WwcUlRbS4Jt1-1" value="Encryption" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="375" y="145" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1dxkds6O1Ree8x1CkTZ6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Tahoma;fontSize=12;" edge="1" parent="1" source="niIebIS2WwcUlRbS4Jt1-3" target="1dxkds6O1Ree8x1CkTZ6-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1dxkds6O1Ree8x1CkTZ6-3" value="Authentication" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Tahoma;fontSize=12;" edge="1" parent="1" source="niIebIS2WwcUlRbS4Jt1-3" target="1dxkds6O1Ree8x1CkTZ6-2">
+          <mxGeometry x="-0.3617" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="440" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_4OUXIl1E2LQjtwOWAhi-2" value="built-in Synapse Roles" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Tahoma;fontSize=12;" edge="1" parent="1" source="niIebIS2WwcUlRbS4Jt1-3" target="_4OUXIl1E2LQjtwOWAhi-1">
           <mxGeometry x="-0.1321" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_4OUXIl1E2LQjtwOWAhi-3" value="Azure roles" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="niIebIS2WwcUlRbS4Jt1-3" target="_4OUXIl1E2LQjtwOWAhi-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="niIebIS2WwcUlRbS4Jt1-3" value="Access Control" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;fontSize=12;" parent="1" vertex="1">
@@ -535,10 +545,16 @@
           <mxGeometry x="465" width="410" height="75" as="geometry" />
         </mxCell>
         <mxCell id="1dxkds6O1Ree8x1CkTZ6-2" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Azure Active Directory pass-through&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Managed Identity&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Shared access signature (SAS)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="220" width="250" height="60" as="geometry" />
+          <mxGeometry x="290" y="410" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_4OUXIl1E2LQjtwOWAhi-1" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Synapse Administrator - full synapse access, can assign RBAC roles,&amp;nbsp;&lt;/span&gt;When a new workspace is created, the creator is automatically given the Synapse Administrator role at workspace scope.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Synapse Apache Spark Administrator&lt;/li&gt;&lt;li&gt;Synapse SQL Administrator&amp;nbsp;&lt;/li&gt;&lt;li&gt;Synapse Contributor&lt;/li&gt;&lt;li&gt;Synapse Artifact Publisher&lt;/li&gt;&lt;li&gt;Synapse Artifact User&lt;/li&gt;&lt;li&gt;Synapse Compute Operator&lt;/li&gt;&lt;li&gt;Synapse Credential User&lt;/li&gt;&lt;li&gt;Synapse Linked Data Manager&lt;/li&gt;&lt;li&gt;Synapse User&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-310" y="310" width="330" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="_4OUXIl1E2LQjtwOWAhi-4" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Azure Active Directory pass-through&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Managed Identity&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Shared access signature (SAS)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="250" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_4OUXIl1E2LQjtwOWAhi-5" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Azure Active Directory pass-through&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Managed Identity&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Shared access signature (SAS)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="85" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

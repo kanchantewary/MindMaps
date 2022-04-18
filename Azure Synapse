@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T05:24:16.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="Xz_62leqe6XWy1fWP008" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-18T05:25:51.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="Gz0D_-AU6Fkvh8MVxx9i" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="1775" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -457,7 +457,7 @@
         <mxCell id="niIebIS2WwcUlRbS4Jt1-3" value="" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CsOU_F-gwTPtZKWoKPze-1" value="Create a data masking policy&lt;br&gt;Users with administrator privileges are always excluded from masking, and see the original data without any mask&lt;br&gt;Masking functions - default, credit card, email, random number, custom text&lt;br&gt;Grant different UNMASK permissions to users" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="CsOU_F-gwTPtZKWoKPze-1" value="Create a data masking policy&lt;br&gt;Users with administrator privileges are always excluded from masking, and see the original data without any mask&lt;br&gt;Masking functions - default, credit card, email, random number, custom text&lt;br&gt;Grant column level UNMASK permissions to users" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="730" y="175" width="410" height="75" as="geometry" />
         </mxCell>
         <mxCell id="CsOU_F-gwTPtZKWoKPze-2" value="implement using SQL GRANT statement&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">

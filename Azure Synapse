@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T09:27:08.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="MYzB0nlLUB15vrCiHpBL" version="17.4.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-18T12:42:16.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="D1RF7frD9kBD2ymkXV_S" version="17.4.5" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
-    <mxGraphModel dx="1775" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -511,7 +511,10 @@
         <mxCell id="niIebIS2WwcUlRbS4Jt1-1" value="Encryption" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="375" y="145" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1dxkds6O1Ree8x1CkTZ6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="niIebIS2WwcUlRbS4Jt1-3" target="1dxkds6O1Ree8x1CkTZ6-2">
+        <mxCell id="1dxkds6O1Ree8x1CkTZ6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Tahoma;" edge="1" parent="1" source="niIebIS2WwcUlRbS4Jt1-3" target="1dxkds6O1Ree8x1CkTZ6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_4OUXIl1E2LQjtwOWAhi-2" value="built-in Synapse Roles" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Tahoma;" edge="1" parent="1" source="niIebIS2WwcUlRbS4Jt1-3" target="_4OUXIl1E2LQjtwOWAhi-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="niIebIS2WwcUlRbS4Jt1-3" value="Access Control" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;" parent="1" vertex="1">
@@ -529,8 +532,11 @@
         <mxCell id="CsOU_F-gwTPtZKWoKPze-6" value="Transparent Data Encryption&amp;nbsp;performs real-time I/O encryption and decryption of the data at the page level&lt;br&gt;Customer-managed TDE or Bring Your Own Key (BYOK)&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="465" width="410" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="1dxkds6O1Ree8x1CkTZ6-2" value="&lt;ul&gt;&lt;li&gt;Azure Active Directory pass-through&lt;/li&gt;&lt;li&gt;Managed Identity&lt;/li&gt;&lt;li&gt;Shared access signature (SAS)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1dxkds6O1Ree8x1CkTZ6-2" value="&lt;ul&gt;&lt;li&gt;Azure Active Directory pass-through&lt;/li&gt;&lt;li&gt;Managed Identity&lt;/li&gt;&lt;li&gt;Shared access signature (SAS)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="-180" y="220" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_4OUXIl1E2LQjtwOWAhi-1" value="&lt;ul&gt;&lt;li&gt;Azure Active Directory pass-through&lt;/li&gt;&lt;li&gt;Managed Identity&lt;/li&gt;&lt;li&gt;Shared access signature (SAS)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="340" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

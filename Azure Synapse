@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T12:42:26.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="DWZDPzUrugVwpQwAqVyb" version="17.4.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-18T12:45:17.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="kF89y3Okf5WF726sNf6X" version="17.4.5" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -515,7 +515,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_4OUXIl1E2LQjtwOWAhi-2" value="built-in Synapse Roles" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Tahoma;fontSize=12;" edge="1" parent="1" source="niIebIS2WwcUlRbS4Jt1-3" target="_4OUXIl1E2LQjtwOWAhi-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.3043" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="niIebIS2WwcUlRbS4Jt1-3" value="Access Control" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="150" y="265" width="90" height="30" as="geometry" />
@@ -535,8 +537,8 @@
         <mxCell id="1dxkds6O1Ree8x1CkTZ6-2" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Azure Active Directory pass-through&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Managed Identity&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Shared access signature (SAS)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-180" y="220" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_4OUXIl1E2LQjtwOWAhi-1" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Azure Active Directory pass-through&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Managed Identity&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Shared access signature (SAS)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="340" width="250" height="30" as="geometry" />
+        <mxCell id="_4OUXIl1E2LQjtwOWAhi-1" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Synapse Administrator&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Synapse Apache Spark Administrator&lt;/li&gt;&lt;li&gt;Synapse SQL Administrator&amp;nbsp;&lt;/li&gt;&lt;li&gt;Synapse Contributor&lt;/li&gt;&lt;li&gt;Synapse Artifact Publisher&lt;/li&gt;&lt;li&gt;Synapse Artifact User&lt;/li&gt;&lt;li&gt;Synapse Compute Operator&lt;/li&gt;&lt;li&gt;Synapse Credential User&lt;/li&gt;&lt;li&gt;Synapse Linked Data Manager&lt;/li&gt;&lt;li&gt;Synapse User&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="340" width="250" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

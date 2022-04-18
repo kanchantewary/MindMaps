@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T09:11:36.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="QiP1fw1DukC6fZug4biL" version="17.4.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-18T09:27:08.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="MYzB0nlLUB15vrCiHpBL" version="17.4.5" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
-    <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1775" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,11 +149,23 @@
         <mxCell id="kg83pZNGj0R1NeAg6zGW-8" value="schedule trigger&lt;br&gt;tumbling window&lt;br&gt;event trigger - storage or custom events" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="580" y="-47" width="240" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="a4Xdw2Ryr5oLoppxTF90-2" value="Pause/resume computing nodes on-demand from Portal/using REST API or Powershell" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="690" y="430" width="210" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="a4Xdw2Ryr5oLoppxTF90-3" value="Pause/resume computing nodes on-demand from Portal/using REST API or Powershell" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="460" y="430" width="210" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="a4Xdw2Ryr5oLoppxTF90-4" value="use Kusto Query Language (KQL)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="230" y="430" width="210" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="a4Xdw2Ryr5oLoppxTF90-5" value="Pause/resume computing nodes on-demand from Portal/using REST API or Powershell" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="10" y="430" width="210" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="4POL2bRA1I5lXoCUZLEh" name="architecture">
-    <mxGraphModel dx="1775" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1775" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

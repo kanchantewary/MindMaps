@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T08:14:04.381Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="7loCOgFDRMym9ANipmSm" version="17.4.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-18T08:14:11.331Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="syRC3BywvYSj1IDhUdg1" version="17.4.5" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -426,7 +426,7 @@
           <mxGeometry x="-500" y="330" width="400" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2vttrCONGn76IWba-l0i-9" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;run query over data lake (parquet, delta lake, delimited text, csv, json&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;create EXTERNAL DATA SOURCE -&amp;nbsp;&lt;/span&gt;use in the OPENROWSET function or as part of the external table definition&lt;/li&gt;&lt;li&gt;create EXTERNAL FILE FORMAT&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="450" width="370" height="90" as="geometry" />
+          <mxGeometry x="-520" y="470" width="370" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2vttrCONGn76IWba-l0i-10" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;MPP architecture&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Control Node&lt;/li&gt;&lt;li&gt;Compute nodes (1 to 60)&lt;/li&gt;&lt;li&gt;DMS coordinates data movement across compute nodes&lt;/li&gt;&lt;li&gt;size determined in DWU or data warehouse units&lt;/li&gt;&lt;li&gt;supports table distribution, partitioning and index&lt;/li&gt;&lt;li&gt;scale, pause and resume&lt;/li&gt;&lt;li&gt;Azure Functions to manage compute resources automatically (DWScaleDownTrigger and DWScaleUpTrigger)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-520" y="603.75" width="410" height="150" as="geometry" />

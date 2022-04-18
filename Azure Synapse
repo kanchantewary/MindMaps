@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T04:29:08.640Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="xNoTzPZv540qz6YkjxGK" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-18T04:29:28.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="1HtnxLWRGbVWSM0ot68B" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="1775" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -460,7 +460,7 @@
         <mxCell id="CsOU_F-gwTPtZKWoKPze-1" value="Additional packages can be added at the Spark pool level or session level&lt;br&gt;Specify pool-level libraries using a requirements.txt or an environment.yml" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="640" y="170" width="410" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CsOU_F-gwTPtZKWoKPze-2" value="Additional packages can be added at the Spark pool level or session level&lt;br&gt;Specify pool-level libraries using a requirements.txt or an environment.yml" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="CsOU_F-gwTPtZKWoKPze-2" value="implement using SQL GRANT statement&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="640" y="245" width="410" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CsOU_F-gwTPtZKWoKPze-3" value="Additional packages can be added at the Spark pool level or session level&lt;br&gt;Specify pool-level libraries using a requirements.txt or an environment.yml" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">

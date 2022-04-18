@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T04:01:56.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="EkwIBbPgix-bk_xzZS2q" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-18T04:02:17.047Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="GbN_WEBcli5lty2tHz9R" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="1775" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -320,7 +320,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-1" value="Architecture" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-1" value="Architecture" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="200" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kf__2PTlYVlAZcN-1VO7-3" value="scope is a user session, global temporary tables are not available" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">

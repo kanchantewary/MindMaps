@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T13:03:37.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="nc0kjND4ENirFD0l3Pmx" version="17.4.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-18T13:04:00.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="58gJKfSf21XBDLuAiRt-" version="17.4.5" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -571,7 +571,7 @@
           <mxGeometry x="290" y="410" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_4OUXIl1E2LQjtwOWAhi-1" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Synapse Administrator - full synapse access, can assign RBAC roles,&amp;nbsp;&lt;/span&gt;When a new workspace is created, the creator is automatically given the Synapse Administrator role at workspace scope.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Synapse Apache Spark Administrator&lt;/li&gt;&lt;li&gt;Synapse SQL Administrator&amp;nbsp;&lt;/li&gt;&lt;li&gt;Synapse Contributor&lt;/li&gt;&lt;li&gt;Synapse Artifact Publisher&lt;/li&gt;&lt;li&gt;Synapse Artifact User&lt;/li&gt;&lt;li&gt;Synapse Compute Operator&lt;/li&gt;&lt;li&gt;Synapse Credential User&lt;/li&gt;&lt;li&gt;Synapse Linked Data Manager&lt;/li&gt;&lt;li&gt;Synapse User&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-510" y="172.5" width="415" height="215" as="geometry" />
+          <mxGeometry x="-510" y="172.5" width="370" height="215" as="geometry" />
         </mxCell>
         <mxCell id="_4OUXIl1E2LQjtwOWAhi-4" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Azure Active Directory pass-through&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Managed Identity&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Shared access signature (SAS)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-380" y="100" width="250" height="60" as="geometry" />

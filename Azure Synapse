@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T04:04:02.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="54NV9UCY2ueUe1TU2kQu" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-18T04:04:20.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="eZomZlf4KSjCsk2vYPM1" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="1775" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -396,7 +396,7 @@
           <mxGeometry x="-280" y="-60" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2vttrCONGn76IWba-l0i-9" value="&lt;span&gt;run query over data lake (parquet, delta lake, delimited text, csv, json&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="110" width="300" height="30" as="geometry" />
+          <mxGeometry x="-280" y="110" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2vttrCONGn76IWba-l0i-10" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;MPP architecture&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Control Node&lt;/li&gt;&lt;li&gt;Compute nodes (1 to 60)&lt;/li&gt;&lt;li&gt;DMS coordinates data movement across compute nodes&lt;/li&gt;&lt;li&gt;size determined in DWU or data warehouse units&lt;/li&gt;&lt;li&gt;supports table distribution, partitioning and index&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-310" y="213.75" width="340" height="150" as="geometry" />

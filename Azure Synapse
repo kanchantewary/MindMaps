@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T13:05:49.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="rz2lzpJwPq8tGWqX6kjB" version="17.4.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-18T16:46:29.358Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="MGWop6TM-HAGS0PYTAWe" version="17.4.5" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -561,6 +561,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_4OUXIl1E2LQjtwOWAhi-12" value="Azure AD authentication" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="niIebIS2WwcUlRbS4Jt1-3" target="_4OUXIl1E2LQjtwOWAhi-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="niIebIS2WwcUlRbS4Jt1-3" value="Access Control" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="150" y="265" width="90" height="30" as="geometry" />
         </mxCell>
@@ -593,6 +596,9 @@
         </mxCell>
         <mxCell id="_4OUXIl1E2LQjtwOWAhi-9" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Azure Active Directory pass-through&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Managed Identity&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Shared access signature (SAS)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-370" y="490" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_4OUXIl1E2LQjtwOWAhi-11" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Azure Active Directory pass-through&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Managed Identity&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Shared access signature (SAS)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="70" y="40" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

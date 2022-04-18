@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T04:13:09.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="tQo_btwIKmAZ22Rr2Lse" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-18T04:17:19.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="1pgVMeHyGSt7I-rprl-G" version="17.4.4" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="1775" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -406,8 +406,8 @@
         <mxCell id="2vttrCONGn76IWba-l0i-10" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;MPP architecture&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Control Node&lt;/li&gt;&lt;li&gt;Compute nodes (1 to 60)&lt;/li&gt;&lt;li&gt;DMS coordinates data movement across compute nodes&lt;/li&gt;&lt;li&gt;size determined in DWU or data warehouse units&lt;/li&gt;&lt;li&gt;supports table distribution, partitioning and index&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-380" y="213.75" width="410" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="2vttrCONGn76IWba-l0i-11" value="Additional packages can be added at the Spark pool level or session level." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="-210" width="310" height="100" as="geometry" />
+        <mxCell id="2vttrCONGn76IWba-l0i-11" value="Additional packages can be added at the Spark pool level or session level&lt;br&gt;Specify pool-level libraries using a requirements.txt or an environment.yml" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="-210" width="290" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

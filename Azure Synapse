@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T18:10:55.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="8WsKVQxk63XA5UVV4yl_" version="17.4.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-19T18:12:23.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="F095LIUoHqA0RFiAGJO3" version="17.4.5" type="github" pages="5">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -746,10 +746,16 @@
         <mxCell id="2Mpl93LAMB2Ez1nJIJuF-4" value="GROUP_NAME&#xa;MIN_PERCENTAGE_RESOURCE&#xa;REQUEST_MIN_RESOURCE_GRANT_PERCENT&#xa;CAP_PERCENTAGE_RESOURCE&#xa;REQUEST_MAX_RESOURCE_GRANT_PERCENT&#xa;QUERY_EXECUTION_TIMEOUT_SEC&#xa;IMPORTANCE" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Tahoma;" vertex="1" parent="2Mpl93LAMB2Ez1nJIJuF-3">
           <mxGeometry y="30" width="260" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="2Mpl93LAMB2Ez1nJIJuF-5" value="user" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="210" y="20" width="170" height="170" as="geometry" />
+        <mxCell id="2Mpl93LAMB2Ez1nJIJuF-5" value="user_resource_class" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="530" y="320" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="2Mpl93LAMB2Ez1nJIJuF-6" value="USER&#xa;RESOURCE_CLASS" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Tahoma;" vertex="1" parent="2Mpl93LAMB2Ez1nJIJuF-5">
+          <mxGeometry y="30" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2Mpl93LAMB2Ez1nJIJuF-7" value="user" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="220" y="30" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="2Mpl93LAMB2Ez1nJIJuF-8" value="USER" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Tahoma;" vertex="1" parent="2Mpl93LAMB2Ez1nJIJuF-7">
           <mxGeometry y="30" width="170" height="140" as="geometry" />
         </mxCell>
       </root>

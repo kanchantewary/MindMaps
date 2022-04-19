@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T05:44:19.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="x1YnscNsVK7fCaYfOW82" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-19T05:46:54.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="DCx7y5WPomixpGhJW8__" version="17.4.5" type="github" pages="2">
   <diagram id="cMVwqc0Tr7sbWXW_aKbv" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -98,6 +98,30 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="coXN854JZgW27PyZmuXB-4" value="Configuration data" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;" edge="1" parent="1" source="ddZozHZ78p_GJubLOoie-1" target="coXN854JZgW27PyZmuXB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ddZozHZ78p_GJubLOoie-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=11;image=img/lib/azure2/databases/SQL_Database.svg;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="301" y="110" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="coXN854JZgW27PyZmuXB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;" edge="1" parent="1" source="coXN854JZgW27PyZmuXB-2" target="coXN854JZgW27PyZmuXB-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="280" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coXN854JZgW27PyZmuXB-2" value="Workflow Orchestration" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="coXN854JZgW27PyZmuXB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;" edge="1" parent="1" source="coXN854JZgW27PyZmuXB-3" target="coXN854JZgW27PyZmuXB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="coXN854JZgW27PyZmuXB-3" value="Get configurations" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="265" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="coXN854JZgW27PyZmuXB-5" value="Generic table to table copy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

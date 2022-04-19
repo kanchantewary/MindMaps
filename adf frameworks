@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T05:58:24.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="bes4TP-lDSJ_OxaWRjT9" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-19T05:59:28.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="K9WLntxE32WscA0YiW8u" version="17.4.5" type="github" pages="2">
   <diagram id="cMVwqc0Tr7sbWXW_aKbv" name="Page-1">
     <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
         <mxCell id="coXN854JZgW27PyZmuXB-5" value="Generic table to table copy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="440" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="coXN854JZgW27PyZmuXB-7" value="&lt;h1&gt;Configurations&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;database connections and table details&lt;/li&gt;&lt;li&gt;Load method&lt;/li&gt;&lt;li&gt;custom selection queries&lt;/li&gt;&lt;li&gt;post&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="coXN854JZgW27PyZmuXB-7" value="&lt;h1&gt;Configurations&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;database connections and table details&lt;/li&gt;&lt;li&gt;Load method&lt;/li&gt;&lt;li&gt;custom selection queries&lt;/li&gt;&lt;li&gt;custom predicates to identify delta&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="600" y="160" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="coXN854JZgW27PyZmuXB-9" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=11;image=img/lib/azure2/databases/SQL_Database.svg;fontFamily=Tahoma;" vertex="1" parent="1">

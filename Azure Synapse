@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T09:38:15.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="glSFQ5xMLIiXTaXLwVLz" version="17.4.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-19T09:44:29.967Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="p3os5rXtEUO7dWst1kQE" version="17.4.5" type="github" pages="4">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -165,7 +165,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4POL2bRA1I5lXoCUZLEh" name="architecture">
-    <mxGraphModel dx="1467" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1938" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -298,8 +298,7 @@
         <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;fontSize=12;" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="OAi8sVN0F1Je2OMclpJq-5" edge="1">
           <mxGeometry x="0.2143" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="600" />
-              <mxPoint x="220" y="410" />
+              <mxPoint x="415" y="600" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -341,7 +340,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2vttrCONGn76IWba-l0i-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="2vttrCONGn76IWba-l0i-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="840" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2vttrCONGn76IWba-l0i-7" value="Apache Spark Pool" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="2vttrCONGn76IWba-l0i-8" edge="1">
           <mxGeometry x="0.4444" relative="1" as="geometry">
@@ -367,6 +370,9 @@
               <mxPoint x="20" y="600" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UJgBSV9GayvzcyTwY1qd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="R-l2xzjWQ7UOF9bRT0Ne-1" target="UJgBSV9GayvzcyTwY1qd-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R-l2xzjWQ7UOF9bRT0Ne-1" value="Architecture" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="60" y="570" width="120" height="60" as="geometry" />
@@ -438,7 +444,7 @@
           <mxGeometry x="410" y="618.75" width="240" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="2vttrCONGn76IWba-l0i-5" value="shared metadata" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="820" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2vttrCONGn76IWba-l0i-12" value="package&lt;br&gt;management" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;" parent="1" source="2vttrCONGn76IWba-l0i-8" target="2vttrCONGn76IWba-l0i-11" edge="1">
           <mxGeometry x="-0.4118" relative="1" as="geometry">
@@ -484,6 +490,15 @@
         </mxCell>
         <mxCell id="UJgBSV9GayvzcyTwY1qd-3" value="&lt;span&gt;Enable analytical store in Cosmos DB, transactional and analytical data stores are kept in sync automatically. Synapse can perform complex queries on the analytical store&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-270" y="910" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UJgBSV9GayvzcyTwY1qd-8" value="Power BI" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UJgBSV9GayvzcyTwY1qd-5" target="UJgBSV9GayvzcyTwY1qd-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UJgBSV9GayvzcyTwY1qd-5" value="Integrations" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="475" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UJgBSV9GayvzcyTwY1qd-7" value="Use CTAS to change distribution of a table (create a new table and then rename to original)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="190" y="340" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

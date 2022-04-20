@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T12:53:32.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="inDLbYyPcWooMKfUWxel" version="17.4.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-20T13:03:45.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="wjCyimsoA7Guq4fkVaWI" version="17.4.5" type="github" pages="6">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -840,6 +840,27 @@
         </mxCell>
         <mxCell id="QjAboQkH93xQAEFn5X2l-6" value="Execute in target synapse instance" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="610" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QjAboQkH93xQAEFn5X2l-14" value="detect &lt;br&gt;changes" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QjAboQkH93xQAEFn5X2l-8" target="QjAboQkH93xQAEFn5X2l-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjAboQkH93xQAEFn5X2l-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-128.png;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="200" y="410" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QjAboQkH93xQAEFn5X2l-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QjAboQkH93xQAEFn5X2l-9" target="QjAboQkH93xQAEFn5X2l-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjAboQkH93xQAEFn5X2l-9" value="JSON configuration file" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QjAboQkH93xQAEFn5X2l-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QjAboQkH93xQAEFn5X2l-12" target="QjAboQkH93xQAEFn5X2l-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjAboQkH93xQAEFn5X2l-12" value="CI/CD process" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="355" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QjAboQkH93xQAEFn5X2l-13" value="Execute in target synapse instance" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="525" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

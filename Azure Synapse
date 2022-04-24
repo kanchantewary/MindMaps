@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T08:41:23.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="kRpc-CNFuAz_34J0mtWC" version="17.4.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-24T17:05:26.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="wA1oC2rveTH0agMor99L" version="17.4.5" type="github" pages="7">
   <diagram id="fKUPCtimrh3PpcJC8RuL" name="Page-1">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -879,6 +879,32 @@
         </mxCell>
         <mxCell id="QjAboQkH93xQAEFn5X2l-13" value="Execute in target synapse instance" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="525" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HShGxdwITnVnPy-e0DPF" name="Page-7">
+    <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sxTSHhObURBp7ugyfGXg-1" value="City" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="160" y="50" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sxTSHhObURBp7ugyfGXg-2" value="City name&#xa;Country" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Tahoma;" vertex="1" parent="sxTSHhObURBp7ugyfGXg-1">
+          <mxGeometry y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sxTSHhObURBp7ugyfGXg-3" value="City Translated" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sxTSHhObURBp7ugyfGXg-4" value="City&#xa;Country&#xa;Language Code&#xa;Default Flag" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Tahoma;" vertex="1" parent="sxTSHhObURBp7ugyfGXg-3">
+          <mxGeometry y="30" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sxTSHhObURBp7ugyfGXg-5" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=1;fontFamily=Tahoma;" edge="1" parent="1" source="sxTSHhObURBp7ugyfGXg-2" target="sxTSHhObURBp7ugyfGXg-4">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="370" y="200" as="sourcePoint" />
+            <mxPoint x="470" y="100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

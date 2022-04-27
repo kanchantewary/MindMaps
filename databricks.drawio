@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T07:11:33.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Qfhfz2Kjcmondbmw5bue" version="17.4.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-27T07:44:55.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="pCeW7vlMFDfCqFOh-4H1" version="17.4.6" type="github" pages="5">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="databricks">
     <mxGraphModel dx="2625" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -704,19 +704,22 @@
           <mxGeometry x="240" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2Em2GuWBp2oYH70bxulZ-9" value="Azure Keyvault" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="80" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2Em2GuWBp2oYH70bxulZ-10" value="Azure Datalake" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2Em2GuWBp2oYH70bxulZ-11" value="Azure AD and RBAC" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="80" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2Em2GuWBp2oYH70bxulZ-12" value="Notebooks" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="230" y="300" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2Em2GuWBp2oYH70bxulZ-13" value="Libraries" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="320" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-19" value="Terraform/Azure Resource Manager Templates" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

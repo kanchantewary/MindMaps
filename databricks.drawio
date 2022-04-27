@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T07:53:53.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="MC4a-bPn5MYraq_Zq0Gi" version="17.4.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-27T07:58:44.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="PDe7dEOXj065IG6kBsfj" version="17.4.6" type="github" pages="5">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="databricks">
     <mxGraphModel dx="2625" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -655,7 +655,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F6h1WTd4n44YtOs5u_6u" name="Page-5">
-    <mxGraphModel dx="925" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -729,6 +729,30 @@
         </mxCell>
         <mxCell id="2Em2GuWBp2oYH70bxulZ-22" value="Azure Synapse/Azure SQL" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="780" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-23" value="Security and Data Governance" style="swimlane;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="70" y="560" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-24" value="Data Ingestion" style="swimlane;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="320" y="560" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-25" value="Transformation and Load" style="swimlane;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="570" y="560" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-26" value="Data Storage" style="swimlane;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="320" y="760" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-27" value="Visualization" style="swimlane;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="820" y="560" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-28" value="DevOps" style="swimlane;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="70" y="760" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-29" value="Data Observability" style="swimlane;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="820" y="760" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-30" value="Automation" style="swimlane;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="570" y="760" width="250" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T06:29:17.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="XSgjx__YKG5WsoYe9wGz" version="17.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-27T06:33:13.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="AKef65UExhWSBobQVwpJ" version="17.4.6" type="github" pages="5">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="databricks">
-    <mxGraphModel dx="2581" dy="1610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2625" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,7 +76,7 @@
         <mxCell id="V43_jzV2RidBm6Wxg-L6-12" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;AWS, GCP, Azure&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="160" y="-242.5" width="97.5" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="XoX_tpSuYqg6GZoFMZQT-2" value="&lt;p style=&quot;font-size: 12px&quot;&gt;IMMUTA&lt;/p&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=32;fontColor=#0000FF;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-17" target="XoX_tpSuYqg6GZoFMZQT-1">
+        <mxCell id="XoX_tpSuYqg6GZoFMZQT-2" value="&lt;p style=&quot;font-size: 12px&quot;&gt;IMMUTA&lt;/p&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=32;fontColor=#0000FF;endArrow=none;endFill=0;fontStyle=1" parent="1" source="V43_jzV2RidBm6Wxg-L6-17" target="XoX_tpSuYqg6GZoFMZQT-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-100" y="220" />
@@ -250,7 +250,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vmOzD1zISduSIHuOrPGB-4" value="automation" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;fontStyle=1;fontSize=12;" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-48" target="vmOzD1zISduSIHuOrPGB-3">
+        <mxCell id="vmOzD1zISduSIHuOrPGB-4" value="automation" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;fontStyle=1;fontSize=12;" parent="1" source="V43_jzV2RidBm6Wxg-L6-48" target="vmOzD1zISduSIHuOrPGB-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V43_jzV2RidBm6Wxg-L6-48" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;workflow management with Azure Data Factory or Apache Airflow&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;workspace organization (e.g. dev, stage, prod, by Line of Business or cross-LoB data products)&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;enable SSO, Audit Logs, and Unity Catalog&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Apply policies and controls at both the storage level and at the metastore, ACLs, secure sharing&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;DR and backup (delta lake, workspace objects, external databases and configurations). use git repo&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Automation - use Terraform or similar Infra-as-code tools&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;user management&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
@@ -259,7 +259,7 @@
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-21" value="Optimizations" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#3333FF;endArrow=none;endFill=0;fontStyle=1" parent="1" source="V43_jzV2RidBm6Wxg-L6-51" target="Ct0M-siwjqjeuyYmhKqq-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CKyAsqJQP7aCnB3D_jAG-2" value="Limitations" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#0000FF;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="V43_jzV2RidBm6Wxg-L6-51" target="CKyAsqJQP7aCnB3D_jAG-1">
+        <mxCell id="CKyAsqJQP7aCnB3D_jAG-2" value="Limitations" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#0000FF;endArrow=none;endFill=0;fontStyle=1" parent="1" source="V43_jzV2RidBm6Wxg-L6-51" target="CKyAsqJQP7aCnB3D_jAG-1" edge="1">
           <mxGeometry x="-0.027" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1120" y="-10" />
@@ -283,7 +283,7 @@
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-5" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Define Pipelines using Databricks notebook&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Write in Python or SQL&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Define DQ constraints&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Define CDC rules on live tables&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Define incremental updates from external data sources&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;create a job linking the pipeline and schedule further e.g. using Apache Airflow&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="640" y="570" width="380" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="vmOzD1zISduSIHuOrPGB-14" value="secrets scope" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#0000FF;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="Ct0M-siwjqjeuyYmhKqq-8" target="vmOzD1zISduSIHuOrPGB-13">
+        <mxCell id="vmOzD1zISduSIHuOrPGB-14" value="secrets scope" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#0000FF;endArrow=none;endFill=0;fontStyle=1" parent="1" source="Ct0M-siwjqjeuyYmhKqq-8" target="vmOzD1zISduSIHuOrPGB-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-8" value="&lt;p style=&quot;font-size: 12px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 12px;&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Data access control - Single sign-on, using Azure AD, RBAC on workspace resources, Credential passthrough&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Perimeter Security - Customer managed network, Vnet Injection, secure cluster connectivity (outbound only connectivity from clusters, no open inbound ports or public IP address), Private workspaces using private link&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Encryption - use customer managed keys for workspace objects and DBFS storage, rotate keys seamlessly&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Auditability - audit logs and SQL query history&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Regulatory compliance - certifications at platform level e.g. HIPAA, PCI-DSS, ISO, HITRUST, available as part of Azure Govt Cloud&lt;/li&gt;&lt;/ul&gt;&lt;p style=&quot;font-size: 12px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 12px;&quot;&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
@@ -333,17 +333,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vmOzD1zISduSIHuOrPGB-10" value="Utilities" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="Ct0M-siwjqjeuyYmhKqq-28" target="vmOzD1zISduSIHuOrPGB-9">
+        <mxCell id="vmOzD1zISduSIHuOrPGB-10" value="Utilities" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;fontStyle=1" parent="1" source="Ct0M-siwjqjeuyYmhKqq-28" target="vmOzD1zISduSIHuOrPGB-9" edge="1">
           <mxGeometry x="0.2446" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vmOzD1zISduSIHuOrPGB-12" value="Database" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="Ct0M-siwjqjeuyYmhKqq-28" target="vmOzD1zISduSIHuOrPGB-11">
+        <mxCell id="vmOzD1zISduSIHuOrPGB-12" value="Database" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;fontStyle=1" parent="1" source="Ct0M-siwjqjeuyYmhKqq-28" target="vmOzD1zISduSIHuOrPGB-11" edge="1">
           <mxGeometry x="0.7086" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gVq9OS-MDNWrs_oQ_ZD8-2" value="metastore" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#0000FF;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="Ct0M-siwjqjeuyYmhKqq-28" target="gVq9OS-MDNWrs_oQ_ZD8-1">
+        <mxCell id="gVq9OS-MDNWrs_oQ_ZD8-2" value="metastore" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#0000FF;endArrow=none;endFill=0;fontStyle=1" parent="1" source="Ct0M-siwjqjeuyYmhKqq-28" target="gVq9OS-MDNWrs_oQ_ZD8-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-28" value="DataBricks &lt;br style=&quot;font-size: 12px;&quot;&gt;Architecture" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Tahoma;fontSize=12;fontStyle=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
@@ -352,13 +352,13 @@
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-30" value="&lt;p style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-weight: normal; font-size: 12px;&quot;&gt;Databricks Runtime&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-weight: normal; font-size: 12px;&quot;&gt;Databricks Runtime ML&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-weight: normal; font-size: 12px;&quot;&gt;Databricks Runtime Genomics&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-weight: normal; font-size: 12px;&quot;&gt;Databricks Runtime Light&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;labelBackgroundColor=none;fontStyle=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="40" y="-632.5" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vmOzD1zISduSIHuOrPGB-7" value="Cluster Pool" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="Ct0M-siwjqjeuyYmhKqq-34" target="vmOzD1zISduSIHuOrPGB-6">
+        <mxCell id="vmOzD1zISduSIHuOrPGB-7" value="Cluster Pool" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;endArrow=none;endFill=0;fontStyle=1" parent="1" source="Ct0M-siwjqjeuyYmhKqq-34" target="vmOzD1zISduSIHuOrPGB-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-34" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Can be persistent (created manually) or transient, which are created by jobs and terminated at the end of successful run. A cluster can be single or multi-user&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Supports Auto-termination and auto-scaling&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Cluster VMs can be 5 types: general purpose, compute/storage/memory optimized or GPU-accelerated&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;We can specify cluster mode, cluster pool, databricks runtime, worker and driver VM type, tags and init scripts, enable logging and store logs in DBFS storage, while spinning up the cluster&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Operational dashboards are available through Ganglia UI&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-850" y="-370" width="392.75" height="176.25" as="geometry" />
         </mxCell>
-        <mxCell id="vmOzD1zISduSIHuOrPGB-17" value="mount" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="Ct0M-siwjqjeuyYmhKqq-37" target="vmOzD1zISduSIHuOrPGB-16">
+        <mxCell id="vmOzD1zISduSIHuOrPGB-17" value="mount" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;fontStyle=1" parent="1" source="Ct0M-siwjqjeuyYmhKqq-37" target="vmOzD1zISduSIHuOrPGB-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ct0M-siwjqjeuyYmhKqq-37" value="&lt;p style=&quot;font-size: 12px;&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Databricks file system, abstraction on top of cloud object storage, mount storage objects and interact using directory and file semantics instead of storage URLs&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;DBFS root data is not recommended to store user data, if the databricks service is dropped, this data is lost&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;FileStore&lt;/b&gt; is a folder, can be used to store data&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Query results are stored in dbfs&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Mount&lt;/b&gt; Azure storage to DBFS (Service principal/access key/SAS token)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;fontSize=12;" parent="1" vertex="1">
@@ -370,7 +370,7 @@
         <mxCell id="a9Hsd4KwDBXN5o0fySm8-1" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;Cost Control and chargeback&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="30" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3yI5W3MGBE1zlL3Pgvqv-3" value="pricing tier" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontStyle=1;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="a9Hsd4KwDBXN5o0fySm8-2" target="3yI5W3MGBE1zlL3Pgvqv-2">
+        <mxCell id="3yI5W3MGBE1zlL3Pgvqv-3" value="pricing tier" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontStyle=1;endArrow=none;endFill=0;fontSize=12;" parent="1" source="a9Hsd4KwDBXN5o0fySm8-2" target="3yI5W3MGBE1zlL3Pgvqv-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-440" y="55" />
@@ -381,41 +381,41 @@
         <mxCell id="a9Hsd4KwDBXN5o0fySm8-2" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Charged as Databricks Unit or &lt;b style=&quot;font-size: 12px;&quot;&gt;DBU. &lt;/b&gt;varies based on the cloud provider and geography.&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Committed user discounts&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Admins create pools of VMs&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Admins create policies and assign budget at the pool level&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;users create clusters using the assigned policies&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Admins monitor usage across platform&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="-425" y="-40" width="335" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="3yI5W3MGBE1zlL3Pgvqv-2" value="standard and premium (comes with RBAC)" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="3yI5W3MGBE1zlL3Pgvqv-2" value="standard and premium (comes with RBAC)" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-780" y="30" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vmOzD1zISduSIHuOrPGB-3" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;use Clusters API to create, start, edit, list, terminate, and delete clusters&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Cluster Policies API&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="vmOzD1zISduSIHuOrPGB-3" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;use Clusters API to create, start, edit, list, terminate, and delete clusters&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Cluster Policies API&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1290" y="320" width="270" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="vmOzD1zISduSIHuOrPGB-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;idle instances of VMs up to a max capacity. VMs come with preloaded databricks runtime. Specifying a pool reduces the cluster start up time significantly&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=center;rounded=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="vmOzD1zISduSIHuOrPGB-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;idle instances of VMs up to a max capacity. VMs come with preloaded databricks runtime. Specifying a pool reduces the cluster start up time significantly&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=center;rounded=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-920" y="-130" width="200.01" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="vmOzD1zISduSIHuOrPGB-9" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Filesystem&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Notebook Workflow&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Widget&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Secrets&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Library&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Tahoma;fontColor=#000000;rounded=1;labelBackgroundColor=none;fontStyle=0;align=left;" vertex="1" parent="1">
+        <mxCell id="vmOzD1zISduSIHuOrPGB-9" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Filesystem&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Notebook Workflow&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Widget&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Secrets&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Library&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Tahoma;fontColor=#000000;rounded=1;labelBackgroundColor=none;fontStyle=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="270" y="-637.5" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vmOzD1zISduSIHuOrPGB-11" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 12px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;default database, can create tables from files, infer schema&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 12px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;Managed table - spark manages both metadata and data files&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 12px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;External table - data files are not managed by spark&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 12px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;Views&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12px;&quot;&gt;databricks maintains audit history&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;labelBackgroundColor=none;fontStyle=1;align=left;" vertex="1" parent="1">
+        <mxCell id="vmOzD1zISduSIHuOrPGB-11" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 12px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;default database, can create tables from files, infer schema&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 12px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;Managed table - spark manages both metadata and data files&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 12px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;External table - data files are not managed by spark&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 12px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;Views&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12px;&quot;&gt;databricks maintains audit history&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;labelBackgroundColor=none;fontStyle=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="150" y="-550" width="200" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="vmOzD1zISduSIHuOrPGB-13" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Databricks backed&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Azure Key vault - after we add secrets to azure key vault, link it to databricks secret scope&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;use dbutils.secrets.get method&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="vmOzD1zISduSIHuOrPGB-13" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Databricks backed&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Azure Key vault - after we add secrets to azure key vault, link it to databricks secret scope&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;use dbutils.secrets.get method&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1060" y="380" width="210.01" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vmOzD1zISduSIHuOrPGB-16" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;register an app in Azure AD&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;get client id, tenant id, client secret&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Tahoma;align=left;rounded=1;" vertex="1" parent="1">
+        <mxCell id="vmOzD1zISduSIHuOrPGB-16" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;register an app in Azure AD&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;get client id, tenant id, client secret&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Tahoma;align=left;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-850" y="-607.5" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gVq9OS-MDNWrs_oQ_ZD8-1" value="&lt;div style=&quot;text-align: left; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;Databricks default (Hive metastore)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;External db (Azure SQL/MySQL e.g.)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;labelBackgroundColor=none;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="gVq9OS-MDNWrs_oQ_ZD8-1" value="&lt;div style=&quot;text-align: left; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;Databricks default (Hive metastore)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;External db (Azure SQL/MySQL e.g.)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=12;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;labelBackgroundColor=none;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-97.75" y="-475" width="224.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CKyAsqJQP7aCnB3D_jAG-1" value="&lt;div class=&quot;section&quot; id=&quot;does-delta-lake-support-multi-table-transactions&quot; style=&quot;box-sizing: border-box; font-size: 12px;&quot;&gt;&lt;p style=&quot;box-sizing: border-box; line-height: 1.41em; margin: 1em 0px 0px; font-size: 12px;&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Does not support multi-table transactions and foreign keys&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Changing a column’s type or dropping a column requires rewriting the table&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;section&quot; id=&quot;how-can-i-change-the-type-of-a-column&quot; style=&quot;box-sizing: border-box; font-size: 12px;&quot;&gt;&lt;span id=&quot;-how-can-i-change-the-type-of-a-column&quot; style=&quot;box-sizing: border-box; color: rgb(64, 64, 64); font-family: &amp;quot;source sans pro&amp;quot;, helvetica, arial, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="CKyAsqJQP7aCnB3D_jAG-1" value="&lt;div class=&quot;section&quot; id=&quot;does-delta-lake-support-multi-table-transactions&quot; style=&quot;box-sizing: border-box; font-size: 12px;&quot;&gt;&lt;p style=&quot;box-sizing: border-box; line-height: 1.41em; margin: 1em 0px 0px; font-size: 12px;&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Does not support multi-table transactions and foreign keys&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Changing a column’s type or dropping a column requires rewriting the table&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;section&quot; id=&quot;how-can-i-change-the-type-of-a-column&quot; style=&quot;box-sizing: border-box; font-size: 12px;&quot;&gt;&lt;span id=&quot;-how-can-i-change-the-type-of-a-column&quot; style=&quot;box-sizing: border-box; color: rgb(64, 64, 64); font-family: &amp;quot;source sans pro&amp;quot;, helvetica, arial, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1200" y="30" width="410" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XoX_tpSuYqg6GZoFMZQT-1" value="&lt;ul&gt;&lt;li style=&quot;font-size: 12px&quot;&gt;3rd party product, provides attribute based access control (ABAC). create access control policies and enforce in databricks&lt;/li&gt;&lt;li&gt;apply masking and anonymization techniques, plus row-level redactions&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="XoX_tpSuYqg6GZoFMZQT-1" value="&lt;ul&gt;&lt;li style=&quot;font-size: 12px&quot;&gt;3rd party product, provides attribute based access control (ABAC). create access control policies and enforce in databricks&lt;/li&gt;&lt;li&gt;apply masking and anonymization techniques, plus row-level redactions&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;align=left;rounded=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1070" y="210" width="310.01" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="XUH3krE81OkrfBBacNsB" name="Page-2">
-    <mxGraphModel dx="925" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -459,197 +459,208 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aIsrBevs5R5Ffe2wVrmf" name="Page-3">
-    <mxGraphModel dx="1682" dy="2075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PnP-nYFMmTZ-u85BWZRr-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PnP-nYFMmTZ-u85BWZRr-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="130" y="-240" width="790" height="1100" as="geometry" />
         </mxCell>
-        <mxCell id="PnP-nYFMmTZ-u85BWZRr-7" value="&lt;h2&gt;Azure Platform&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#b1ddf0;strokeColor=#10739e;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="PnP-nYFMmTZ-u85BWZRr-7" value="&lt;h2&gt;Azure Platform&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#b1ddf0;strokeColor=#10739e;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="190" y="-140" width="640" height="950" as="geometry" />
         </mxCell>
-        <mxCell id="9LAAcPkyqF6lStpMexvl-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="9LAAcPkyqF6lStpMexvl-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="220" y="50" width="580" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="BXVosnATaF89JuK_dT3b-8" value="&lt;b&gt;Apache Spark&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=center;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="BXVosnATaF89JuK_dT3b-8" value="&lt;b&gt;Apache Spark&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=center;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="260" y="270" width="510" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="BXVosnATaF89JuK_dT3b-1" value="Spark Core API for Java, Scala, Python and R (RDD)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="BXVosnATaF89JuK_dT3b-1" value="Spark Core API for Java, Scala, Python and R (RDD)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="350" y="450" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BXVosnATaF89JuK_dT3b-3" value="Spark SQL Engine&amp;nbsp;(Catalyst Optimizer, Tungsten)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="BXVosnATaF89JuK_dT3b-3" value="Spark SQL Engine&amp;nbsp;(Catalyst Optimizer, Tungsten)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="350" y="400" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BXVosnATaF89JuK_dT3b-5" value="Spark SQL, Dataframe and Dataset APIs" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="BXVosnATaF89JuK_dT3b-5" value="Spark SQL, Dataframe and Dataset APIs" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="350" y="350" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BXVosnATaF89JuK_dT3b-6" value="Spark ML, Straming and GraphX" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="BXVosnATaF89JuK_dT3b-6" value="Spark ML, Straming and GraphX" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="350" y="300" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BXVosnATaF89JuK_dT3b-7" value="Resource Managers (Yarn, Mesos, Kubernetes, Spark Standalon" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="BXVosnATaF89JuK_dT3b-7" value="Resource Managers (Yarn, Mesos, Kubernetes, Spark Standalon" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="350" y="500" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BXVosnATaF89JuK_dT3b-9" value="Databricks &lt;br&gt;workspaces" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="BXVosnATaF89JuK_dT3b-9" value="Databricks &lt;br&gt;workspaces" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="260" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BXVosnATaF89JuK_dT3b-10" value="DBFS" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="BXVosnATaF89JuK_dT3b-10" value="DBFS" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="390" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BXVosnATaF89JuK_dT3b-11" value="Delta Lake" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="BXVosnATaF89JuK_dT3b-11" value="Delta Lake" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BXVosnATaF89JuK_dT3b-12" value="MLFLOW" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="BXVosnATaF89JuK_dT3b-12" value="MLFLOW" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="650" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BXVosnATaF89JuK_dT3b-13" value="Notebooks" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="BXVosnATaF89JuK_dT3b-13" value="Notebooks" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="260" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BXVosnATaF89JuK_dT3b-14" value="Unity Catalog" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="BXVosnATaF89JuK_dT3b-14" value="Unity Catalog" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="390" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BXVosnATaF89JuK_dT3b-15" value="Authentication and RBAC" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="BXVosnATaF89JuK_dT3b-15" value="Authentication and RBAC" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="520" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BXVosnATaF89JuK_dT3b-17" value="Administration" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="BXVosnATaF89JuK_dT3b-17" value="Administration" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="650" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BXVosnATaF89JuK_dT3b-18" value="SQL Analytics" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="BXVosnATaF89JuK_dT3b-18" value="SQL Analytics" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="260" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9LAAcPkyqF6lStpMexvl-1" value="Databricks Runtimes" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="9LAAcPkyqF6lStpMexvl-1" value="Databricks Runtimes" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="260" y="590" width="510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9LAAcPkyqF6lStpMexvl-3" value="Azure &lt;br&gt;Active Directory" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="9LAAcPkyqF6lStpMexvl-3" value="Azure &lt;br&gt;Active Directory" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="240" y="-20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9LAAcPkyqF6lStpMexvl-4" value="Azure Data Factory" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="9LAAcPkyqF6lStpMexvl-4" value="Azure Data Factory" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="370" y="-20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9LAAcPkyqF6lStpMexvl-5" value="Azure Synapse" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="9LAAcPkyqF6lStpMexvl-5" value="Azure Synapse" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="500" y="-20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9LAAcPkyqF6lStpMexvl-6" value="Azure Blob Storage and Data lake" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="9LAAcPkyqF6lStpMexvl-6" value="Azure Blob Storage and Data lake" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="630" y="-20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9LAAcPkyqF6lStpMexvl-7" value="Power BI" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="9LAAcPkyqF6lStpMexvl-7" value="Power BI" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="240" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9LAAcPkyqF6lStpMexvl-8" value="Azure DevOps" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="9LAAcPkyqF6lStpMexvl-8" value="Azure DevOps" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="370" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9LAAcPkyqF6lStpMexvl-11" value="Azure Virtual Network" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="9LAAcPkyqF6lStpMexvl-11" value="Azure Virtual Network" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="230" y="660" width="290" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="9LAAcPkyqF6lStpMexvl-12" value="Azure VMs" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="9LAAcPkyqF6lStpMexvl-12" value="Azure VMs" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="240" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PnP-nYFMmTZ-u85BWZRr-1" value="Libraries&amp;nbsp;(JAR, Cran, Egg, Wheel, Maven, Pypi)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="PnP-nYFMmTZ-u85BWZRr-1" value="Libraries&amp;nbsp;(JAR, Cran, Egg, Wheel, Maven, Pypi)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="570" y="-220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PnP-nYFMmTZ-u85BWZRr-2" value="Git" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="PnP-nYFMmTZ-u85BWZRr-2" value="Git" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="390" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PnP-nYFMmTZ-u85BWZRr-3" value="Clusters" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="PnP-nYFMmTZ-u85BWZRr-3" value="Clusters" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="520" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PnP-nYFMmTZ-u85BWZRr-4" value="Databricks UI" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="PnP-nYFMmTZ-u85BWZRr-4" value="Databricks UI" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="650" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PnP-nYFMmTZ-u85BWZRr-5" value="Azure Network Security Group" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="PnP-nYFMmTZ-u85BWZRr-5" value="Azure Network Security Group" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="380" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PnP-nYFMmTZ-u85BWZRr-6" value="Azure Blob Storage" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="PnP-nYFMmTZ-u85BWZRr-6" value="Azure Blob Storage" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="540" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="RT8gXJek44l3bknQUqbu" name="programming">
-    <mxGraphModel dx="1850" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;" edge="1" parent="1" source="pr_eHDl77idKOUNhx_Tx-1" target="pr_eHDl77idKOUNhx_Tx-6">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;" parent="1" source="pr_eHDl77idKOUNhx_Tx-1" target="pr_eHDl77idKOUNhx_Tx-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-1" value="Data Ingestion" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-1" value="Data Ingestion" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="70" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;" edge="1" parent="1" source="pr_eHDl77idKOUNhx_Tx-18" target="pr_eHDl77idKOUNhx_Tx-11">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;" parent="1" source="pr_eHDl77idKOUNhx_Tx-18" target="pr_eHDl77idKOUNhx_Tx-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;" edge="1" parent="1" source="pr_eHDl77idKOUNhx_Tx-6" target="pr_eHDl77idKOUNhx_Tx-13">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;" parent="1" source="pr_eHDl77idKOUNhx_Tx-6" target="pr_eHDl77idKOUNhx_Tx-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-6" value="Dataframe Reader" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;" vertex="1" parent="1">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-6" value="Dataframe Reader" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;" edge="1" parent="1" source="pr_eHDl77idKOUNhx_Tx-8" target="pr_eHDl77idKOUNhx_Tx-9">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;" parent="1" source="pr_eHDl77idKOUNhx_Tx-8" target="pr_eHDl77idKOUNhx_Tx-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-8" value="Data Transformation" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-8" value="Data Transformation" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="70" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-9" value="&lt;ul&gt;&lt;li&gt;add new columns using WithColumns, Lit&lt;/li&gt;&lt;li&gt;rename columns using WithColumnsRenamed&lt;/li&gt;&lt;li&gt;drop columns using drop&lt;/li&gt;&lt;li&gt;join two dataframes&lt;/li&gt;&lt;li&gt;apply filter&lt;/li&gt;&lt;li&gt;aggregate functions - sum, count, agg, use grouping&lt;/li&gt;&lt;li&gt;window functions - partitionby, orderby, rank, dense rank, rowsbetween, rangebetween&lt;/li&gt;&lt;li&gt;create temporary views (local: valid with a spark session only, global is available for the entire cluster) and run sql commands using spark.sql. These are stored in global_temp db.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-9" value="&lt;ul&gt;&lt;li&gt;add new columns using WithColumns, Lit&lt;/li&gt;&lt;li&gt;rename columns using WithColumnsRenamed&lt;/li&gt;&lt;li&gt;drop columns using drop&lt;/li&gt;&lt;li&gt;join two dataframes&lt;/li&gt;&lt;li&gt;apply filter&lt;/li&gt;&lt;li&gt;aggregate functions - sum, count, agg, use grouping&lt;/li&gt;&lt;li&gt;window functions - partitionby, orderby, rank, dense rank, rowsbetween, rangebetween&lt;/li&gt;&lt;li&gt;create temporary views (local: valid with a spark session only, global is available for the entire cluster) and run sql commands using spark.sql. These are stored in global_temp db.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="260" y="270" width="500" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-11" value="&lt;ul&gt;&lt;li&gt;show&lt;/li&gt;&lt;li&gt;display&lt;/li&gt;&lt;li&gt;describe&lt;/li&gt;&lt;li&gt;printschema&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-11" value="&lt;ul&gt;&lt;li&gt;show&lt;/li&gt;&lt;li&gt;display&lt;/li&gt;&lt;li&gt;describe&lt;/li&gt;&lt;li&gt;printschema&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="270" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-13" value="&lt;ul&gt;&lt;li&gt;CSV/JSON/parquet&lt;/li&gt;&lt;li&gt;Define schema using StructType and enforce while reading the file&lt;/li&gt;&lt;li&gt;drop columns&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-13" value="&lt;ul&gt;&lt;li&gt;CSV/JSON/parquet&lt;/li&gt;&lt;li&gt;Define schema using StructType and enforce while reading the file&lt;/li&gt;&lt;li&gt;drop columns&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="530" y="120" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;" edge="1" parent="1" source="pr_eHDl77idKOUNhx_Tx-15" target="pr_eHDl77idKOUNhx_Tx-16">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;" parent="1" source="pr_eHDl77idKOUNhx_Tx-15" target="pr_eHDl77idKOUNhx_Tx-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-15" value="Data Load" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-15" value="Data Load" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="70" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;" edge="1" parent="1" source="pr_eHDl77idKOUNhx_Tx-16" target="pr_eHDl77idKOUNhx_Tx-22">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;" parent="1" source="pr_eHDl77idKOUNhx_Tx-16" target="pr_eHDl77idKOUNhx_Tx-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-16" value="Dataframe Writer API" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;" vertex="1" parent="1">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-16" value="Dataframe Writer API" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-18" value="Data Validation/analysis" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-18" value="Data Validation/analysis" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="70" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;" edge="1" parent="1" source="pr_eHDl77idKOUNhx_Tx-19" target="pr_eHDl77idKOUNhx_Tx-20">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;" parent="1" source="pr_eHDl77idKOUNhx_Tx-19" target="pr_eHDl77idKOUNhx_Tx-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-19" value="Prepare Environment" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-19" value="Prepare Environment" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="70" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-20" value="mount" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;" vertex="1" parent="1">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-20" value="mount" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jDxRyWlB3F0KmU8o_qWa-2" value="surrogate keys" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#0000FF;endArrow=none;endFill=0;" edge="1" parent="1" source="pr_eHDl77idKOUNhx_Tx-22" target="jDxRyWlB3F0KmU8o_qWa-1">
+        <mxCell id="jDxRyWlB3F0KmU8o_qWa-2" value="surrogate keys" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#0000FF;endArrow=none;endFill=0;" parent="1" source="pr_eHDl77idKOUNhx_Tx-22" target="jDxRyWlB3F0KmU8o_qWa-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-22" value="&lt;ul&gt;&lt;li&gt;file format&lt;/li&gt;&lt;li&gt;write method - overwrite/&lt;/li&gt;&lt;li&gt;partitioning&lt;/li&gt;&lt;li&gt;full refresh or incremental data load&lt;/li&gt;&lt;li&gt;add/drop partitions&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-22" value="&lt;ul&gt;&lt;li&gt;file format&lt;/li&gt;&lt;li&gt;write method - overwrite/&lt;/li&gt;&lt;li&gt;partitioning&lt;/li&gt;&lt;li&gt;full refresh or incremental data load&lt;/li&gt;&lt;li&gt;add/drop partitions&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="470" y="480" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;" edge="1" parent="1" source="pr_eHDl77idKOUNhx_Tx-24" target="pr_eHDl77idKOUNhx_Tx-25">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;" parent="1" source="pr_eHDl77idKOUNhx_Tx-24" target="pr_eHDl77idKOUNhx_Tx-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-24" value="Orchestration" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-24" value="Orchestration" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="70" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pr_eHDl77idKOUNhx_Tx-25" value="&lt;ul&gt;&lt;li&gt;pass parameters&lt;/li&gt;&lt;li&gt;reuse functions across notebooks&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="pr_eHDl77idKOUNhx_Tx-25" value="&lt;ul&gt;&lt;li&gt;pass parameters&lt;/li&gt;&lt;li&gt;reuse functions across notebooks&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="270" y="690" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eg766-3sDcf0xxvN0VKQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;" edge="1" parent="1" source="eg766-3sDcf0xxvN0VKQ-1" target="eg766-3sDcf0xxvN0VKQ-2">
+        <mxCell id="eg766-3sDcf0xxvN0VKQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;endArrow=none;endFill=0;" parent="1" source="eg766-3sDcf0xxvN0VKQ-1" target="eg766-3sDcf0xxvN0VKQ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eg766-3sDcf0xxvN0VKQ-1" value="Databases" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="eg766-3sDcf0xxvN0VKQ-1" value="Databases" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fontColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="70" y="825" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eg766-3sDcf0xxvN0VKQ-2" value="&lt;ul&gt;&lt;li&gt;create/describe/describe extended on database&lt;/li&gt;&lt;li&gt;show tables&lt;/li&gt;&lt;li&gt;create a managed table using saveAsTable on a dataframe or CTAS in sql&lt;/li&gt;&lt;li&gt;create external tables (specify location in sql or path in python syntax)&lt;/li&gt;&lt;li&gt;INSERT into the table&lt;/li&gt;&lt;li&gt;use delta lake as the underlying format. It would provide ACID transaction support.&lt;/li&gt;&lt;li&gt;use UPDATE/DELETE/MERGE commands&lt;/li&gt;&lt;li&gt;use TIMESTAMP AS OF or VERSION AS OF for time travel&lt;/li&gt;&lt;li&gt;VACUUM - retains data for 7 days by default&lt;/li&gt;&lt;li&gt;delete all history using RETAIN 0 HOURS (retainDurationCheckEnabled should be false)&lt;/li&gt;&lt;li&gt;OPTIMIZE command to optimize table&lt;/li&gt;&lt;li&gt;RESTORE restores a delta table to an earlier state&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="eg766-3sDcf0xxvN0VKQ-2" value="&lt;ul&gt;&lt;li&gt;create/describe/describe extended on database&lt;/li&gt;&lt;li&gt;show tables&lt;/li&gt;&lt;li&gt;create a managed table using saveAsTable on a dataframe or CTAS in sql&lt;/li&gt;&lt;li&gt;create external tables (specify location in sql or path in python syntax)&lt;/li&gt;&lt;li&gt;INSERT into the table&lt;/li&gt;&lt;li&gt;use delta lake as the underlying format. It would provide ACID transaction support.&lt;/li&gt;&lt;li&gt;use UPDATE/DELETE/MERGE commands&lt;/li&gt;&lt;li&gt;use TIMESTAMP AS OF or VERSION AS OF for time travel&lt;/li&gt;&lt;li&gt;VACUUM - retains data for 7 days by default&lt;/li&gt;&lt;li&gt;delete all history using RETAIN 0 HOURS (retainDurationCheckEnabled should be false)&lt;/li&gt;&lt;li&gt;OPTIMIZE command to optimize table&lt;/li&gt;&lt;li&gt;RESTORE restores a delta table to an earlier state&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontColor=#0000FF;rounded=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="270" y="770" width="480" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="jDxRyWlB3F0KmU8o_qWa-1" value="&lt;ul&gt;&lt;li&gt;use python UUID, better alternative compared to monotonically increasing SKs or hash values&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;align=left;fontColor=#0000FF;rounded=1;" vertex="1" parent="1">
+        <mxCell id="jDxRyWlB3F0KmU8o_qWa-1" value="&lt;ul&gt;&lt;li&gt;use python UUID, better alternative compared to monotonically increasing SKs or hash values&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;align=left;fontColor=#0000FF;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="620" width="240" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="F6h1WTd4n44YtOs5u_6u" name="Page-5">
+    <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-1" value="Azure DataBricks&lt;br&gt;Workspace" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

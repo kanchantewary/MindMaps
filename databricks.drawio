@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T08:00:25.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="3xm-ogfAnp_w5Jm9SHJr" version="17.4.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-27T08:03:39.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="mw2N8VNvDVOC5CEEqtRO" version="17.4.6" type="github" pages="5">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="databricks">
     <mxGraphModel dx="2625" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -655,104 +655,78 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F6h1WTd4n44YtOs5u_6u" name="Page-5">
-    <mxGraphModel dx="804" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1682" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2Em2GuWBp2oYH70bxulZ-6" value="push" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;" edge="1" parent="1" source="2Em2GuWBp2oYH70bxulZ-1" target="2Em2GuWBp2oYH70bxulZ-2">
-          <mxGeometry x="-0.3333" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2Em2GuWBp2oYH70bxulZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="2Em2GuWBp2oYH70bxulZ-1" target="2Em2GuWBp2oYH70bxulZ-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2Em2GuWBp2oYH70bxulZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="2Em2GuWBp2oYH70bxulZ-1" target="2Em2GuWBp2oYH70bxulZ-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2Em2GuWBp2oYH70bxulZ-1" value="Azure DataBricks&lt;br&gt;Workspace" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="240" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2Em2GuWBp2oYH70bxulZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=classic;endFill=1;" edge="1" parent="1" source="2Em2GuWBp2oYH70bxulZ-2" target="2Em2GuWBp2oYH70bxulZ-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2Em2GuWBp2oYH70bxulZ-2" value="Azure DevOps &lt;br&gt;Repo" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="480" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2Em2GuWBp2oYH70bxulZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=classic;endFill=1;" edge="1" parent="1" source="2Em2GuWBp2oYH70bxulZ-3" target="2Em2GuWBp2oYH70bxulZ-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2Em2GuWBp2oYH70bxulZ-3" value="Azure DevOps Pipeline" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="480" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2Em2GuWBp2oYH70bxulZ-5" value="SonarQube" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="630" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2Em2GuWBp2oYH70bxulZ-7" value="Collibra/Azure Purview" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="80" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2Em2GuWBp2oYH70bxulZ-16" value="push" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" edge="1" parent="1" source="2Em2GuWBp2oYH70bxulZ-8" target="2Em2GuWBp2oYH70bxulZ-2">
-          <mxGeometry x="0.3793" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="440" y="390" />
-              <mxPoint x="440" y="220" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2Em2GuWBp2oYH70bxulZ-8" value="Azure Data Factory/Apache Airflow" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="240" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2Em2GuWBp2oYH70bxulZ-9" value="Azure Keyvault" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="80" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2Em2GuWBp2oYH70bxulZ-10" value="Azure Datalake" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2Em2GuWBp2oYH70bxulZ-11" value="Azure AD and RBAC" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="80" y="50" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2Em2GuWBp2oYH70bxulZ-12" value="Notebooks" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="230" y="300" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2Em2GuWBp2oYH70bxulZ-13" value="Libraries" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="320" y="300" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2Em2GuWBp2oYH70bxulZ-19" value="Terraform/Azure Resource Manager Templates" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="80" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2Em2GuWBp2oYH70bxulZ-20" value="Azure Monitor" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="80" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2Em2GuWBp2oYH70bxulZ-21" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="780" y="50" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2Em2GuWBp2oYH70bxulZ-22" value="Azure Synapse/Azure SQL" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="780" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="2Em2GuWBp2oYH70bxulZ-23" value="Security and Data Governance" style="swimlane;fontFamily=Tahoma;startSize=30;" vertex="1" parent="1">
-          <mxGeometry x="70" y="560" width="250" height="200" as="geometry" />
+          <mxGeometry x="30" y="560" width="290" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-7" value="Collibra/Azure Purview" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="2Em2GuWBp2oYH70bxulZ-23">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-9" value="Azure Keyvault" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="2Em2GuWBp2oYH70bxulZ-23">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-11" value="Azure AD and RBAC" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="2Em2GuWBp2oYH70bxulZ-23">
+          <mxGeometry x="150" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2Em2GuWBp2oYH70bxulZ-24" value="Workflow Orchestration" style="swimlane;fontFamily=Tahoma;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="320" y="560" width="250" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-8" value="Azure Data Factory/Apache Airflow" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="2Em2GuWBp2oYH70bxulZ-24">
+          <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="2Em2GuWBp2oYH70bxulZ-25" value="Data Ingestion &#xa;Transformation and Load" style="swimlane;fontFamily=Tahoma;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="570" y="560" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-1" value="Azure DataBricks&lt;br&gt;Workspace" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="2Em2GuWBp2oYH70bxulZ-25">
+          <mxGeometry x="70" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-12" value="Notebooks" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="2Em2GuWBp2oYH70bxulZ-25">
+          <mxGeometry x="50" y="130" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-13" value="Libraries" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="2Em2GuWBp2oYH70bxulZ-25">
+          <mxGeometry x="140" y="130" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2Em2GuWBp2oYH70bxulZ-26" value="Data Storage" style="swimlane;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="320" y="760" width="250" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-10" value="Azure Datalake" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="2Em2GuWBp2oYH70bxulZ-26">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-22" value="Azure Synapse/Azure SQL" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="2Em2GuWBp2oYH70bxulZ-26">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="2Em2GuWBp2oYH70bxulZ-27" value="Visualization" style="swimlane;fontFamily=Tahoma;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="820" y="560" width="250" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-21" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="2Em2GuWBp2oYH70bxulZ-27">
+          <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="2Em2GuWBp2oYH70bxulZ-28" value="DevOps" style="swimlane;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="70" y="760" width="250" height="200" as="geometry" />
+          <mxGeometry x="30" y="760" width="290" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-2" value="Azure DevOps &lt;br&gt;Repo" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="2Em2GuWBp2oYH70bxulZ-28">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-3" value="Azure DevOps Pipeline" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="2Em2GuWBp2oYH70bxulZ-28">
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2Em2GuWBp2oYH70bxulZ-29" value="Data Observability" style="swimlane;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="820" y="760" width="250" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-20" value="Azure Monitor" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="2Em2GuWBp2oYH70bxulZ-29">
+          <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="2Em2GuWBp2oYH70bxulZ-30" value="Automation" style="swimlane;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="570" y="760" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-19" value="Terraform/Azure Resource Manager Templates" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="2Em2GuWBp2oYH70bxulZ-30">
+          <mxGeometry x="65" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Em2GuWBp2oYH70bxulZ-5" value="SonarQube" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="2Em2GuWBp2oYH70bxulZ-30">
+          <mxGeometry x="65" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-30T18:30:00.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="V5fAN3mjgUplGHVzq85Q" version="17.4.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-30T18:34:07.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="R23RwCjGYi-gcrKBmm4P" version="17.4.6" type="github" pages="6">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="databricks">
     <mxGraphModel dx="2625" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -749,10 +749,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dM9qSpNSL5bTfpFrQigI-1" value="Delta Table" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="340" y="220" width="160" height="120" as="geometry" />
+          <mxGeometry x="340" y="220" width="200" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="dM9qSpNSL5bTfpFrQigI-2" value="Table Name&#xa;Partition by&#xa;location&#xa;column mapping&#xa;table properties" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Tahoma;" vertex="1" parent="dM9qSpNSL5bTfpFrQigI-1">
-          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        <mxCell id="dM9qSpNSL5bTfpFrQigI-2" value="Table Name&#xa;Partition by&#xa;location&#xa;column mapping&#xa;table properties&#xa;delta.appendOnly&#xa;delta.logRetentionDuration&#xa;delta.dataSkippingNumIndexedCols&#xa;delta.randomizeFilePrefixes" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Tahoma;" vertex="1" parent="dM9qSpNSL5bTfpFrQigI-1">
+          <mxGeometry y="30" width="200" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T10:12:12.902Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="skup5Lw72LHU9xOFiTkg" version="17.4.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-02T10:12:26.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="q0nECHpP5O8bCxILrtVx" version="17.4.6" type="github" pages="7">
   <diagram id="xfbisKgPo5yGwsmO2iI5" name="databricks">
     <mxGraphModel dx="2625" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -776,6 +776,9 @@
         </mxCell>
         <mxCell id="6hleT7vC0auOafSz2aEE-5" value="event log" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="170" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6hleT7vC0auOafSz2aEE-6" value="DLT pipelines" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="140" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

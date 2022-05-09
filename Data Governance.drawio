@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T13:28:13.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="OyA2xQHyLyl9wgaBX2ex" version="17.5.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-09T13:31:26.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="XYHqfXP7SRBhHFQSeDGK" version="17.5.0" type="github" pages="4">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -217,8 +217,8 @@
         <mxCell id="5Eydu9gD10Q847N_Wa7L-29" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;DQ Management Console (web UI)&lt;/li&gt;&lt;li&gt;DQ Agents&lt;/li&gt;&lt;li&gt;DQ Metastore - postgres by default, or any other RDBMS&lt;/li&gt;&lt;li&gt;DQ ML Engine&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="5Eydu9gD10Q847N_Wa7L-1" vertex="1">
           <mxGeometry x="240" y="530" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5Eydu9gD10Q847N_Wa7L-31" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="5Eydu9gD10Q847N_Wa7L-1" vertex="1">
-          <mxGeometry x="753" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="5Eydu9gD10Q847N_Wa7L-31" value="&lt;ul&gt;&lt;li&gt;Technical Lineage -&amp;nbsp;&amp;nbsp;lineage graph that shows how data transforms and flows from source to destination across its entire lifecycle&lt;/li&gt;&lt;li&gt;Business Lineage&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="5Eydu9gD10Q847N_Wa7L-1" vertex="1">
+          <mxGeometry x="753" y="330" width="427" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Eydu9gD10Q847N_Wa7L-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" parent="5Eydu9gD10Q847N_Wa7L-1" source="5Eydu9gD10Q847N_Wa7L-34" target="5Eydu9gD10Q847N_Wa7L-35" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -270,7 +270,7 @@
           <mxGeometry x="490" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Eydu9gD10Q847N_Wa7L-51" value="&lt;span&gt;AWS, GCP, Azure&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;" parent="5Eydu9gD10Q847N_Wa7L-1" vertex="1">
-          <mxGeometry x="670" y="415" width="131" height="65" as="geometry" />
+          <mxGeometry x="485" y="430" width="131" height="65" as="geometry" />
         </mxCell>
         <mxCell id="5Eydu9gD10Q847N_Wa7L-54" value="" style="group" parent="5Eydu9gD10Q847N_Wa7L-1" vertex="1" connectable="0">
           <mxGeometry x="120" y="150" width="120" height="170" as="geometry" />

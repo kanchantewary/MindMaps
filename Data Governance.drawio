@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T13:33:34.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="YZvPMR1zpC3tnHw9PKTh" version="17.5.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-09T13:40:55.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="bQzqV6sO6dtOykE87WJx" version="17.5.0" type="github" pages="4">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -338,7 +338,7 @@
         <mxCell id="5Eydu9gD10Q847N_Wa7L-58" value="Data Stewardship" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="5Eydu9gD10Q847N_Wa7L-1" vertex="1">
           <mxGeometry x="753" y="230" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="iw_XGMF10QQZBNkr8YDd-2" value="&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Line of Business Assets&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Data domain assets&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Data Concept assets&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Data attribute assets&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+        <mxCell id="iw_XGMF10QQZBNkr8YDd-2" value="&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Line of Business Assets&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Data domain assets&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Data Concept assets&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Data attribute assets&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;dependency&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
           <mxGeometry x="1275" y="226.25" width="200" height="80" as="geometry" />
         </mxCell>
       </root>

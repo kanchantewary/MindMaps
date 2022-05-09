@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T13:16:30.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="1oeN4-Q2xRMw7e1TJWH2" version="17.5.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-09T13:16:46.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="pQ4RRqjnRbukkQHw0cVM" version="17.5.0" type="github" pages="4">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -323,7 +323,7 @@
         <mxCell id="Bp5PT2HKUpST6APLJ7oJ-0" value="&lt;div&gt;Edge&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=center;" parent="5Eydu9gD10Q847N_Wa7L-1" vertex="1">
           <mxGeometry x="1240" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iw_XGMF10QQZBNkr8YDd-0" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#002b3f&quot; face=&quot;arial&quot; style=&quot;font-size: 11px&quot;&gt;Registering a data source makes metadata from that source available in Collibra&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;fontSize=10;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
+        <mxCell id="iw_XGMF10QQZBNkr8YDd-0" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#002b3f&quot; style=&quot;font-size: 11px&quot;&gt;Registering a data source makes metadata from that source available in Collibra&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;fontSize=10;" vertex="1" parent="5Eydu9gD10Q847N_Wa7L-1">
           <mxGeometry x="753" y="-10" width="237" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Eydu9gD10Q847N_Wa7L-19" value="Data Profiling" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="5Eydu9gD10Q847N_Wa7L-1" vertex="1">

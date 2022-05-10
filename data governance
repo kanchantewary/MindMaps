@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T15:08:59.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="EK2q4cFxDbgN1AppSna7" version="17.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-10T15:10:02.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="5nnZTVWbDNvD0-eB05J_" version="17.5.0" type="github" pages="3">
   <diagram id="QrTFHQmtKIfa22m_GSER" name="Page-1">
     <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QuqgS73Eoqf6R_HHwKz5" name="data quality">
-    <mxGraphModel dx="1775" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1775" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,10 +159,10 @@
           <mxGeometry x="-40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z0L9HFXZSfCT1dzyK-JO-9" value="Cloud Storage Solutions" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="160" y="360" width="560" height="60" as="geometry" />
+          <mxGeometry x="160" y="240" width="560" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z0L9HFXZSfCT1dzyK-JO-10" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Data_Lake_Storage.svg;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="620" y="367" width="50" height="46" as="geometry" />
+          <mxGeometry x="620" y="247" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="Z0L9HFXZSfCT1dzyK-JO-19" value="Exceptions" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=11;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="Z0L9HFXZSfCT1dzyK-JO-11" target="Z0L9HFXZSfCT1dzyK-JO-2">
           <mxGeometry relative="1" as="geometry">

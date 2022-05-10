@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T13:53:35.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="KfekjQGiZw7vrGC6RhpH" version="17.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-10T13:55:03.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Em7j2TkoUPwddM1NMLOH" version="17.5.0" type="github" pages="3">
   <diagram id="QrTFHQmtKIfa22m_GSER" name="Page-1">
     <mxGraphModel dx="925" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Z0L9HFXZSfCT1dzyK-JO-4" value="Generic &lt;br&gt;Data Quality Rules" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="Z0L9HFXZSfCT1dzyK-JO-1" target="Z0L9HFXZSfCT1dzyK-JO-2">
+        <mxCell id="Z0L9HFXZSfCT1dzyK-JO-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=classicThin;endFill=1;startArrow=none;" edge="1" parent="1" source="Z0L9HFXZSfCT1dzyK-JO-11" target="Z0L9HFXZSfCT1dzyK-JO-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z0L9HFXZSfCT1dzyK-JO-1" value="Bronze Layer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -160,6 +160,15 @@
         </mxCell>
         <mxCell id="Z0L9HFXZSfCT1dzyK-JO-10" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Data_Lake_Storage.svg;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="620" y="207" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0L9HFXZSfCT1dzyK-JO-11" value="DQ Rules" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="310" y="135" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0L9HFXZSfCT1dzyK-JO-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=1;" edge="1" parent="1" source="Z0L9HFXZSfCT1dzyK-JO-1" target="Z0L9HFXZSfCT1dzyK-JO-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="150" as="sourcePoint" />
+            <mxPoint x="430" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

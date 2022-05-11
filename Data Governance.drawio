@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T13:02:33.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="lnvSIVFIlahVbc_-sMQ3" version="18.0.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-05-11T13:03:14.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="X5RSDsnTrAQwC6zneu-6" version="18.0.2" type="github" pages="5">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1774" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -656,14 +656,6 @@
         <mxCell id="CEI0QPNTTWj058T0oJ4D-3" value="Data Lineage" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="580" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-4" value="on registered&lt;br&gt;data sources" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=none;endFill=0;" parent="1" source="CEI0QPNTTWj058T0oJ4D-8" target="CEI0QPNTTWj058T0oJ4D-58" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="727" y="200" />
-              <mxPoint x="727" y="88" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="CEI0QPNTTWj058T0oJ4D-8" target="CEI0QPNTTWj058T0oJ4D-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -744,20 +736,11 @@
         <mxCell id="CEI0QPNTTWj058T0oJ4D-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="CEI0QPNTTWj058T0oJ4D-46" target="CEI0QPNTTWj058T0oJ4D-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-49" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="910" y="57.5" width="270" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-50" value="assets" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;" parent="1" source="CEI0QPNTTWj058T0oJ4D-51" target="CEI0QPNTTWj058T0oJ4D-61" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-51" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
           <mxGeometry x="910" y="222.5" width="270" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-52" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;classification propagation&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
           <mxGeometry x="910" y="130" width="270" height="70.5" as="geometry" />
-        </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-53" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="CEI0QPNTTWj058T0oJ4D-58" target="CEI0QPNTTWj058T0oJ4D-49" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="CEI0QPNTTWj058T0oJ4D-59" target="CEI0QPNTTWj058T0oJ4D-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -765,17 +748,11 @@
         <mxCell id="CEI0QPNTTWj058T0oJ4D-55" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="CEI0QPNTTWj058T0oJ4D-60" target="CEI0QPNTTWj058T0oJ4D-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-58" value="Data Profiling" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="753" y="65" width="120" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-59" value="Data Classification" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="753" y="177.5" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-60" value="Data Stewardship" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="753" y="230" width="120" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-61" value="&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Line of Business Assets&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Data domain assets&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Data Concept assets&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Data attribute assets&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;dependency&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1275" y="226.25" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-63" value="&lt;ul&gt;&lt;li&gt;Supported using Apache Ranger&lt;/li&gt;&lt;li&gt;Authentication&lt;/li&gt;&lt;li&gt;Authorization on the &lt;b&gt;types &lt;/b&gt;(e.g. Entity, Classification, Relationship) on operations like create, update, delete&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
           <mxGeometry x="-240" y="254.5" width="310" height="95.5" as="geometry" />

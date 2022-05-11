@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T11:59:21.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="cyEFVjECR2ljPrh9icxZ" version="18.0.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-05-11T12:01:00.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="tgjbIWOie2sIhGEVc5nw" version="18.0.2" type="github" pages="5">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1774" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -807,7 +807,7 @@
         <mxCell id="CEI0QPNTTWj058T0oJ4D-51" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
           <mxGeometry x="910" y="222.5" width="270" height="87.5" as="geometry" />
         </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-52" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
+        <mxCell id="CEI0QPNTTWj058T0oJ4D-52" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;classification propagation&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
           <mxGeometry x="910" y="130" width="270" height="70.5" as="geometry" />
         </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-53" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="CEI0QPNTTWj058T0oJ4D-58" target="CEI0QPNTTWj058T0oJ4D-49" edge="1">

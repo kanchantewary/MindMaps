@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T12:01:00.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="tgjbIWOie2sIhGEVc5nw" version="18.0.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-05-11T12:50:17.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="go2o-JPKO6YtU4JDJtQq" version="18.0.2" type="github" pages="5">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1774" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -831,7 +831,7 @@
         <mxCell id="CEI0QPNTTWj058T0oJ4D-61" value="&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Line of Business Assets&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Data domain assets&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Data Concept assets&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Data attribute assets&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;dependency&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1275" y="226.25" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-63" value="&lt;ul&gt;&lt;li&gt;Supported using Apache Ranger&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
+        <mxCell id="CEI0QPNTTWj058T0oJ4D-63" value="&lt;ul&gt;&lt;li&gt;Supported using Apache Ranger&lt;/li&gt;&lt;li&gt;Authentication&lt;/li&gt;&lt;li&gt;Authorization on the &lt;b&gt;types &lt;/b&gt;(e.g. Entity, Classification, Relationship) on operations like create, update, delete&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
           <mxGeometry x="-240" y="254.5" width="310" height="95.5" as="geometry" />
         </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-64" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">

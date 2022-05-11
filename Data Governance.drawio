@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T12:50:50.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="e1F0pyLurn1meM-CP3cp" version="18.0.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-05-11T12:51:31.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="Ck_gTt6HIcAORQO0u-9H" version="18.0.2" type="github" pages="5">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1774" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -673,7 +673,7 @@
         <mxCell id="CEI0QPNTTWj058T0oJ4D-8" value="Data Catalog" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="580" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-9" value="architecture" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=11;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="CEI0QPNTTWj058T0oJ4D-10" target="CEI0QPNTTWj058T0oJ4D-24" edge="1">
+        <mxCell id="se0TtxEvVH4RrGSmgdBw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="CEI0QPNTTWj058T0oJ4D-10" target="CEI0QPNTTWj058T0oJ4D-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-10" value="architecture" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
@@ -717,16 +717,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-20" value="&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;REST API&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;supports integration with HBase, Hive, Sqoop, Storm, Kafka&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
-          <mxGeometry x="70" y="440" width="290" height="90" as="geometry" />
+          <mxGeometry x="-40" y="450" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-22" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;terms, grouped into glossary categories&lt;/li&gt;&lt;li&gt;add classifications, synonyms&lt;/li&gt;&lt;li&gt;assign terms to an entity&lt;/li&gt;&lt;li&gt;search using a term&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-250" y="-130" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-23" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
-          <mxGeometry x="10" y="-160" width="270" height="110" as="geometry" />
+          <mxGeometry x="10" y="-130" width="270" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-24" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Graph database (JanusGraph) is used as the metadata store&lt;/li&gt;&lt;li&gt;type metatype and supertype&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
-          <mxGeometry x="265" y="540" width="320" height="80" as="geometry" />
+          <mxGeometry x="265" y="455" width="265" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-26" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
           <mxGeometry x="753" y="330" width="427" height="70" as="geometry" />
@@ -781,7 +781,7 @@
           <mxGeometry x="490" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;" parent="1" vertex="1">
-          <mxGeometry x="485" y="430" width="131" height="65" as="geometry" />
+          <mxGeometry x="560" y="455" width="131" height="65" as="geometry" />
         </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-43" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="120" y="150" width="120" height="170" as="geometry" />

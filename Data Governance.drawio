@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T12:51:31.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="Ck_gTt6HIcAORQO0u-9H" version="18.0.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-05-11T12:58:07.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="NWtpVAOa-tOt6AHVfxRJ" version="18.0.2" type="github" pages="5">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1774" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -693,14 +693,6 @@
         <mxCell id="CEI0QPNTTWj058T0oJ4D-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="CEI0QPNTTWj058T0oJ4D-15" target="CEI0QPNTTWj058T0oJ4D-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="CEI0QPNTTWj058T0oJ4D-15" target="CEI0QPNTTWj058T0oJ4D-39" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="340" y="60" />
-              <mxPoint x="520" y="60" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-15" value="Data Governance" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="280" y="90" width="120" height="60" as="geometry" />
         </mxCell>
@@ -742,7 +734,7 @@
           <mxGeometry x="425" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-29" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="545" y="-130" width="280" height="80" as="geometry" />
+          <mxGeometry x="690" y="-60" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="CEI0QPNTTWj058T0oJ4D-37" target="CEI0QPNTTWj058T0oJ4D-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -752,27 +744,6 @@
         </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-32" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
           <mxGeometry x="290" y="-130" width="220" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-33" value="&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
-          <mxGeometry x="380" y="-220" width="280" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="CEI0QPNTTWj058T0oJ4D-39" target="CEI0QPNTTWj058T0oJ4D-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-35" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="70" y="-10" width="510" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-36" value="Policy Manager" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="CEI0QPNTTWj058T0oJ4D-35" vertex="1">
-          <mxGeometry x="130" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-37" value="Business Glossary" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="CEI0QPNTTWj058T0oJ4D-35" vertex="1">
-          <mxGeometry width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-38" value="Reference Data" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="CEI0QPNTTWj058T0oJ4D-35" vertex="1">
-          <mxGeometry x="260" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-39" value="Collibra Assessments" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="CEI0QPNTTWj058T0oJ4D-35" vertex="1">
-          <mxGeometry x="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="CEI0QPNTTWj058T0oJ4D-41" target="CEI0QPNTTWj058T0oJ4D-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -842,6 +813,15 @@
         </mxCell>
         <mxCell id="2LVp9gyTYixXwvz4ZJ_K-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="CEI0QPNTTWj058T0oJ4D-45" target="CEI0QPNTTWj058T0oJ4D-63">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CEI0QPNTTWj058T0oJ4D-36" value="Policy Manager" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
+          <mxGeometry x="200" y="-10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CEI0QPNTTWj058T0oJ4D-37" value="Business Glossary" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
+          <mxGeometry x="70" y="-10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CEI0QPNTTWj058T0oJ4D-38" value="Reference Data" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
+          <mxGeometry x="330" y="-10" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

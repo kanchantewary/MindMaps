@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T13:04:21.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="5bSLN4B2xLI3s29_dHyC" version="18.0.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-05-11T13:07:27.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="d-Tu5z5xytcC_8HCGbQU" version="18.0.2" type="github" pages="5">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1774" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -721,21 +721,6 @@
         <mxCell id="CEI0QPNTTWj058T0oJ4D-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="455" width="131" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-43" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="120" y="150" width="120" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-44" value="pricing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="CEI0QPNTTWj058T0oJ4D-43" vertex="1">
-          <mxGeometry y="59.5" width="120" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-45" value="Security" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="CEI0QPNTTWj058T0oJ4D-43" vertex="1">
-          <mxGeometry y="119" width="120" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-46" value="Dashboards" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="CEI0QPNTTWj058T0oJ4D-43" vertex="1">
-          <mxGeometry width="120" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=10;endArrow=none;endFill=0;strokeColor=default;" parent="1" source="CEI0QPNTTWj058T0oJ4D-46" target="CEI0QPNTTWj058T0oJ4D-65" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-51" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
           <mxGeometry x="910" y="209.5" width="270" height="87.5" as="geometry" />
         </mxCell>
@@ -755,19 +740,22 @@
           <mxGeometry x="753" y="230" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-63" value="&lt;ul&gt;&lt;li&gt;Supported using Apache Ranger&lt;/li&gt;&lt;li&gt;Authentication&lt;/li&gt;&lt;li&gt;Authorization on the &lt;b&gt;types &lt;/b&gt;(e.g. Entity, Classification, Relationship) on operations like create, update, delete&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="254.5" width="310" height="95.5" as="geometry" />
+          <mxGeometry x="-230" y="224.5" width="310" height="95.5" as="geometry" />
         </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-64" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="170" width="310" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="CEI0QPNTTWj058T0oJ4D-65" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="80" width="310" height="80" as="geometry" />
+        <mxCell id="CEI0QPNTTWj058T0oJ4D-64" value="&lt;ul&gt;&lt;li&gt;Atlan is a product based on Apache Atlas platform&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-230" y="140" width="310" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2LVp9gyTYixXwvz4ZJ_K-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="CEI0QPNTTWj058T0oJ4D-45" target="CEI0QPNTTWj058T0oJ4D-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CEI0QPNTTWj058T0oJ4D-37" value="Business Glossary" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="280" y="17.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CEI0QPNTTWj058T0oJ4D-44" value="pricing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
+          <mxGeometry x="130" y="179.5" width="120" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="CEI0QPNTTWj058T0oJ4D-45" value="Security" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
+          <mxGeometry x="130" y="239" width="120" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T17:22:51.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="xF2heR4VTMnxHATw6TYX" version="18.0.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-14T17:23:40.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="A_kCLfixRnnelyxtbT8C" version="18.0.2" type="github" pages="6">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1774" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -780,6 +780,9 @@
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-2" value="Purview scans the data" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="360" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="Ugzs3eVPFd6NRS0o1Gbf-3" target="Ugzs3eVPFd6NRS0o1Gbf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-3" value="resource sets are detected" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="571" y="99" width="120" height="60" as="geometry" />
         </mxCell>
@@ -799,7 +802,7 @@
           <mxGeometry x="390" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-8" value="Browse and search the data catalog" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="660" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-9" value="Create a new connection" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="180" y="270" width="120" height="60" as="geometry" />

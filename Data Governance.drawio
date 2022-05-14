@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T18:09:30.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="ZIxj_os9Tz9E5GD0xojr" version="18.0.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-14T18:10:44.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="WWhbsY_K1fhH65PHJaH-" version="18.0.2" type="github" pages="6">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1774" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -850,6 +850,9 @@
         </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-26" value="add classifications manually" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="181" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-28" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;a&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="181" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

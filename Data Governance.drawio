@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T17:51:10.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="ksq6BIkepw8DteQICNi5" version="18.0.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-14T17:53:07.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="G9Lmqk-wkZDn6AN_fTbw" version="18.0.2" type="github" pages="6">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1774" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -810,7 +810,7 @@
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-15" value="Create a new glossary term" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="310" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-16" value="approval workflow is triggered" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-16" value="Create a new connection" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="360" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T17:53:07.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="G9Lmqk-wkZDn6AN_fTbw" version="18.0.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-14T17:54:40.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="n2Q5103q1lHdeD9wXxWt" version="18.0.2" type="github" pages="6">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1774" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -761,7 +761,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vwiuyCjWitT_h6V22ny0" name="azure purview lifecycle">
-    <mxGraphModel dx="924" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1774" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -792,11 +792,17 @@
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="Ugzs3eVPFd6NRS0o1Gbf-5" target="Ugzs3eVPFd6NRS0o1Gbf-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="Ugzs3eVPFd6NRS0o1Gbf-5" target="Ugzs3eVPFd6NRS0o1Gbf-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="Ugzs3eVPFd6NRS0o1Gbf-5" target="Ugzs3eVPFd6NRS0o1Gbf-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-5" value="Create a Microsoft Purview account" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="-10" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-6" value="Monitor data map billing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="460" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-7" value="Create a collection" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="390" y="50" width="120" height="60" as="geometry" />
@@ -804,14 +810,17 @@
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-8" value="Browse and search the data catalog" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="790" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-9" value="Create a new connection" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="180" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-9" value="approval workflow is triggered" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="Ugzs3eVPFd6NRS0o1Gbf-15" target="Ugzs3eVPFd6NRS0o1Gbf-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-15" value="Create a new glossary term" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="310" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="181" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-16" value="Create a new connection" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="360" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-16" value="import glossary terms" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="181" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

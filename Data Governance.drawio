@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T15:07:06.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="NbrSVPFVAd7KZCoHrYAA" version="18.0.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-15T15:07:32.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="fN6T6PGngsgzlJhSwmtm" version="18.0.4" type="github" pages="7">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1774" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -949,7 +949,7 @@
         <mxCell id="drMdnvKIEnHdDyzp8yIv-1" value="add data assets from a connection to the catalog" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="750" y="220" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sQTS2Jrz7T_0_Ik3C59n-1" value="add a file to the atalog" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="sQTS2Jrz7T_0_Ik3C59n-1" value="add a file to the catalog" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="750" y="260" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sQTS2Jrz7T_0_Ik3C59n-3" value="" style="group" vertex="1" connectable="0" parent="1">

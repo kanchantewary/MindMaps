@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T07:45:18.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="P6zZOj52lkNZtfkTxQOL" version="18.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-15T07:46:32.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="WK16h29FkOlNhN-HtJJQ" version="18.0.4" type="github" pages="6">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1774" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -803,11 +803,14 @@
         <mxCell id="IN-ymfU8B2vPMTuc7Dfp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="Ugzs3eVPFd6NRS0o1Gbf-5" target="IN-ymfU8B2vPMTuc7Dfp-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IN-ymfU8B2vPMTuc7Dfp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="Ugzs3eVPFd6NRS0o1Gbf-5" target="Ugzs3eVPFd6NRS0o1Gbf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-5" value="Create a Microsoft Purview account" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-90" y="127.41147843597919" width="200" height="25.41869441181406" as="geometry" />
         </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-6" value="Monitor data map billing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="700" y="160.31" width="160" height="25.41869441181406" as="geometry" />
+          <mxGeometry x="181" y="-60" width="179" height="25.42" as="geometry" />
         </mxCell>
         <mxCell id="IN-ymfU8B2vPMTuc7Dfp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="Ugzs3eVPFd6NRS0o1Gbf-7" target="IN-ymfU8B2vPMTuc7Dfp-10">
           <mxGeometry relative="1" as="geometry" />

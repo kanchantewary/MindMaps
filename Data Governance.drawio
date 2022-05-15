@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T08:49:37.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="wGu_sFKzcpMe_jToUknT" version="18.0.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-15T13:27:45.545Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="10at8Jblv9bgPE3EJsP8" version="18.0.4" type="github" pages="7">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1774" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -918,10 +918,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZgrUSG9j-onO0S43e0rO" name="wkc lifecycle">
-    <mxGraphModel dx="924" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="924" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cRrWXACRZO_PR62__tZr-1" value="Set up WKC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="200" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T07:02:39.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="S-GeJc8fcpJN5xd8WUrY" version="18.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-15T07:03:49.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="k4MuytA4bDGz3oC0LO48" version="18.0.4" type="github" pages="6">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1774" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -766,22 +766,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-1" value="Register a source" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="181" y="86.72131147540983" width="120" height="27.540983606557376" as="geometry" />
+          <mxGeometry x="181" y="86.72" width="179" height="27.54" as="geometry" />
         </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-2" value="Purview scans the data" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="360" y="86.72131147540983" width="120" height="27.540983606557376" as="geometry" />
+          <mxGeometry x="390" y="86.72131147540983" width="120" height="27.540983606557376" as="geometry" />
         </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=classicThin;endFill=1;" parent="1" source="Ugzs3eVPFd6NRS0o1Gbf-1" target="Ugzs3eVPFd6NRS0o1Gbf-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-3" value="resource sets are detected" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="571" y="72.49180327868852" width="120" height="27.540983606557376" as="geometry" />
+          <mxGeometry x="571" y="72.49" width="189" height="27.54" as="geometry" />
         </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=classicThin;endFill=1;" parent="1" source="Ugzs3eVPFd6NRS0o1Gbf-2" target="Ugzs3eVPFd6NRS0o1Gbf-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-4" value="automatic classification" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="570" y="105.08196721311475" width="120" height="27.540983606557376" as="geometry" />
+          <mxGeometry x="570" y="105.08" width="190" height="27.54" as="geometry" />
         </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=classicThin;endFill=1;" parent="1" source="Ugzs3eVPFd6NRS0o1Gbf-2" target="Ugzs3eVPFd6NRS0o1Gbf-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -799,7 +799,7 @@
           <mxGeometry x="390" y="50" width="120" height="27.540983606557376" as="geometry" />
         </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-8" value="Browse and search the data catalog" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="790" y="40.001311475409835" width="120" height="27.540983606557376" as="geometry" />
+          <mxGeometry x="800" y="72.49" width="200" height="27.54" as="geometry" />
         </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=classicThin;endFill=1;" parent="1" source="Ugzs3eVPFd6NRS0o1Gbf-3" target="Ugzs3eVPFd6NRS0o1Gbf-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -853,13 +853,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-31" value="Create new sensitivity labels" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="181" y="50" width="120" height="27.540983606557376" as="geometry" />
+          <mxGeometry x="181" y="50" width="179" height="27.54" as="geometry" />
         </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;endArrow=classicThin;endFill=1;" parent="1" source="Ugzs3eVPFd6NRS0o1Gbf-5" target="Ugzs3eVPFd6NRS0o1Gbf-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-33" value="automatic labeling" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="740" y="123.44262295081965" width="120" height="27.540983606557376" as="geometry" />
+          <mxGeometry x="800" y="105.08" width="200" height="27.54" as="geometry" />
         </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;endArrow=classicThin;endFill=1;" parent="1" source="Ugzs3eVPFd6NRS0o1Gbf-4" target="Ugzs3eVPFd6NRS0o1Gbf-33" edge="1">
           <mxGeometry relative="1" as="geometry" />

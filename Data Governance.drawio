@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T07:04:21.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="4PrvkYSRIixqoV60zdEj" version="18.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-15T07:04:42.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="cQFN72sYHR-4_xwCru8y" version="18.0.4" type="github" pages="6">
   <diagram id="YdyZfQ_2FX1VXNbwvZFN" name="Azure Purview">
     <mxGraphModel dx="1774" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -790,7 +790,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-5" value="Create a Microsoft Purview account" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="137.21311475409834" width="120" height="27.540983606557376" as="geometry" />
+          <mxGeometry x="-90" y="137.21" width="200" height="27.54" as="geometry" />
         </mxCell>
         <mxCell id="Ugzs3eVPFd6NRS0o1Gbf-6" value="Monitor data map billing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="740" y="160.1639344262295" width="120" height="27.540983606557376" as="geometry" />
